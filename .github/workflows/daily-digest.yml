@@ -31,10 +31,10 @@ jobs:
           DIGEST_RECIPIENTS: ${{ secrets.DIGEST_RECIPIENTS }}
         run: python3 daily_digest.py
 
-      - name: Commit updated today.json
+      - name: Commit updated today.json and digest archive
         run: |
           git config user.name "gmu-experts-bot"
           git config user.email "actions@github.com"
-          git add today.json
+          git add today.json digests/
           git diff --cached --quiet && echo "No changes to commit" || git commit -m "Update today's digest [automated]"
           git push
