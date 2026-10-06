@@ -1,7 +1,161 @@
 {
- "generated_at": "2026-10-06T20:28:39.928599+00:00",
+ "generated_at": "2026-10-06T20:39:42.975933+00:00",
  "headline_count": 18,
  "items": [
+  {
+   "title": "Houseplant hacks: Are windowsills too cold for plants in winter?",
+   "link": "https://www.theguardian.com/lifeandstyle/2026/oct/06/houseplant-hacks-are-windowsills-too-cold-for-plants-in-winter",
+   "tags": [
+    "Congress & Legislation",
+    "Cybersecurity & National Security",
+    "Cybersecurity (Consumer & Corporate)",
+    "Energy Policy"
+   ],
+   "experts": [
+    {
+     "name": "Jaffer, Jamil",
+     "title": "Assistant Professor of Law; Founder and Executive Director",
+     "college": "Law",
+     "tier": "Primary",
+     "email": "jjaffer@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n"
+    },
+    {
+     "name": "Gao, Lei",
+     "title": "Associate Professor of Finance",
+     "college": "Business",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null
+    },
+    {
+     "name": "Albanese, Massimiliano",
+     "title": "Associate Professor",
+     "college": "Engineering & Computing",
+     "tier": "Primary",
+     "email": "malbanes@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/malbanes"
+    },
+    {
+     "name": "Ateniese, Giuseppe",
+     "title": "Professor",
+     "college": "Engineering & Computing",
+     "tier": "Primary",
+     "email": "ateniese@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/ateniese"
+    },
+    {
+     "name": "Moran, Jeffrey",
+     "title": "Assistant Professor",
+     "college": "Engineering & Computing",
+     "tier": "Primary",
+     "email": "jmoran23@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/jmoran23"
+    }
+   ]
+  },
+  {
+   "title": "South Korea Investigates Possible Use of A.I. in Hackings on Its Banks",
+   "link": "https://www.nytimes.com/2026/10/06/world/asia/south-korea-banks-hacked-ai.html",
+   "tags": [
+    "Consumer Finance & Banking",
+    "Cybersecurity & National Security",
+    "Cybersecurity (Consumer & Corporate)"
+   ],
+   "experts": [
+    {
+     "name": "Gao, Lei",
+     "title": "Associate Professor of Finance",
+     "college": "Business",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null
+    },
+    {
+     "name": "Horstmeyer, Derek",
+     "title": "Instructional Professor of Finance",
+     "college": "Business",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null
+    },
+    {
+     "name": "Li, Jiasun",
+     "title": "Associate Professor of Finance",
+     "college": "Business",
+     "tier": "Primary",
+     "email": "jli29@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/jli29"
+    },
+    {
+     "name": "Petryk, Mariia",
+     "title": "Assistant Professor of Information Systems and Operations Management",
+     "college": "Business",
+     "tier": "Primary",
+     "email": "mpetryk@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/mpetryk"
+    },
+    {
+     "name": "Pilloff, Steven",
+     "title": "Instructional Professor of Finance",
+     "college": "Business",
+     "tier": "Primary",
+     "email": "spilloff@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/spilloff"
+    }
+   ]
+  },
+  {
+   "title": "The Hidden Policies That Power China\u2019s Export Boom",
+   "link": "https://www.nytimes.com/2026/10/06/business/china-exports-currency.html",
+   "tags": [
+    "Criminal Justice & Policing",
+    "China & U.S.-China Relations",
+    "Trade"
+   ],
+   "experts": [
+    {
+     "name": "Druehl, Cheryl T.",
+     "title": "Senior Associate Dean",
+     "college": "Business",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null
+    },
+    {
+     "name": "Huang, Liling",
+     "title": "Associate Professor",
+     "college": "Engineering & Computing",
+     "tier": "Primary",
+     "email": "lhuang20@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/lhuang20"
+    },
+    {
+     "name": "Boudreaux, Donald J.",
+     "title": "Professor",
+     "college": "Humanities & Social Sciences",
+     "tier": "Primary",
+     "email": "dboudrea@gmu.edu",
+     "profile_url": "https://economics.gmu.edu/people/dboudrea"
+    },
+    {
+     "name": "Gill, Charlotte",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "tier": "Primary",
+     "email": "cgill9@gmu.edu",
+     "profile_url": "https://cls.gmu.edu/people/cgill9"
+    },
+    {
+     "name": "Lucia Liu, Huwy-min",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://soan.gmu.edu/people/hliu27"
+    }
+   ]
+  },
   {
    "title": "As Spain Heads Into a Snap Election, S\u00e1nchez Turns an Eviction Into a Campaign Cause",
    "link": "https://www.nytimes.com/2026/10/06/world/europe/pedro-sanchez-spain-housing-election.html",
@@ -50,6 +204,159 @@
      "tier": "Primary",
      "email": "gchesler@gmu.edu",
      "profile_url": "https://wmst.gmu.edu/people/gchesler"
+    }
+   ]
+  },
+  {
+   "title": "\u2018A new kind of cyber incident\u2019: OpenAI apologizes for the Australia Medicare hack.",
+   "link": "https://www.nytimes.com/live/2026/10/05/world/openai-australia-hearing/a-new-kind-of-cyber-incident-openai-apologizes-for-the-australia-medicare-hack",
+   "tags": [
+    "Cybersecurity & National Security",
+    "Cybersecurity (Consumer & Corporate)",
+    "Healthcare Policy & Insurance"
+   ],
+   "experts": [
+    {
+     "name": "Albanese, Massimiliano",
+     "title": "Associate Professor",
+     "college": "Engineering & Computing",
+     "tier": "Primary",
+     "email": "malbanes@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/malbanes"
+    },
+    {
+     "name": "Ateniese, Giuseppe",
+     "title": "Professor",
+     "college": "Engineering & Computing",
+     "tier": "Primary",
+     "email": "ateniese@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/ateniese"
+    },
+    {
+     "name": "Dalal, Reeshad S.",
+     "title": "Professor of Psychology",
+     "college": "Humanities & Social Sciences",
+     "tier": "Primary",
+     "email": "rdalal@gmu.edu",
+     "profile_url": "https://psychology.gmu.edu/people/rdalal"
+    },
+    {
+     "name": "Jaffer, Jamil",
+     "title": "Assistant Professor of Law; Founder and Executive Director",
+     "college": "Law",
+     "tier": "Primary",
+     "email": "jjaffer@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n"
+    },
+    {
+     "name": "Anand, Priyanka",
+     "title": "Associate Professor",
+     "college": "Public Health",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://publichealth.gmu.edu/profiles/panand4"
+    }
+   ]
+  },
+  {
+   "title": "Russia Moves to Tamp Down Rumors About Plague Outbreak in Siberia",
+   "link": "https://www.nytimes.com/2026/10/05/world/europe/russia-plague-siberia.html",
+   "tags": [
+    "Public Health & Pandemic Preparedness",
+    "Russia & Ukraine",
+    "Infectious Disease & Vaccines"
+   ],
+   "experts": [
+    {
+     "name": "Lawrence, Heidi",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://english.gmu.edu/people/hlawren2"
+    },
+    {
+     "name": "Gao, Lei",
+     "title": "Associate Professor of Finance",
+     "college": "Business",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null
+    },
+    {
+     "name": "Greenwood, Brad",
+     "title": "Professor of Information Systems and Operations Management",
+     "college": "Business",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null
+    },
+    {
+     "name": "Petryk, Mariia",
+     "title": "Assistant Professor of Information Systems and Operations Management",
+     "college": "Business",
+     "tier": "Primary",
+     "email": "mpetryk@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/mpetryk"
+    },
+    {
+     "name": "Lybarger, Kevin",
+     "title": "Assistant Professor",
+     "college": "Engineering & Computing",
+     "tier": "Primary",
+     "email": "klybarge@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/klybarge"
+    }
+   ]
+  },
+  {
+   "title": "Plague outbreak? Russian lab worker dies in Siberia - The Latest",
+   "link": "https://www.theguardian.com/news/video/2026/oct/06/plague-outbreak-russian-lab-worker-dies-in-siberia-the-latest",
+   "tags": [
+    "Public Health & Pandemic Preparedness",
+    "Russia & Ukraine",
+    "Infectious Disease & Vaccines"
+   ],
+   "experts": [
+    {
+     "name": "Lawrence, Heidi",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://english.gmu.edu/people/hlawren2"
+    },
+    {
+     "name": "Gao, Lei",
+     "title": "Associate Professor of Finance",
+     "college": "Business",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null
+    },
+    {
+     "name": "Greenwood, Brad",
+     "title": "Professor of Information Systems and Operations Management",
+     "college": "Business",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null
+    },
+    {
+     "name": "Petryk, Mariia",
+     "title": "Assistant Professor of Information Systems and Operations Management",
+     "college": "Business",
+     "tier": "Primary",
+     "email": "mpetryk@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/mpetryk"
+    },
+    {
+     "name": "Lybarger, Kevin",
+     "title": "Assistant Professor",
+     "college": "Engineering & Computing",
+     "tier": "Primary",
+     "email": "klybarge@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/klybarge"
     }
    ]
   },
@@ -105,14 +412,22 @@
    ]
   },
   {
-   "title": "Watch: How Spain's housing crisis has resulted in an early general election",
-   "link": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
+   "title": "Russian researcher's mystery death could be \u2018far worse\u2019 than the plague, former senior Trump official warns",
+   "link": "https://www.foxnews.com/politics/russian-researchers-mystery-death-could-be-far-worse-than-plague-former-senior-trump-official-warns",
    "tags": [
-    "Elections & Voting",
-    "Housing & Real Estate",
-    "Terrorism & Counterterrorism"
+    "Russia & Ukraine",
+    "Public Health & Pandemic Preparedness",
+    "Infectious Disease & Vaccines"
    ],
    "experts": [
+    {
+     "name": "Lawrence, Heidi",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://english.gmu.edu/people/hlawren2"
+    },
     {
      "name": "Gao, Lei",
      "title": "Associate Professor of Finance",
@@ -122,86 +437,79 @@
      "profile_url": null
     },
     {
-     "name": "Horstmeyer, Derek",
-     "title": "Instructional Professor of Finance",
+     "name": "Greenwood, Brad",
+     "title": "Professor of Information Systems and Operations Management",
      "college": "Business",
      "tier": "Primary",
      "email": null,
      "profile_url": null
     },
     {
-     "name": "Wentland, Kelly",
-     "title": "Assistant Professor of Accounting",
+     "name": "Petryk, Mariia",
+     "title": "Assistant Professor of Information Systems and Operations Management",
      "college": "Business",
      "tier": "Primary",
-     "email": "kwentlan@gmu.edu",
-     "profile_url": "https://business.gmu.edu/profiles/kwentlan"
+     "email": "mpetryk@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/mpetryk"
     },
     {
-     "name": "Martinelli, Cesar",
-     "title": "Professor",
-     "college": "Humanities & Social Sciences",
+     "name": "Lybarger, Kevin",
+     "title": "Assistant Professor",
+     "college": "Engineering & Computing",
      "tier": "Primary",
-     "email": "cmarti33@gmu.edu",
-     "profile_url": "https://economics.gmu.edu/people/cmarti33"
-    },
-    {
-     "name": "Jaffer, Jamil",
-     "title": "Assistant Professor of Law; Founder and Executive Director",
-     "college": "Law",
-     "tier": "Primary",
-     "email": "jjaffer@gmu.edu",
-     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n"
+     "email": "klybarge@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/klybarge"
     }
    ]
   },
   {
-   "title": "France Student Protests Escalate Amid Fiscal Crisis and an Election",
-   "link": "https://www.nytimes.com/2026/10/06/world/europe/france-protests-social-welfare-election.html",
+   "title": "CDC says \u2018no indication\u2019 of threat to US after suspected Russian plague death",
+   "link": "https://www.washingtonexaminer.com/news/world/4756062/cdc-no-threat-us-marco-rubio-russia-plague-death-igor-kobzev-urges-public-calm/",
    "tags": [
-    "Elections & Voting",
-    "Terrorism & Counterterrorism"
+    "Public Health & Pandemic Preparedness",
+    "Russia & Ukraine",
+    "Infectious Disease & Vaccines"
    ],
    "experts": [
     {
-     "name": "Martinelli, Cesar",
-     "title": "Professor",
+     "name": "Lawrence, Heidi",
+     "title": "Associate Professor",
      "college": "Humanities & Social Sciences",
      "tier": "Primary",
-     "email": "cmarti33@gmu.edu",
-     "profile_url": "https://economics.gmu.edu/people/cmarti33"
+     "email": null,
+     "profile_url": "https://english.gmu.edu/people/hlawren2"
     },
     {
-     "name": "Jaffer, Jamil",
-     "title": "Assistant Professor of Law; Founder and Executive Director",
-     "college": "Law",
+     "name": "Gao, Lei",
+     "title": "Associate Professor of Finance",
+     "college": "Business",
      "tier": "Primary",
-     "email": "jjaffer@gmu.edu",
-     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n"
+     "email": null,
+     "profile_url": null
     },
     {
-     "name": "Rouge (Shedd), Juliette",
-     "title": "Adjunct Faculty, Carter School",
-     "college": "Peace & Conflict",
+     "name": "Greenwood, Brad",
+     "title": "Professor of Information Systems and Operations Management",
+     "college": "Business",
      "tier": "Primary",
-     "email": "jrouge@gmu.edu",
-     "profile_url": "https://carterschool.gmu.edu/profiles/jrouge"
+     "email": null,
+     "profile_url": null
     },
     {
-     "name": "Hirsch, Susan F.",
-     "title": "Professor Emerita of Conflict Resolution and Anthropology, Carter School",
-     "college": "Peace & Conflict",
+     "name": "Petryk, Mariia",
+     "title": "Assistant Professor of Information Systems and Operations Management",
+     "college": "Business",
      "tier": "Primary",
-     "email": "shirsch4@gmu.edu",
-     "profile_url": "https://carterschool.gmu.edu/profiles/shirsch4"
+     "email": "mpetryk@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/mpetryk"
     },
     {
-     "name": "Cengiz, Mahmut",
-     "title": "Research Associate Professor",
-     "college": "Policy & Gov",
+     "name": "Lybarger, Kevin",
+     "title": "Assistant Professor",
+     "college": "Engineering & Computing",
      "tier": "Primary",
-     "email": "mcengiz@gmu.edu",
-     "profile_url": "https://schar.gmu.edu/profiles/gmu.edu/profiles/mcengiz"
+     "email": "klybarge@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/klybarge"
     }
    ]
   },
@@ -356,271 +664,13 @@
    ]
   },
   {
-   "title": "France's police fire tear gas and water cannons as school protests sweep the country",
-   "link": "https://www.npr.org/2026/10/06/nx-s1-5992819/france-student-protests-schools",
+   "title": "Republicans are spending to aid Darline Graham as the South Carolina Senate race tightens.",
+   "link": "https://www.nytimes.com/live/2026/10/06/us/midterms-elections/darline-graham-south-carolina-senate",
    "tags": [
-    "Criminal Justice & Policing",
-    "Energy Policy"
+    "Congress & Legislation",
+    "Race & Racial Justice"
    ],
    "experts": [
-    {
-     "name": "Moran, Jeffrey",
-     "title": "Assistant Professor",
-     "college": "Engineering & Computing",
-     "tier": "Primary",
-     "email": "jmoran23@gmu.edu",
-     "profile_url": "https://cec.gmu.edu/profiles/jmoran23"
-    },
-    {
-     "name": "Gill, Charlotte",
-     "title": "Associate Professor",
-     "college": "Humanities & Social Sciences",
-     "tier": "Primary",
-     "email": "cgill9@gmu.edu",
-     "profile_url": "https://cls.gmu.edu/people/cgill9"
-    },
-    {
-     "name": "Lum, Cynthia",
-     "title": "Distinguished University Professor",
-     "college": "Humanities & Social Sciences",
-     "tier": "Primary",
-     "email": "clum@gmu.edu",
-     "profile_url": "https://cls.gmu.edu/people/clum"
-    },
-    {
-     "name": "Shariati, Auzeen",
-     "title": "Associate Professor",
-     "college": "Humanities & Social Sciences",
-     "tier": "Primary",
-     "email": "asharia@gmu.edu",
-     "profile_url": "https://cls.gmu.edu/people/asharia"
-    },
-    {
-     "name": "Udell, Gwen",
-     "title": "Professor of Practice",
-     "college": "Humanities & Social Sciences",
-     "tier": "Primary",
-     "email": "gudell@gmu.edu",
-     "profile_url": "https://cls.gmu.edu/people/gudell"
-    }
-   ]
-  },
-  {
-   "title": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close",
-   "link": "https://www.npr.org/2026/10/06/g-s1-146626/up-first-newsletter-election-day-skydance-christa-pike-russia-plague-scare",
-   "tags": [
-    "Elections & Voting",
-    "Antitrust & Corporate Law"
-   ],
-   "experts": [
-    {
-     "name": "Horstmeyer, Derek",
-     "title": "Instructional Professor of Finance",
-     "college": "Business",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": null
-    },
-    {
-     "name": "Boudreaux, Donald J.",
-     "title": "Professor",
-     "college": "Humanities & Social Sciences",
-     "tier": "Primary",
-     "email": "dboudrea@gmu.edu",
-     "profile_url": "https://economics.gmu.edu/people/dboudrea"
-    },
-    {
-     "name": "Martinelli, Cesar",
-     "title": "Professor",
-     "college": "Humanities & Social Sciences",
-     "tier": "Primary",
-     "email": "cmarti33@gmu.edu",
-     "profile_url": "https://economics.gmu.edu/people/cmarti33"
-    },
-    {
-     "name": "Mink, Phillip",
-     "title": "Instructional Assistant Professor of Business Foundations",
-     "college": "Business",
-     "tier": "Secondary",
-     "email": "pmink@gmu.edu",
-     "profile_url": "https://business.gmu.edu/profiles/pmink-sbus"
-    },
-    {
-     "name": "Johnson, Devon",
-     "title": "Associate Professor",
-     "college": "Humanities & Social Sciences",
-     "tier": "Secondary",
-     "email": "djohns22@gmu.edu",
-     "profile_url": "https://cls.gmu.edu/people/djohns22"
-    }
-   ]
-  },
-  {
-   "title": "Watch: Police raid on gang behind fake gay asylum claims",
-   "link": "https://www.bbc.co.uk/news/videos/crgj97n2x1j4o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "Immigration Law & Policy",
-    "Criminal Justice & Policing"
-   ],
-   "experts": [
-    {
-     "name": "Stice, Joseph",
-     "title": "Assistant Professor of Accounting",
-     "college": "Business",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://business.gmu.edu/profiles/jstice"
-    },
-    {
-     "name": "Gill, Charlotte",
-     "title": "Associate Professor",
-     "college": "Humanities & Social Sciences",
-     "tier": "Primary",
-     "email": "cgill9@gmu.edu",
-     "profile_url": "https://cls.gmu.edu/people/cgill9"
-    },
-    {
-     "name": "Gilman, Lisa",
-     "title": "Professor",
-     "college": "Humanities & Social Sciences",
-     "tier": "Primary",
-     "email": "lgilman3@gmu.edu",
-     "profile_url": "https://english.gmu.edu/people/lgilman3"
-    },
-    {
-     "name": "Lum, Cynthia",
-     "title": "Distinguished University Professor",
-     "college": "Humanities & Social Sciences",
-     "tier": "Primary",
-     "email": "clum@gmu.edu",
-     "profile_url": "https://cls.gmu.edu/people/clum"
-    },
-    {
-     "name": "Shariati, Auzeen",
-     "title": "Associate Professor",
-     "college": "Humanities & Social Sciences",
-     "tier": "Primary",
-     "email": "asharia@gmu.edu",
-     "profile_url": "https://cls.gmu.edu/people/asharia"
-    }
-   ]
-  },
-  {
-   "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
-   "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "Cybersecurity & National Security",
-    "Cybersecurity (Consumer & Corporate)"
-   ],
-   "experts": [
-    {
-     "name": "Albanese, Massimiliano",
-     "title": "Associate Professor",
-     "college": "Engineering & Computing",
-     "tier": "Primary",
-     "email": "malbanes@gmu.edu",
-     "profile_url": "https://cec.gmu.edu/profiles/malbanes"
-    },
-    {
-     "name": "Ateniese, Giuseppe",
-     "title": "Professor",
-     "college": "Engineering & Computing",
-     "tier": "Primary",
-     "email": "ateniese@gmu.edu",
-     "profile_url": "https://cec.gmu.edu/profiles/ateniese"
-    },
-    {
-     "name": "Dalal, Reeshad S.",
-     "title": "Professor of Psychology",
-     "college": "Humanities & Social Sciences",
-     "tier": "Primary",
-     "email": "rdalal@gmu.edu",
-     "profile_url": "https://psychology.gmu.edu/people/rdalal"
-    },
-    {
-     "name": "Jaffer, Jamil",
-     "title": "Assistant Professor of Law; Founder and Executive Director",
-     "college": "Law",
-     "tier": "Primary",
-     "email": "jjaffer@gmu.edu",
-     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n"
-    },
-    {
-     "name": "Barreto, Alexandre",
-     "title": "Associate Professor",
-     "college": "Engineering & Computing",
-     "tier": "Secondary",
-     "email": "adebarro@gmu.edu",
-     "profile_url": "https://cec.gmu.edu/profiles/adebarro"
-    }
-   ]
-  },
-  {
-   "title": "From films to streaming prices - how the Warner Bros deal could affect you",
-   "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "Film",
-    "TV & Media Studies"
-   ],
-   "experts": [
-    {
-     "name": "Han, Bo",
-     "title": "Associate Professor",
-     "college": "Engineering & Computing",
-     "tier": "Primary",
-     "email": "bohan@gmu.edu",
-     "profile_url": "https://cec.gmu.edu/profiles/bohan"
-    },
-    {
-     "name": "Greenberg, Nathaniel",
-     "title": "Associate Professor of Arabic",
-     "college": "Humanities & Social Sciences",
-     "tier": "Primary",
-     "email": "ngreenbe@gmu.edu",
-     "profile_url": "https://mcl.gmu.edu/people/ngreenbe"
-    },
-    {
-     "name": "Landsberg, Alison",
-     "title": "Professor",
-     "college": "Humanities & Social Sciences",
-     "tier": "Primary",
-     "email": "alandsb1@gmu.edu",
-     "profile_url": "https://historyarthistory.gmu.edu/people/alandsb1"
-    },
-    {
-     "name": "Monea, Alexander",
-     "title": "Associate Professor of Digital Humanities",
-     "college": "Humanities & Social Sciences",
-     "tier": "Primary",
-     "email": "amonea@gmu.edu",
-     "profile_url": "https://english.gmu.edu/people/amonea"
-    },
-    {
-     "name": "Chesler, G.",
-     "title": "Professor, Film and Video Studies (affiliate faculty, Women and Gender Studies)",
-     "college": "Humanities & Social Sciences",
-     "tier": "Primary",
-     "email": "gchesler@gmu.edu",
-     "profile_url": "https://wmst.gmu.edu/people/gchesler"
-    }
-   ]
-  },
-  {
-   "title": "What is pneumonic plague and how does it spread?",
-   "link": "https://www.bbc.co.uk/news/articles/cxdd8035jzn3o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "Public Health & Pandemic Preparedness",
-    "Infectious Disease & Vaccines"
-   ],
-   "experts": [
-    {
-     "name": "Lawrence, Heidi",
-     "title": "Associate Professor",
-     "college": "Humanities & Social Sciences",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://english.gmu.edu/people/hlawren2"
-    },
     {
      "name": "Gao, Lei",
      "title": "Associate Professor of Finance",
@@ -638,29 +688,87 @@
      "profile_url": null
     },
     {
-     "name": "Lybarger, Kevin",
-     "title": "Assistant Professor",
-     "college": "Engineering & Computing",
+     "name": "Harris, Cameron",
+     "title": "Instructional Associate Professor of Business Foundations",
+     "college": "Business",
      "tier": "Primary",
-     "email": "klybarge@gmu.edu",
-     "profile_url": "https://cec.gmu.edu/profiles/klybarge"
+     "email": null,
+     "profile_url": null
     },
     {
-     "name": "Nowzari, Cameron",
-     "title": "Associate Professor",
-     "college": "Engineering & Computing",
+     "name": "Craig, Richard T.",
+     "title": "Associate Professor and",
+     "college": "Humanities & Social Sciences",
      "tier": "Primary",
-     "email": "cnowzari@gmu.edu",
-     "profile_url": "https://cec.gmu.edu/profiles/cnowzari"
+     "email": "rcraig@gmu.edu",
+     "profile_url": "https://communication.gmu.edu/people/rcraig"
+    },
+    {
+     "name": "Genetin-Pilawa, C. Joseph",
+     "title": "Associate Professor of History",
+     "college": "Humanities & Social Sciences",
+     "tier": "Primary",
+     "email": "cgenetin@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/cgenetin"
     }
    ]
   },
   {
-   "title": "Paramount takes over Warner Bros in $110bn Hollywood merger",
-   "link": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss",
+   "title": "Biden-Era Memo on Covid and Schools Set Off Dispute in Justice Dept.",
+   "link": "https://www.nytimes.com/2026/10/05/us/politics/garland-memo-covid-schools.html",
+   "tags": [
+    "Supreme Court & Constitutional Law",
+    "Infectious Disease & Vaccines"
+   ],
+   "experts": [
+    {
+     "name": "Lawrence, Heidi",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://english.gmu.edu/people/hlawren2"
+    },
+    {
+     "name": "Rupp, Deborah",
+     "title": "Professor of Psychology",
+     "college": "Humanities & Social Sciences",
+     "tier": "Primary",
+     "email": "drupp2@gmu.edu",
+     "profile_url": "https://psychology.gmu.edu/people/drupp2"
+    },
+    {
+     "name": "Poapst, Jackie",
+     "title": "Warren D. Decker Director of Debate",
+     "college": "Humanities & Social Sciences",
+     "tier": "Primary",
+     "email": "jpoapst@gmu.edu",
+     "profile_url": "https://communication.gmu.edu/people/jpoapst"
+    },
+    {
+     "name": "Alvar\u00e9, Helen",
+     "title": "Robert A. Levy Endowed Chair in Law and Liberty",
+     "college": "Law",
+     "tier": "Primary",
+     "email": "halvare@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/alvare_helen"
+    },
+    {
+     "name": "Kontorovich, Eugene",
+     "title": "Professor of Law; Executive Director",
+     "college": "Law",
+     "tier": "Primary",
+     "email": "ekontoro@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/kontorovich_eugene"
+    }
+   ]
+  },
+  {
+   "title": "Paramount Closes Merger With Warner Bros. Discovery to Form Skydance",
+   "link": "https://www.nytimes.com/2026/10/06/business/media/paramount-warner-bros-discovery-skydance.html",
    "tags": [
     "Antitrust & Corporate Law",
-    "Film"
+    "Performing Arts"
    ],
    "experts": [
     {
@@ -672,14 +780,6 @@
      "profile_url": null
     },
     {
-     "name": "Han, Bo",
-     "title": "Associate Professor",
-     "college": "Engineering & Computing",
-     "tier": "Primary",
-     "email": "bohan@gmu.edu",
-     "profile_url": "https://cec.gmu.edu/profiles/bohan"
-    },
-    {
      "name": "Boudreaux, Donald J.",
      "title": "Professor",
      "college": "Humanities & Social Sciences",
@@ -688,219 +788,128 @@
      "profile_url": "https://economics.gmu.edu/people/dboudrea"
     },
     {
-     "name": "Greenberg, Nathaniel",
-     "title": "Associate Professor of Arabic",
-     "college": "Humanities & Social Sciences",
-     "tier": "Primary",
-     "email": "ngreenbe@gmu.edu",
-     "profile_url": "https://mcl.gmu.edu/people/ngreenbe"
-    },
-    {
-     "name": "Landsberg, Alison",
+     "name": "Gilman, Lisa",
      "title": "Professor",
      "college": "Humanities & Social Sciences",
      "tier": "Primary",
-     "email": "alandsb1@gmu.edu",
-     "profile_url": "https://historyarthistory.gmu.edu/people/alandsb1"
+     "email": "lgilman3@gmu.edu",
+     "profile_url": "https://english.gmu.edu/people/lgilman3"
+    },
+    {
+     "name": "Rippy, Marguerite",
+     "title": "Associate Dean of Graduate Academic Affairs",
+     "college": "Humanities & Social Sciences",
+     "tier": "Primary",
+     "email": "mrippy2@gmu.edu",
+     "profile_url": "https://english.gmu.edu/people/mrippy2"
+    },
+    {
+     "name": "Smith, Suzanne E.",
+     "title": "Professor of History",
+     "college": "Humanities & Social Sciences",
+     "tier": "Primary",
+     "email": "smisuze@gmu.edu",
+     "profile_url": "https://aaas.gmu.edu/people/smisuze"
     }
    ]
   },
   {
-   "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-   "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+   "title": "Supreme Court Tangles Over a Major Climate Change Case",
+   "link": "https://www.nytimes.com/2026/10/05/us/politics/supreme-court-climate-change-oil.html",
    "tags": [
-    "Congress & Legislation",
-    "Presidency & Executive Branch"
+    "Supreme Court & Constitutional Law",
+    "Climate Change & Policy"
    ],
    "experts": [
     {
-     "name": "Jaffer, Jamil",
-     "title": "Assistant Professor of Law; Founder and Executive Director",
-     "college": "Law",
+     "name": "Craig, Richard T.",
+     "title": "Associate Professor and",
+     "college": "Humanities & Social Sciences",
      "tier": "Primary",
-     "email": "jjaffer@gmu.edu",
-     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n"
+     "email": "rcraig@gmu.edu",
+     "profile_url": "https://communication.gmu.edu/people/rcraig"
     },
     {
-     "name": "Gao, Lei",
-     "title": "Associate Professor of Finance",
+     "name": "Rupp, Deborah",
+     "title": "Professor of Psychology",
+     "college": "Humanities & Social Sciences",
+     "tier": "Primary",
+     "email": "drupp2@gmu.edu",
+     "profile_url": "https://psychology.gmu.edu/people/drupp2"
+    },
+    {
+     "name": "Kotcher, John",
+     "title": "Research Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "tier": "Primary",
+     "email": "jkotcher@gmu.edu",
+     "profile_url": "https://communication.gmu.edu/people/jkotcher"
+    },
+    {
+     "name": "Maibach, Edward Wile",
+     "title": "Distinguished University Professor (Emeritus)",
+     "college": "Humanities & Social Sciences",
+     "tier": "Primary",
+     "email": "emaibach@gmu.edu",
+     "profile_url": "https://communication.gmu.edu/people/emaibach"
+    },
+    {
+     "name": "Poapst, Jackie",
+     "title": "Warren D. Decker Director of Debate",
+     "college": "Humanities & Social Sciences",
+     "tier": "Primary",
+     "email": "jpoapst@gmu.edu",
+     "profile_url": "https://communication.gmu.edu/people/jpoapst"
+    }
+   ]
+  },
+  {
+   "title": "Dying Patients Are Inundated by Misinformation. My Dad Was One of Them.",
+   "link": "https://www.nytimes.com/2026/10/04/magazine/alternative-cancer-clinics-treatment-father.html",
+   "tags": [
+    "Social Media & Disinformation",
+    "Misinformation & Media Literacy"
+   ],
+   "experts": [
+    {
+     "name": "Plotnick, Jeremy",
+     "title": "Instructional Assistant Professor of Business Foundations",
+     "college": "Business",
+     "tier": "Primary",
+     "email": "jplotnic@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/jplotnic"
+    },
+    {
+     "name": "Kim, Sojung",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://communication.gmu.edu/people/skim205"
+    },
+    {
+     "name": "Greenwood, Brad",
+     "title": "Professor of Information Systems and Operations Management",
      "college": "Business",
      "tier": "Primary",
      "email": null,
      "profile_url": null
     },
     {
-     "name": "Genetin-Pilawa, C. Joseph",
-     "title": "Associate Professor of History",
-     "college": "Humanities & Social Sciences",
-     "tier": "Primary",
-     "email": "cgenetin@gmu.edu",
-     "profile_url": "https://historyarthistory.gmu.edu/people/cgenetin"
-    },
-    {
-     "name": "Jones, Garett",
-     "title": "Professor",
-     "college": "Humanities & Social Sciences",
-     "tier": "Primary",
-     "email": "gjonesb@gmu.edu",
-     "profile_url": "https://economics.gmu.edu/people/gjonesb"
-    },
-    {
-     "name": "Shank, Michael",
-     "title": "Adjunct Faculty, Carter School",
-     "college": "Peace & Conflict",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://carterschool.gmu.edu/profiles/mshank"
-    }
-   ]
-  },
-  {
-   "title": "OpenAI admits response to Australian government hacks 'not good enough'",
-   "link": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "Cybersecurity & National Security",
-    "Cybersecurity (Consumer & Corporate)"
-   ],
-   "experts": [
-    {
-     "name": "Albanese, Massimiliano",
-     "title": "Associate Professor",
-     "college": "Engineering & Computing",
-     "tier": "Primary",
-     "email": "malbanes@gmu.edu",
-     "profile_url": "https://cec.gmu.edu/profiles/malbanes"
-    },
-    {
-     "name": "Ateniese, Giuseppe",
-     "title": "Professor",
-     "college": "Engineering & Computing",
-     "tier": "Primary",
-     "email": "ateniese@gmu.edu",
-     "profile_url": "https://cec.gmu.edu/profiles/ateniese"
-    },
-    {
-     "name": "Dalal, Reeshad S.",
-     "title": "Professor of Psychology",
-     "college": "Humanities & Social Sciences",
-     "tier": "Primary",
-     "email": "rdalal@gmu.edu",
-     "profile_url": "https://psychology.gmu.edu/people/rdalal"
-    },
-    {
-     "name": "Jaffer, Jamil",
-     "title": "Assistant Professor of Law; Founder and Executive Director",
-     "college": "Law",
-     "tier": "Primary",
-     "email": "jjaffer@gmu.edu",
-     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n"
-    },
-    {
-     "name": "Barreto, Alexandre",
-     "title": "Associate Professor",
-     "college": "Engineering & Computing",
-     "tier": "Secondary",
-     "email": "adebarro@gmu.edu",
-     "profile_url": "https://cec.gmu.edu/profiles/adebarro"
-    }
-   ]
-  },
-  {
-   "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
-   "link": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "Russia & Ukraine",
-    "Autonomous Systems & Robotics"
-   ],
-   "experts": [
-    {
-     "name": "Petryk, Mariia",
-     "title": "Assistant Professor of Information Systems and Operations Management",
-     "college": "Business",
-     "tier": "Primary",
-     "email": "mpetryk@gmu.edu",
-     "profile_url": "https://business.gmu.edu/profiles/mpetryk"
-    },
-    {
-     "name": "Gebril, Mohamed",
-     "title": "Associate Professor",
-     "college": "Engineering & Computing",
-     "tier": "Primary",
-     "email": "mgebril@gmu.edu",
-     "profile_url": "https://cec.gmu.edu/profiles/mgebril"
-    },
-    {
-     "name": "Lattanzi, David A.",
-     "title": "Associate Professor",
-     "college": "Engineering & Computing",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://cec.gmu.edu/profiles/dlattanz"
-    },
-    {
-     "name": "Nowzari, Cameron",
-     "title": "Associate Professor",
-     "college": "Engineering & Computing",
-     "tier": "Primary",
-     "email": "cnowzari@gmu.edu",
-     "profile_url": "https://cec.gmu.edu/profiles/cnowzari"
-    },
-    {
-     "name": "Shishika, Daigo",
+     "name": "McDonald, Nora",
      "title": "Assistant Professor",
      "college": "Engineering & Computing",
      "tier": "Primary",
-     "email": "dshishik@gmu.edu",
-     "profile_url": "https://cec.gmu.edu/profiles/dshishik"
-    }
-   ]
-  },
-  {
-   "title": "How to Destroy a Reputation in Hollywood, as Told in 5 Women\u2019s Lawsuits",
-   "link": "https://www.nytimes.com/2026/10/06/nyregion/smear-campaigns-blake-lively-bryan-freedman.html",
-   "tags": [
-    "Film"
-   ],
-   "experts": [
+     "email": "nmcdona4@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/nmcdona4"
+    },
     {
-     "name": "Han, Bo",
+     "name": "Motti, Vivian G.",
      "title": "Associate Professor",
      "college": "Engineering & Computing",
      "tier": "Primary",
-     "email": "bohan@gmu.edu",
-     "profile_url": "https://cec.gmu.edu/profiles/bohan"
-    },
-    {
-     "name": "Greenberg, Nathaniel",
-     "title": "Associate Professor of Arabic",
-     "college": "Humanities & Social Sciences",
-     "tier": "Primary",
-     "email": "ngreenbe@gmu.edu",
-     "profile_url": "https://mcl.gmu.edu/people/ngreenbe"
-    },
-    {
-     "name": "Landsberg, Alison",
-     "title": "Professor",
-     "college": "Humanities & Social Sciences",
-     "tier": "Primary",
-     "email": "alandsb1@gmu.edu",
-     "profile_url": "https://historyarthistory.gmu.edu/people/alandsb1"
-    },
-    {
-     "name": "Monea, Alexander",
-     "title": "Associate Professor of Digital Humanities",
-     "college": "Humanities & Social Sciences",
-     "tier": "Primary",
-     "email": "amonea@gmu.edu",
-     "profile_url": "https://english.gmu.edu/people/amonea"
-    },
-    {
-     "name": "Chesler, G.",
-     "title": "Professor, Film and Video Studies (affiliate faculty, Women and Gender Studies)",
-     "college": "Humanities & Social Sciences",
-     "tier": "Primary",
-     "email": "gchesler@gmu.edu",
-     "profile_url": "https://wmst.gmu.edu/people/gchesler"
+     "email": null,
+     "profile_url": "https://cec.gmu.edu/profiles/vmotti"
     }
    ]
   }
