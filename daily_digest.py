@@ -76,6 +76,110 @@ DATA_DIR = os.path.dirname(os.path.abspath(__file__))
 EXPERTS_PATH = os.path.join(DATA_DIR, "experts_data.json")
 TAXONOMY_PATH = os.path.join(DATA_DIR, "taxonomy_full.json")
 OUT_JSON_PATH = os.path.join(DATA_DIR, "today.json")
+ARCHIVE_DIR = os.path.join(DATA_DIR, "digests")
+
+# Groups every Issue Tag into a broad category, purely for readability when
+# rendering the email (and the Past Digests view) — doesn't affect matching.
+TAG_CATEGORY = {
+    # Politics & Government
+    "Elections & Voting": "Politics & Government",
+    "Congress & Legislation": "Politics & Government",
+    "Presidency & Executive Branch": "Politics & Government",
+    "State & Local Government": "Politics & Government",
+    "Political Polarization & Extremism": "Politics & Government",
+    "Campaigns & Political Communication": "Politics & Government",
+    "Supreme Court & Constitutional Law": "Politics & Government",
+    "Free Speech / First Amendment": "Politics & Government",
+    "Criminal Justice & Policing": "Politics & Government",
+    "Immigration Law & Policy": "Politics & Government",
+    "Gun Policy & Second Amendment": "Politics & Government",
+    "Reproductive Rights": "Politics & Government",
+    "Privacy & Surveillance Law": "Politics & Government",
+    "Civil Rights & Discrimination": "Politics & Government",
+
+    # Economy & Business
+    "Antitrust & Corporate Law": "Economy & Business",
+    "Labor Market & Employment": "Economy & Business",
+    "Big Tech & Antitrust": "Economy & Business",
+    "Consumer Finance & Banking": "Economy & Business",
+    "Housing & Real Estate": "Economy & Business",
+    "Corporate Governance & Leadership": "Economy & Business",
+    "Small Business & Entrepreneurship": "Economy & Business",
+    "Trade": "Economy & Business",
+    "Tariffs & Globalization": "Economy & Business",
+    "Inflation": "Economy & Business",
+    "Fed & Monetary Policy": "Economy & Business",
+
+    # Foreign Policy & Security
+    "China & U.S.-China Relations": "Foreign Policy & Security",
+    "Russia & Ukraine": "Foreign Policy & Security",
+    "Middle East": "Foreign Policy & Security",
+    "Terrorism & Counterterrorism": "Foreign Policy & Security",
+    "Cybersecurity & National Security": "Foreign Policy & Security",
+    "Defense & Military Policy": "Foreign Policy & Security",
+    "Global Conflict Resolution & Peacebuilding": "Foreign Policy & Security",
+    "NATO": "Foreign Policy & Security",
+    "Alliances & Multilateralism": "Foreign Policy & Security",
+
+    # Technology
+    "Artificial Intelligence Policy & Ethics": "Technology",
+    "Cybersecurity (Consumer & Corporate)": "Technology",
+    "Social Media & Disinformation": "Technology",
+    "Data Privacy": "Technology",
+    "Autonomous Systems & Robotics": "Technology",
+    "Space Policy & Exploration": "Technology",
+    "Misinformation & Media Literacy": "Technology",
+
+    # Health & Science
+    "Public Health & Pandemic Preparedness": "Health & Science",
+    "Mental Health": "Health & Science",
+    "Healthcare Policy & Insurance": "Health & Science",
+    "Nutrition & Obesity": "Health & Science",
+    "Infectious Disease & Vaccines": "Health & Science",
+    "Aging & Long-Term Care": "Health & Science",
+    "Reproductive Health": "Health & Science",
+
+    # Climate & Environment
+    "Climate Change & Policy": "Climate & Environment",
+    "Extreme Weather & Natural Disasters": "Climate & Environment",
+    "Energy Policy": "Climate & Environment",
+    "Conservation & Biodiversity": "Climate & Environment",
+
+    # Education
+    "Higher Education Policy & Affordability": "Education",
+    "K-12 Education & School Choice": "Education",
+    "Student Debt": "Education",
+    "Campus Free Speech & Higher Ed Culture Wars": "Education",
+
+    # Social Issues & Culture
+    "Immigration & Demographics": "Social Issues & Culture",
+    "Race & Racial Justice": "Social Issues & Culture",
+    "Gender & Women's Issues": "Social Issues & Culture",
+    "LGBTQ+ Issues": "Social Issues & Culture",
+    "Religion & Society": "Social Issues & Culture",
+
+    # Arts, Media & Culture
+    "Video Games & Esports": "Arts, Media & Culture",
+    "Performing Arts": "Arts, Media & Culture",
+    "Film": "Arts, Media & Culture",
+    "TV & Media Studies": "Arts, Media & Culture",
+}
+
+# Fixed display order for the category groups (anything unmapped falls into "Other")
+CATEGORY_ORDER = [
+    "Politics & Government", "Economy & Business", "Foreign Policy & Security",
+    "Technology", "Health & Science", "Climate & Environment", "Education",
+    "Social Issues & Culture", "Arts, Media & Culture", "Other",
+]
+
+
+def category_for_item(item):
+    """An item can match multiple tags in different categories; use the
+    top-scoring (first) matched tag's category as the item's primary bucket."""
+    for tag in item["tags"]:
+        if tag in TAG_CATEGORY:
+            return TAG_CATEGORY[tag]
+    return "Other"
 
 GMAIL_USER = os.environ.get("GMAIL_USER", "")
 GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "")
@@ -247,66 +351,111 @@ def build_digest():
     if len(final) < MIN_HEADLINES_WARN:
         print(f"  [warn] only {len(final)} headlines matched an expert tag today", file=sys.stderr)
 
+    items_out = []
+    for item in final:
+        out = {
+            "title": item["title"],
+            "link": item["link"],
+            "tags": item["matched_tags"],
+            "experts": [
+                {
+                    "name": e["name"],
+                    "title": e.get("title"),
+                    "college": e.get("college"),
+                    "credentials": e.get("credentials"),
+                    "tier": e.get("tier"),
+                    "email": e.get("email"),
+                    "profile_url": e.get("profile_url"),
+                }
+                for e in item["experts"]
+            ],
+        }
+        out["category"] = category_for_item(out)
+        items_out.append(out)
+
     digest = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
-        "headline_count": len(final),
-        "items": [
-            {
-                "title": item["title"],
-                "link": item["link"],
-                "tags": item["matched_tags"],
-                "experts": [
-                    {
-                        "name": e["name"],
-                        "title": e.get("title"),
-                        "college": e.get("college"),
-                        "tier": e.get("tier"),
-                        "email": e.get("email"),
-                        "profile_url": e.get("profile_url"),
-                    }
-                    for e in item["experts"]
-                ],
-            }
-            for item in final
-        ],
+        "headline_count": len(items_out),
+        "summary": build_summary_line(items_out),
+        "items": items_out,
     }
     return digest
+
+
+def build_summary_line(items):
+    """Rule-based (no external AI call) one-line summary: counts + which
+    categories dominated today, so the email has something to skim before
+    diving into the full list."""
+    if not items:
+        return "No headlines matched a GMU expert tag in the last 24 hours."
+    from collections import Counter
+    cat_counts = Counter(item["category"] for item in items)
+    top_cats = [c for c, _ in cat_counts.most_common(3)]
+    n = len(items)
+    plural = "story" if n == 1 else "stories"
+    if len(top_cats) == 1:
+        lead = top_cats[0]
+    elif len(top_cats) == 2:
+        lead = f"{top_cats[0]} and {top_cats[1]}"
+    else:
+        lead = f"{top_cats[0]}, {top_cats[1]}, and {top_cats[2]}"
+    return f"{n} {plural} today, led by coverage of {lead}."
 
 
 # ---------------------------------------------------------------------------
 # Rendering
 # ---------------------------------------------------------------------------
 
-def render_email_html(digest):
-    date_str = datetime.now(timezone.utc).strftime("%A, %B %d, %Y")
-    rows = []
-    for item in digest["items"]:
-        experts_html = ""
-        for e in item["experts"]:
-            name_html = (
-                f'<a href="{e["profile_url"]}" style="color:#006633;text-decoration:none;">{e["name"]}</a>'
-                if e.get("profile_url") else e["name"]
-            )
-            email_html = f' &middot; <a href="mailto:{e["email"]}" style="color:#6b6b6b;">{e["email"]}</a>' if e.get("email") else ""
-            tier_color = "#006633" if e.get("tier") == "Primary" else "#7a7a7a"
-            experts_html += (
-                f'<div style="padding:4px 0;font-size:13px;">'
-                f'<span style="background:{tier_color};color:white;font-size:10px;font-weight:700;'
-                f'padding:2px 7px;border-radius:999px;text-transform:uppercase;margin-right:6px;">{e.get("tier","")}</span>'
-                f'<strong>{name_html}</strong> &mdash; {e.get("title") or ""} ({e.get("college") or ""}){email_html}'
-                f'</div>'
-            )
-        tags_html = " &middot; ".join(item["tags"])
-        link_html = f'<a href="{item["link"]}" style="color:#1a1a1a;text-decoration:none;">{item["title"]}</a>' if item["link"] else item["title"]
-        rows.append(
-            f'<div style="padding:16px 0;border-bottom:1px solid #e2e2e2;">'
-            f'<div style="font-size:16px;font-weight:700;margin-bottom:4px;">{link_html}</div>'
-            f'<div style="font-size:12px;color:#6b6b6b;margin-bottom:8px;">{tags_html}</div>'
-            f'{experts_html}'
+def _render_item(item):
+    experts_html = ""
+    for e in item["experts"]:
+        name_html = (
+            f'<a href="{e["profile_url"]}" style="color:#006633;text-decoration:none;">{e["name"]}</a>'
+            if e.get("profile_url") else e["name"]
+        )
+        cred_html = f', {e["credentials"]}' if e.get("credentials") else ""
+        email_html = f' &middot; <a href="mailto:{e["email"]}" style="color:#6b6b6b;">{e["email"]}</a>' if e.get("email") else ""
+        tier_color = "#006633" if e.get("tier") == "Primary" else "#7a7a7a"
+        experts_html += (
+            f'<div style="padding:4px 0;font-size:13px;">'
+            f'<span style="background:{tier_color};color:white;font-size:10px;font-weight:700;'
+            f'padding:2px 7px;border-radius:999px;text-transform:uppercase;margin-right:6px;">{e.get("tier","")}</span>'
+            f'<strong>{name_html}</strong>{cred_html} &mdash; {e.get("title") or ""} ({e.get("college") or ""}){email_html}'
             f'</div>'
         )
+    tags_html = " &middot; ".join(item["tags"])
+    link_html = f'<a href="{item["link"]}" style="color:#1a1a1a;text-decoration:none;">{item["title"]}</a>' if item["link"] else item["title"]
+    return (
+        f'<div style="padding:16px 0;border-bottom:1px solid #e2e2e2;">'
+        f'<div style="font-size:16px;font-weight:700;margin-bottom:4px;">{link_html}</div>'
+        f'<div style="font-size:12px;color:#6b6b6b;margin-bottom:8px;">{tags_html}</div>'
+        f'{experts_html}'
+        f'</div>'
+    )
 
-    body = "".join(rows) if rows else '<p style="color:#6b6b6b;">No headlines matched a GMU expert tag today.</p>'
+
+def render_email_html(digest):
+    date_str = datetime.now(timezone.utc).strftime("%A, %B %d, %Y")
+
+    # Group items by category, preserving CATEGORY_ORDER, dropping empty groups.
+    by_cat = {}
+    for item in digest["items"]:
+        by_cat.setdefault(item.get("category", "Other"), []).append(item)
+
+    sections = []
+    for cat in CATEGORY_ORDER:
+        cat_items = by_cat.get(cat)
+        if not cat_items:
+            continue
+        rows = "".join(_render_item(item) for item in cat_items)
+        sections.append(
+            f'<h2 style="font-size:14px;text-transform:uppercase;letter-spacing:0.5px;'
+            f'color:#006633;border-bottom:2px solid #FFCC33;padding-bottom:6px;margin:24px 0 4px;">'
+            f'{cat}</h2>{rows}'
+        )
+
+    body = "".join(sections) if sections else '<p style="color:#6b6b6b;">No headlines matched a GMU expert tag today.</p>'
+    summary = digest.get("summary", "")
 
     return f"""\
 <html><body style="font-family:-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:#f7f7f5;margin:0;padding:0;">
@@ -314,6 +463,9 @@ def render_email_html(digest):
   <div style="background:#006633;color:white;padding:20px 24px;border-radius:10px 10px 0 0;">
     <h1 style="margin:0;font-size:20px;">GMU Experts Daily Digest</h1>
     <p style="margin:4px 0 0;color:#d9f2e4;font-size:13px;">{date_str}</p>
+  </div>
+  <div style="background:#f0f7f2;padding:14px 24px;border-left:1px solid #e2e2e2;border-right:1px solid #e2e2e2;">
+    <p style="margin:0;font-size:14px;color:#1a1a1a;font-style:italic;">{summary}</p>
   </div>
   <div style="background:white;padding:8px 24px 20px;border-radius:0 0 10px 10px;">
     {body}
@@ -346,10 +498,30 @@ def send_email(digest):
     return True
 
 
+def save_archive_copy(digest):
+    os.makedirs(ARCHIVE_DIR, exist_ok=True)
+    date_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    archive_path = os.path.join(ARCHIVE_DIR, f"{date_str}.json")
+    json.dump(digest, open(archive_path, "w"), indent=1)
+    print(f"Archived to {archive_path}")
+
+    # Maintain an index file listing all archived dates, newest first, so the
+    # site's Past Digests view doesn't need to guess filenames or hit GitHub's API.
+    index_path = os.path.join(ARCHIVE_DIR, "index.json")
+    try:
+        dates = json.load(open(index_path))
+    except (FileNotFoundError, json.JSONDecodeError):
+        dates = []
+    if date_str not in dates:
+        dates.insert(0, date_str)
+    json.dump(dates, open(index_path, "w"), indent=1)
+
+
 def main():
     digest = build_digest()
     json.dump(digest, open(OUT_JSON_PATH, "w"), indent=1)
     print(f"Wrote {OUT_JSON_PATH} with {digest['headline_count']} headlines")
+    save_archive_copy(digest)
     send_email(digest)
 
 
