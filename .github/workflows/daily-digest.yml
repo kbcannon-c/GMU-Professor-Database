@@ -1,0 +1,40 @@
+name: GMU Experts Daily Digest
+
+on:
+  schedule:
+    # 11:00 UTC = 7:00am EDT (daylight saving, roughly Mar-Nov) / 6:00am EST the rest of the year.
+    # If you want it locked to exactly 7:00am ET year-round, you'd need two cron lines (one per DST period)
+    # or a timezone-aware scheduler outside of GitHub's native cron. This single line is close enough
+    # for a "scan it with morning coffee" digest and is simplest to maintain.
+    - cron: "0 11 * * *"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab to test
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-send:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run digest script
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          DIGEST_RECIPIENTS: ${{ secrets.DIGEST_RECIPIENTS }}
+        run: python3 daily_digest.py
+
+      - name: Commit updated today.json
+        run: |
+          git config user.name "gmu-experts-bot"
+          git config user.email "actions@github.com"
+          git add today.json
+          git diff --cached --quiet && echo "No changes to commit" || git commit -m "Update today's digest [automated]"
+          git push
