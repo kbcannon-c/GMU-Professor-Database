@@ -11,6 +11,7 @@ Run manually:   python3 daily_digest.py
 Run in CI:      see .github/workflows/daily-digest.yml
 """
 
+import email.utils as emailutils
 import json
 import os
 import re
@@ -19,7 +20,7 @@ import ssl
 import sys
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
@@ -27,11 +28,42 @@ from email.mime.text import MIMEText
 # Config
 # ---------------------------------------------------------------------------
 
+# GUARDRAIL 1 — recency window. Any headline whose published timestamp can't
+# be confirmed to fall within this many hours of "now" is dropped. Items with
+# no parseable date at all are dropped too (treated as "can't verify recency",
+# not "assume it's fine").
+RECENCY_HOURS = 24
+
+# GUARDRAIL 2 — source breadth. General top-of-day feeds, plus targeted
+# category feeds that line up with the Issue Tag taxonomy's subject areas,
+# deliberately spanning outlets rated left-leaning, center, and right-leaning
+# by independent media-bias trackers (AllSides / Ad Fontes), so the digest
+# isn't sourced from one side of the spectrum. Keeping this list grouped and
+# labeled by lean (per those trackers' general consensus, not my own judgment)
+# so it's easy to see the balance at a glance and adjust later.
 RSS_FEEDS = [
+    # --- Left-leaning / left-of-center ---
     "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+    "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
     "https://feeds.npr.org/1001/rss.xml",
+    "https://www.theguardian.com/us/rss",
+
+    # --- Center / international wire-style ---
     "http://feeds.bbci.co.uk/news/rss.xml",
     "http://feeds.bbci.co.uk/news/world/rss.xml",
+    "https://feeds.a.dj.com/rss/RSSWorldNews.xml",       # WSJ World News (news desk, not opinion)
+    "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",     # WSJ Markets/Business
+
+    # --- Right-leaning / right-of-center ---
+    "https://moxie.foxnews.com/google-publisher/latest.xml",
+    "https://www.washingtonexaminer.com/feed",
+
+    # --- Broad daily sweep, not tied to one outlet ---
     "https://news.google.com/rss/search?q=when:24h&hl=en-US&gl=US&ceid=US:en",
 ]
 
@@ -56,30 +88,74 @@ UA = "Mozilla/5.0 (compatible; GMUExpertsDigest/1.0)"
 # RSS fetching (stdlib only, no feedparser dependency)
 # ---------------------------------------------------------------------------
 
-def fetch_feed(url):
+def parse_pubdate(raw_date):
+    """Parse an RSS <pubDate> (RFC 822) or Atom <published>/<updated> (ISO 8601)
+    timestamp into an aware UTC datetime. Returns None if it can't be parsed —
+    callers treat "can't parse" the same as "too old": drop it."""
+    if not raw_date:
+        return None
+    raw_date = raw_date.strip()
+    try:
+        dt = emailutils.parsedate_to_datetime(raw_date)
+        if dt is not None:
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt.astimezone(timezone.utc)
+    except Exception:
+        pass
+    try:
+        iso = raw_date.replace("Z", "+00:00")
+        dt = datetime.fromisoformat(iso)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.astimezone(timezone.utc)
+    except Exception:
+        return None
+
+
+def fetch_feed(url, cutoff):
     try:
         req = urllib.request.Request(url, headers={"User-Agent": UA})
         with urllib.request.urlopen(req, timeout=20) as resp:
             raw = resp.read()
         root = ET.fromstring(raw)
         items = []
+        dropped_no_date = 0
+        dropped_stale = 0
         # RSS 2.0 <item>, Atom <entry>
         for item in root.iter():
             tag = item.tag.split("}")[-1]
             if tag == "item":
                 title_el = item.find("title")
                 link_el = item.find("link")
+                date_el = item.find("pubDate")
                 title = (title_el.text or "").strip() if title_el is not None else ""
                 link = (link_el.text or "").strip() if link_el is not None else ""
-                if title:
-                    items.append({"title": title, "link": link})
+                pub_dt = parse_pubdate(date_el.text if date_el is not None else None)
             elif tag == "entry":
                 title_el = item.find("{http://www.w3.org/2005/Atom}title")
                 link_el = item.find("{http://www.w3.org/2005/Atom}link")
+                date_el = (item.find("{http://www.w3.org/2005/Atom}published")
+                           or item.find("{http://www.w3.org/2005/Atom}updated"))
                 title = (title_el.text or "").strip() if title_el is not None else ""
                 link = link_el.get("href", "") if link_el is not None else ""
-                if title:
-                    items.append({"title": title, "link": link})
+                pub_dt = parse_pubdate(date_el.text if date_el is not None else None)
+            else:
+                continue
+
+            if not title:
+                continue
+            # GUARDRAIL enforcement: no date = can't confirm recency = drop.
+            if pub_dt is None:
+                dropped_no_date += 1
+                continue
+            if pub_dt < cutoff:
+                dropped_stale += 1
+                continue
+            items.append({"title": title, "link": link, "published": pub_dt.isoformat()})
+
+        if dropped_no_date or dropped_stale:
+            print(f"  [{url}] kept {len(items)}, dropped {dropped_no_date} (no date), {dropped_stale} (older than {RECENCY_HOURS}h)")
         return items
     except Exception as e:
         print(f"  [warn] failed to fetch {url}: {e}", file=sys.stderr)
@@ -140,11 +216,14 @@ def build_digest():
     all_tags, keywords = load_taxonomy()
     people = json.load(open(EXPERTS_PATH))
 
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=RECENCY_HOURS)
+    print(f"Recency cutoff: only keeping headlines published after {cutoff.isoformat()} ({RECENCY_HOURS}h window)")
+
     raw_headlines = []
     for feed_url in RSS_FEEDS:
-        raw_headlines.extend(fetch_feed(feed_url))
+        raw_headlines.extend(fetch_feed(feed_url, cutoff))
     raw_headlines = dedupe_headlines(raw_headlines)
-    print(f"Fetched {len(raw_headlines)} unique headlines from {len(RSS_FEEDS)} feeds")
+    print(f"Fetched {len(raw_headlines)} unique headlines within the {RECENCY_HOURS}h window, from {len(RSS_FEEDS)} feeds")
 
     scored_headlines = []
     for h in raw_headlines:
