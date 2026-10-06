@@ -67,10 +67,45 @@ RSS_FEEDS = [
     "https://news.google.com/rss/search?q=when:24h&hl=en-US&gl=US&ceid=US:en",
 ]
 
+# GUARDRAIL 3 — cross-outlet corroboration. A headline only makes the digest
+# if it's been picked up by at least this many DISTINCT outlets. This is what
+# keeps a single-source niche story (a houseplant piece that ran on exactly
+# one site, say) from reaching an expert — one outlet covering something isn't
+# "news that's actually being widely reported," it's just one outlet's pick.
+MIN_SOURCES = 2
+
+# Friendly outlet names for grouping/corroboration counting. Google News is
+# an aggregator, not a single outlet — it's handled separately below by
+# reading each item's actual <source> tag instead of a static label.
+SOURCE_LABELS = {
+    "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml": "The New York Times",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml": "The New York Times",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml": "The New York Times",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml": "The New York Times",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml": "The New York Times",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml": "The New York Times",
+    "https://rss.nytimes.com/services/xml/rss/nyt/World.xml": "The New York Times",
+    "https://feeds.npr.org/1001/rss.xml": "NPR",
+    "https://www.theguardian.com/us/rss": "The Guardian",
+    "http://feeds.bbci.co.uk/news/rss.xml": "BBC",
+    "http://feeds.bbci.co.uk/news/world/rss.xml": "BBC",
+    "https://feeds.a.dj.com/rss/RSSWorldNews.xml": "The Wall Street Journal",
+    "https://feeds.a.dj.com/rss/RSSMarketsMain.xml": "The Wall Street Journal",
+    "https://moxie.foxnews.com/google-publisher/latest.xml": "Fox News",
+    "https://www.washingtonexaminer.com/feed": "Washington Examiner",
+}
+
 MAX_HEADLINES = 18
 MIN_HEADLINES_WARN = 6
 EXPERTS_PER_HEADLINE = 5
 EXPERTS_PER_HEADLINE_MIN = 2
+STOPWORDS = {
+    "the", "a", "an", "to", "of", "in", "on", "for", "and", "or", "is", "are",
+    "was", "were", "be", "been", "with", "at", "by", "from", "as", "it", "its",
+    "that", "this", "after", "over", "amid", "new", "says", "say", "said",
+    "will", "has", "have", "had", "his", "her", "their", "up", "out", "into",
+    "than", "but", "not", "how", "why", "what", "who", "when", "where",
+}
 
 DATA_DIR = os.path.dirname(os.path.abspath(__file__))
 EXPERTS_PATH = os.path.join(DATA_DIR, "experts_data.json")
@@ -218,6 +253,7 @@ def parse_pubdate(raw_date):
 
 
 def fetch_feed(url, cutoff):
+    default_source = SOURCE_LABELS.get(url, url)
     try:
         req = urllib.request.Request(url, headers={"User-Agent": UA})
         with urllib.request.urlopen(req, timeout=20) as resp:
@@ -233,9 +269,11 @@ def fetch_feed(url, cutoff):
                 title_el = item.find("title")
                 link_el = item.find("link")
                 date_el = item.find("pubDate")
+                source_el = item.find("source")  # Google News aggregator includes the real outlet here
                 title = (title_el.text or "").strip() if title_el is not None else ""
                 link = (link_el.text or "").strip() if link_el is not None else ""
                 pub_dt = parse_pubdate(date_el.text if date_el is not None else None)
+                source = (source_el.text or "").strip() if source_el is not None and source_el.text else default_source
             elif tag == "entry":
                 title_el = item.find("{http://www.w3.org/2005/Atom}title")
                 link_el = item.find("{http://www.w3.org/2005/Atom}link")
@@ -244,19 +282,26 @@ def fetch_feed(url, cutoff):
                 title = (title_el.text or "").strip() if title_el is not None else ""
                 link = link_el.get("href", "") if link_el is not None else ""
                 pub_dt = parse_pubdate(date_el.text if date_el is not None else None)
+                source = default_source
             else:
                 continue
 
             if not title:
                 continue
-            # GUARDRAIL enforcement: no date = can't confirm recency = drop.
+            # Google News titles are usually "Headline - Outlet Name"; strip that
+            # suffix now that we've captured the outlet separately, so matching
+            # and display both use the clean headline text.
+            if source and title.endswith(f" - {source}"):
+                title = title[: -(len(source) + 3)].strip()
+
+            # GUARDRAIL 1 enforcement: no date = can't confirm recency = drop.
             if pub_dt is None:
                 dropped_no_date += 1
                 continue
             if pub_dt < cutoff:
                 dropped_stale += 1
                 continue
-            items.append({"title": title, "link": link, "published": pub_dt.isoformat()})
+            items.append({"title": title, "link": link, "published": pub_dt.isoformat(), "source": source})
 
         if dropped_no_date or dropped_stale:
             print(f"  [{url}] kept {len(items)}, dropped {dropped_no_date} (no date), {dropped_stale} (older than {RECENCY_HOURS}h)")
@@ -266,15 +311,51 @@ def fetch_feed(url, cutoff):
         return []
 
 
-def dedupe_headlines(headlines):
-    seen = set()
-    out = []
+def significant_tokens(title):
+    words = re.findall(r"[a-z0-9']+", title.lower())
+    return {w for w in words if len(w) >= 3 and w not in STOPWORDS}
+
+
+def cluster_by_story(headlines):
+    """Group headlines that are almost certainly describing the same real-world
+    story (even though different outlets phrase the headline differently), then
+    return one cluster per distinct story with every outlet that covered it.
+
+    This is a simple greedy token-overlap clusterer, not real NLP — it compares
+    each headline's significant (non-stopword) words against existing clusters'
+    representative headline and joins the first one that clears the similarity
+    bar. Good enough at the scale of ~100-300 headlines/day; not meant to be
+    bulletproof against every possible phrasing difference.
+
+    Uses overlap COEFFICIENT (shared / smaller-headline's word count), not
+    Jaccard (shared / all-words-combined) — different outlets rarely phrase a
+    shared story identically, so requiring the shorter headline's words to be
+    mostly-covered works much better in practice than requiring a high fraction
+    of the COMBINED vocabulary to match, which Jaccard effectively demands and
+    which real headlines about the same story routinely fail."""
+    OVERLAP_THRESHOLD = 0.22
+    MIN_ABSOLUTE_OVERLAP = 2  # guards against two short headlines matching on one generic word
+
+    clusters = []  # each: {"rep": headline_dict, "tokens": set, "sources": {source: headline}}
     for h in headlines:
-        key = re.sub(r"[^a-z0-9]", "", h["title"].lower())[:50]
-        if key and key not in seen:
-            seen.add(key)
-            out.append(h)
-    return out
+        toks = significant_tokens(h["title"])
+        if not toks:
+            continue
+        placed = False
+        for c in clusters:
+            overlap = len(toks & c["tokens"])
+            coef = overlap / min(len(toks), len(c["tokens"])) if toks and c["tokens"] else 0
+            if overlap >= MIN_ABSOLUTE_OVERLAP and coef >= OVERLAP_THRESHOLD:
+                c["sources"].setdefault(h["source"], h)
+                c["tokens"] |= toks  # accumulate vocabulary so later same-story headlines match more easily
+                # keep the longest/most-detailed title as the representative
+                if len(h["title"]) > len(c["rep"]["title"]):
+                    c["rep"] = h
+                placed = True
+                break
+        if not placed:
+            clusters.append({"rep": h, "tokens": toks, "sources": {h["source"]: h}})
+    return clusters
 
 
 # ---------------------------------------------------------------------------
@@ -326,11 +407,17 @@ def build_digest():
     raw_headlines = []
     for feed_url in RSS_FEEDS:
         raw_headlines.extend(fetch_feed(feed_url, cutoff))
-    raw_headlines = dedupe_headlines(raw_headlines)
-    print(f"Fetched {len(raw_headlines)} unique headlines within the {RECENCY_HOURS}h window, from {len(RSS_FEEDS)} feeds")
+    print(f"Fetched {len(raw_headlines)} raw headlines within the {RECENCY_HOURS}h window, from {len(RSS_FEEDS)} feeds")
+
+    clusters = cluster_by_story(raw_headlines)
+    # GUARDRAIL 3 enforcement: drop any story not corroborated by enough distinct outlets.
+    corroborated = [c for c in clusters if len(c["sources"]) >= MIN_SOURCES]
+    dropped_single_source = len(clusters) - len(corroborated)
+    print(f"Clustered into {len(clusters)} distinct stories; {dropped_single_source} dropped for appearing on fewer than {MIN_SOURCES} outlets")
 
     scored_headlines = []
-    for h in raw_headlines:
+    for c in corroborated:
+        h = c["rep"]
         matched = match_tags(h["title"], all_tags, keywords)
         if not matched:
             continue
@@ -343,6 +430,7 @@ def build_digest():
             "matched_tags": matched[:4],
             "experts": experts[:EXPERTS_PER_HEADLINE],
             "score": len(matched),
+            "sources": sorted(c["sources"].keys()),
         })
 
     scored_headlines.sort(key=lambda x: -x["score"])
@@ -357,6 +445,8 @@ def build_digest():
             "title": item["title"],
             "link": item["link"],
             "tags": item["matched_tags"],
+            "sources": item["sources"],
+            "source_count": len(item["sources"]),
             "experts": [
                 {
                     "name": e["name"],
@@ -424,10 +514,13 @@ def _render_item(item):
             f'</div>'
         )
     tags_html = " &middot; ".join(item["tags"])
+    sources = item.get("sources") or []
+    sources_html = f'<div style="font-size:11px;color:#9a9a9a;margin-bottom:4px;">Reported by {len(sources)} outlets: {", ".join(sources)}</div>' if sources else ""
     link_html = f'<a href="{item["link"]}" style="color:#1a1a1a;text-decoration:none;">{item["title"]}</a>' if item["link"] else item["title"]
     return (
         f'<div style="padding:16px 0;border-bottom:1px solid #e2e2e2;">'
         f'<div style="font-size:16px;font-weight:700;margin-bottom:4px;">{link_html}</div>'
+        f'{sources_html}'
         f'<div style="font-size:12px;color:#6b6b6b;margin-bottom:8px;">{tags_html}</div>'
         f'{experts_html}'
         f'</div>'
