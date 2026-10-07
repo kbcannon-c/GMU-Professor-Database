@@ -296,9 +296,14 @@
    "robotics"
   ],
   "Space Policy & Exploration": [
-   "space",
-   "satellite",
-   "nasa"
+   "space policy",
+   "space exploration",
+   "space launch",
+   "moon mission",
+   "mars mission",
+   "space force",
+   "commercial spaceflight",
+   "nasa budget"
   ],
   "Public Health & Pandemic Preparedness": [
    "public health",
@@ -320,13 +325,14 @@
    "therapy"
   ],
   "Healthcare Policy & Insurance": [
+   "health insurance",
    "healthcare policy",
-   "insurance",
    "medicare",
    "medicaid",
-   "obamacare",
    "aca",
-   "health insurance"
+   "affordable care act",
+   "health coverage",
+   "obamacare"
   ],
   "Nutrition & Obesity": [
    "nutrition",
@@ -417,11 +423,13 @@
    "migration"
   ],
   "Race & Racial Justice": [
-   "race",
    "racial justice",
    "racism",
    "racial equity",
-   "affirmative action"
+   "affirmative action",
+   "racial discrimination",
+   "systemic racism",
+   "race relations"
   ],
   "Gender & Women's Issues": [
    "gender",
@@ -503,8 +511,7 @@
   "Film": [
    "film",
    "movie",
-   "box office",
-   "hollywood"
+   "box office"
   ],
   "TV & Media Studies": [
    "television",

@@ -113,8 +113,7 @@
 "credentials": "MS, PhD",
 "title": "Assistant Professor of Accounting. BMgt 2007",
 "tags": [
-"Labor Market & Employment",
-"Artificial Intelligence Policy & Ethics"
+"Labor Market & Employment"
 ],
 "tier": "Primary",
 "email": null,
@@ -137,9 +136,7 @@
 "department": "Accounting",
 "credentials": "BS, MS, PhD",
 "title": "Associate Professor of Accounting",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Primary",
 "email": null,
 "profile_url": null
@@ -413,9 +410,7 @@
 "department": "Marketing",
 "credentials": "BBA, MS, PhD",
 "title": "Assistant Professor of Marketing. BE/",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Primary",
 "email": null,
 "profile_url": null
@@ -468,9 +463,7 @@
 "department": "Finance",
 "credentials": "BS, PhD",
 "title": "Assistant Professor of Finance",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Secondary",
 "email": null,
 "profile_url": null
@@ -954,9 +947,7 @@
 "department": "Systems Engineering and Operations Research",
 "credentials": "MBA, MS, PhD",
 "title": "Assistant Professor of Information Systems and Operations Management. B. Tech 2007",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Primary",
 "email": "aray8@gmu.edu",
 "profile_url": "https://business.gmu.edu/profiles/aray8"
@@ -2863,7 +2854,6 @@
 "credentials": "MS, PhD",
 "title": "Associate Professor",
 "tags": [
-"Artificial Intelligence Policy & Ethics",
 "Cybersecurity (Consumer & Corporate)"
 ],
 "tier": "Secondary",
@@ -2887,9 +2877,7 @@
 "department": "Information Sciences and Technology",
 "credentials": "BA, PhD, MS",
 "title": "Professor",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Secondary",
 "email": "scarabal@gmu.edu",
 "profile_url": "https://cec.gmu.edu/profiles/scarabal"
@@ -2901,7 +2889,6 @@
 "credentials": "BS, MS, PhD",
 "title": "Assistant Professor",
 "tags": [
-"Artificial Intelligence Policy & Ethics",
 "Cybersecurity (Consumer & Corporate)"
 ],
 "tier": "Secondary",
@@ -2972,7 +2959,6 @@
 "credentials": "BS, MS, PhD",
 "title": "Associate Dean",
 "tags": [
-"Artificial Intelligence Policy & Ethics",
 "Video Games & Esports"
 ],
 "tier": "Secondary",
@@ -3227,9 +3213,7 @@
 "department": "Computer Science",
 "credentials": "BS, MS, PhD",
 "title": "Professor",
-"tags": [
-"Space Policy & Exploration"
-],
+"tags": [],
 "tier": "Secondary",
 "email": null,
 "profile_url": null
@@ -3276,8 +3260,7 @@
 "credentials": "BS, MS, PhD",
 "title": "Professor",
 "tags": [
-"Defense & Military Policy",
-"Space Policy & Exploration"
+"Defense & Military Policy"
 ],
 "tier": "Secondary",
 "email": null,
@@ -3300,9 +3283,7 @@
 "department": "Bioengineering",
 "credentials": "BS, MS, PhD",
 "title": "Associate Professor",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Primary",
 "email": null,
 "profile_url": "https://cec.gmu.edu/profiles/pchitnis"
@@ -3313,9 +3294,7 @@
 "department": "Information Sciences and Technology",
 "credentials": "BS, MS, PhD",
 "title": "Assistant Professor",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Secondary",
 "email": null,
 "profile_url": null
@@ -3405,9 +3384,7 @@
 "department": "Computer Science",
 "credentials": "PhD",
 "title": "Associate Professor",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Secondary",
 "email": "cdomenic@gmu.edu",
 "profile_url": "https://cec.gmu.edu/profiles/cdomenic"
@@ -3601,9 +3578,7 @@
 "department": "Statistics",
 "credentials": "MS, PhD",
 "title": "Assistant Professor",
-"tags": [
-"Healthcare Policy & Insurance"
-],
+"tags": [],
 "tier": "Secondary",
 "email": "agbadamo@gmu.edu",
 "profile_url": "https://cec.gmu.edu/profiles/agbadamo"
@@ -3660,9 +3635,7 @@
 "department": "Civil, Environmental and Infrastructure Engineering",
 "credentials": "BS, MS, PhD",
 "title": "Assistant Professor",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Secondary",
 "email": null,
 "profile_url": null
@@ -3717,10 +3690,7 @@
 "department": "Computer Science",
 "credentials": "PhD",
 "title": "Associate Professor",
-"tags": [
-"Film",
-"TV & Media Studies"
-],
+"tags": [],
 "tier": "Primary",
 "email": "bohan@gmu.edu",
 "profile_url": "https://cec.gmu.edu/profiles/bohan"
@@ -3732,7 +3702,6 @@
 "credentials": "BS, MS, PhD",
 "title": "Professor",
 "tags": [
-"Labor Market & Employment",
 "Corporate Governance & Leadership",
 "Cybersecurity (Consumer & Corporate)"
 ],
@@ -3746,9 +3715,7 @@
 "department": "Information Sciences and Technology",
 "credentials": "BS, MS, PhD",
 "title": "Associate Professor",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Secondary",
 "email": "mhashem2@gmu.edu",
 "profile_url": "https://cec.gmu.edu/profiles/mhashem2"
@@ -3913,8 +3880,7 @@
 "credentials": "BS, MS, PhD",
 "title": "Associate Chair for Undergraduate Studies and Term Associate Professor",
 "tags": [
-"Cybersecurity (Consumer & Corporate)",
-"Space Policy & Exploration"
+"Cybersecurity (Consumer & Corporate)"
 ],
 "tier": "Secondary",
 "email": null,
@@ -4054,9 +4020,7 @@
 "department": "Information Sciences and Technology",
 "credentials": "BS, MS, PhD",
 "title": "Assistant Professor",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Secondary",
 "email": "kkabir@gmu.edu",
 "profile_url": "https://cec.gmu.edu/profiles/kkabir"
@@ -4229,9 +4193,7 @@
 "credentials": "BS, MS, PhD",
 "title": "Associate Professor",
 "tags": [
-"Artificial Intelligence Policy & Ethics",
 "Autonomous Systems & Robotics",
-"Aging & Long-Term Care",
 "Extreme Weather & Natural Disasters"
 ],
 "tier": "Primary",
@@ -4292,9 +4254,7 @@
 "department": "Information Sciences and Technology",
 "credentials": "BS, MS, PhD",
 "title": "Associate Professor",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Secondary",
 "email": "dliao2@gmu.edu",
 "profile_url": "https://cec.gmu.edu/profiles/dliao2"
@@ -4386,9 +4346,7 @@
 "department": "Systems Engineering and Operations Research",
 "credentials": "BS, MBA, PhD",
 "title": "Associate Professor",
-"tags": [
-"Healthcare Policy & Insurance"
-],
+"tags": [],
 "tier": "Secondary",
 "email": "sluo4@gmu.edu",
 "profile_url": "https://cec.gmu.edu/profiles/sluo4"
@@ -4400,7 +4358,6 @@
 "credentials": "BS, MS, PhD",
 "title": "Assistant Professor",
 "tags": [
-"Artificial Intelligence Policy & Ethics",
 "Public Health & Pandemic Preparedness"
 ],
 "tier": "Primary",
@@ -4658,9 +4615,7 @@
 "department": "Electrical and Computer Engineering",
 "credentials": "MS, PhD",
 "title": "Associate Professor",
-"tags": [
-"Space Policy & Exploration"
-],
+"tags": [],
 "tier": "Primary",
 "email": null,
 "profile_url": "https://cec.gmu.edu/profiles/ppach"
@@ -4672,7 +4627,6 @@
 "credentials": "BS, MS, PhD",
 "title": "Associate Professor",
 "tags": [
-"Artificial Intelligence Policy & Ethics",
 "Cybersecurity (Consumer & Corporate)"
 ],
 "tier": "Secondary",
@@ -4774,7 +4728,6 @@
 "credentials": "BTech, PhD",
 "title": "Associate Professor",
 "tags": [
-"Artificial Intelligence Policy & Ethics",
 "Social Media & Disinformation"
 ],
 "tier": "Secondary",
@@ -4919,9 +4872,7 @@
 "department": "Information Sciences and Technology",
 "credentials": "BS, MS, PhD",
 "title": "Professor and Assistant Chair for Graduate Studies",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Primary",
 "email": "irytikov@gmu.edu",
 "profile_url": "https://cec.gmu.edu/profiles/irytikov"
@@ -5048,9 +4999,7 @@
 "department": "Systems Engineering and Operations Research",
 "credentials": "BS, MS, PhD",
 "title": "Chair and Professor",
-"tags": [
-"Space Policy & Exploration"
-],
+"tags": [],
 "tier": "Primary",
 "email": null,
 "profile_url": "https://cec.gmu.edu/profiles/jshortle"
@@ -5276,9 +5225,7 @@
 "department": "Information Sciences and Technology",
 "credentials": "BS, MS, PhD",
 "title": "Chair and Professor",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Primary",
 "email": null,
 "profile_url": null
@@ -5335,9 +5282,7 @@
 "department": "Electrical and Computer Engineering",
 "credentials": "BS, PhD",
 "title": "Professor",
-"tags": [
-"Labor Market & Employment"
-],
+"tags": [],
 "tier": "Primary",
 "email": null,
 "profile_url": "https://cec.gmu.edu/profiles/kwage"
@@ -5541,9 +5486,7 @@
 "department": "Computer Science",
 "credentials": "BS, PhD",
 "title": "Assistant Professor",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Secondary",
 "email": "shuochao@gmu.edu",
 "profile_url": "https://cec.gmu.edu/profiles/shuochao"
@@ -5635,7 +5578,6 @@
 "credentials": "BS, MS, PhD",
 "title": "Assistant Professor",
 "tags": [
-"Artificial Intelligence Policy & Ethics",
 "Social Media & Disinformation"
 ],
 "tier": "Secondary",
@@ -5771,9 +5713,7 @@
 "department": null,
 "credentials": "PhD",
 "title": "Associate Professor / Tenured",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Primary",
 "email": "mboicu@gmu.edu",
 "profile_url": "https://cec.gmu.edu/profiles/mboicu"
@@ -5956,8 +5896,7 @@
 "credentials": "BS, AB, MS, ME, ScD",
 "title": "Professor Emeritus",
 "tags": [
-"Defense & Military Policy",
-"Space Policy & Exploration"
+"Defense & Military Policy"
 ],
 "tier": "Secondary",
 "email": "alevis@gmu.edu",
@@ -6087,9 +6026,7 @@
 "department": null,
 "credentials": "BS, MS, PhD",
 "title": "Assistant Professor / Teaching",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Secondary",
 "email": "ssultana@gmu.edu",
 "profile_url": "https://cec.gmu.edu/profiles/ssultana"
@@ -6332,7 +6269,6 @@
 "credentials": "BA, PhD",
 "title": "Assistant Professor",
 "tags": [
-"Higher Education Policy & Affordability",
 "Immigration & Demographics"
 ],
 "tier": "Primary",
@@ -6801,7 +6737,6 @@
 "credentials": "BA, MS, PhD",
 "title": "Professor",
 "tags": [
-"Congress & Legislation",
 "Higher Education Policy & Affordability",
 "Gender & Women's Issues"
 ],
@@ -7348,7 +7283,6 @@
 "credentials": "AB, MA, PhD",
 "title": "Associate Professor",
 "tags": [
-"Campaigns & Political Communication",
 "Defense & Military Policy"
 ],
 "tier": "Secondary",
@@ -7893,9 +7827,7 @@
 "department": "Communication",
 "credentials": "BA, MA, PhD",
 "title": "Associate Professor",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Secondary",
 "email": "plee27@gmu.edu",
 "profile_url": "https://psychology.gmu.edu/people/plee27"
@@ -8121,7 +8053,6 @@
 "credentials": "BA, PhD",
 "title": "Professor",
 "tags": [
-"Artificial Intelligence Policy & Ethics",
 "Mental Health"
 ],
 "tier": "Secondary",
@@ -8362,7 +8293,6 @@
 "credentials": "BS, MA, PhD",
 "title": "Assistant Professor",
 "tags": [
-"Labor Market & Employment",
 "Russia & Ukraine"
 ],
 "tier": "Secondary",
@@ -8375,9 +8305,7 @@
 "department": "English",
 "credentials": "BA",
 "title": "Professor",
-"tags": [
-"Energy Policy"
-],
+"tags": [],
 "tier": "Secondary",
 "email": "hngalaba@gmu.edu",
 "profile_url": "https://english.gmu.edu/people/hngalaba"
@@ -8681,9 +8609,7 @@
 "department": "Spanish",
 "credentials": "BA, PhD",
 "title": "Professor of Spanish",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Primary",
 "email": "eromanme@gmu.edu",
 "profile_url": "https://mcl.gmu.edu/people/eromanme"
@@ -10450,9 +10376,7 @@
 "department": "Modern and Classical Languages",
 "credentials": "PhD",
 "title": "Japanese Program Coordinator",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Secondary",
 "email": "mhama@gmu.edu",
 "profile_url": "https://mcl.gmu.edu/people/mhama"
@@ -11904,9 +11828,7 @@
 "department": "English",
 "credentials": "BA, MFA",
 "title": "Assistant Professor, Composition",
-"tags": [
-"Energy Policy"
-],
+"tags": [],
 "tier": "Secondary",
 "email": "brenne@gmu.edu",
 "profile_url": "https://english.gmu.edu/people/brenne"
@@ -21037,9 +20959,7 @@
 "department": "Health Administration and Policy",
 "credentials": "PhD",
 "title": "Professor",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Secondary",
 "email": null,
 "profile_url": "https://publichealth.gmu.edu/profiles/jwojtusi"
@@ -21933,9 +21853,7 @@
 "department": "Mathematical Sciences",
 "credentials": "BS, MS, PhD",
 "title": "Professor",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Secondary",
 "email": null,
 "profile_url": "https://science.gmu.edu/directory/harbir-antil"
@@ -21946,9 +21864,7 @@
 "department": "Computational and Data Sciences",
 "credentials": "BS, PhD",
 "title": "Professor",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Secondary",
 "email": null,
 "profile_url": "https://science.gmu.edu/directory/robert-axtell"
@@ -23640,9 +23556,7 @@
 "department": "School of Systems Biology",
 "credentials": "MS, PhD",
 "title": "Director and Professor",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Secondary",
 "email": "ivaisman@gmu.edu",
 "profile_url": "https://science.gmu.edu/directory/iosif-vaisman"
@@ -24401,9 +24315,7 @@
 "department": "College of Science",
 "credentials": null,
 "title": "Associate Professor",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Secondary",
 "email": "hbidkhor@gmu.edu",
 "profile_url": "https://science.gmu.edu/directory/hoda-bidkhori"
@@ -24959,9 +24871,7 @@
 "department": "College of Science",
 "credentials": null,
 "title": "Research Associate",
-"tags": [
-"Space Policy & Exploration"
-],
+"tags": [],
 "tier": "Secondary",
 "email": null,
 "profile_url": "https://science.gmu.edu/directory/joyce-chou"
@@ -25194,9 +25104,7 @@
 "department": "College of Science",
 "credentials": null,
 "title": "Adjunct",
-"tags": [
-"Space Policy & Exploration"
-],
+"tags": [],
 "tier": "Secondary",
 "email": null,
 "profile_url": "https://science.gmu.edu/directory/carlos-cruz"
@@ -26706,9 +26614,7 @@
 "department": "College of Science",
 "credentials": null,
 "title": "Research Scientist",
-"tags": [
-"Space Policy & Exploration"
-],
+"tags": [],
 "tier": "Secondary",
 "email": null,
 "profile_url": "https://science.gmu.edu/directory/owen-kelley"
@@ -28098,9 +28004,7 @@
 "department": "College of Science",
 "credentials": null,
 "title": "Research Associate",
-"tags": [
-"Energy Policy"
-],
+"tags": [],
 "tier": "Secondary",
 "email": null,
 "profile_url": "https://science.gmu.edu/directory/arthur-poland"
@@ -28753,9 +28657,7 @@
 "department": "College of Science",
 "credentials": null,
 "title": "Postdoctoral Research Fellow",
-"tags": [
-"Energy Policy"
-],
+"tags": [],
 "tier": "Secondary",
 "email": "sshaik7@gmu.edu",
 "profile_url": "https://science.gmu.edu/directory/shaheda-begum-shaik"
@@ -28955,9 +28857,7 @@
 "department": "College of Science",
 "credentials": null,
 "title": "Adjunct Professor",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Secondary",
 "email": "jsolka@gmu.edu",
 "profile_url": "https://science.gmu.edu/directory/jeff-solka"
@@ -29111,9 +29011,7 @@
 "department": "College of Science",
 "credentials": null,
 "title": "Research Assistant Professor",
-"tags": [
-"Artificial Intelligence Policy & Ethics"
-],
+"tags": [],
 "tier": "Secondary",
 "email": "zsun@gmu.edu",
 "profile_url": "https://science.gmu.edu/directory/ziheng-sun"
