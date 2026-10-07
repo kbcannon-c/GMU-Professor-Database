@@ -269,19 +269,23 @@ def fetch_feed(url, cutoff):
                 title_el = item.find("title")
                 link_el = item.find("link")
                 date_el = item.find("pubDate")
+                desc_el = item.find("description")
                 source_el = item.find("source")  # Google News aggregator includes the real outlet here
                 title = (title_el.text or "").strip() if title_el is not None else ""
                 link = (link_el.text or "").strip() if link_el is not None else ""
                 pub_dt = parse_pubdate(date_el.text if date_el is not None else None)
+                description = (desc_el.text or "").strip() if desc_el is not None and desc_el.text else ""
                 source = (source_el.text or "").strip() if source_el is not None and source_el.text else default_source
             elif tag == "entry":
                 title_el = item.find("{http://www.w3.org/2005/Atom}title")
                 link_el = item.find("{http://www.w3.org/2005/Atom}link")
                 date_el = (item.find("{http://www.w3.org/2005/Atom}published")
                            or item.find("{http://www.w3.org/2005/Atom}updated"))
+                summary_el = item.find("{http://www.w3.org/2005/Atom}summary")
                 title = (title_el.text or "").strip() if title_el is not None else ""
                 link = link_el.get("href", "") if link_el is not None else ""
                 pub_dt = parse_pubdate(date_el.text if date_el is not None else None)
+                description = (summary_el.text or "").strip() if summary_el is not None and summary_el.text else ""
                 source = default_source
             else:
                 continue
@@ -294,6 +298,11 @@ def fetch_feed(url, cutoff):
             if source and title.endswith(f" - {source}"):
                 title = title[: -(len(source) + 3)].strip()
 
+            # Descriptions sometimes carry basic HTML (links, <p>, entity-encoded
+            # bits) — strip tags and collapse whitespace so it's plain matchable text.
+            description = re.sub(r"<[^>]+>", " ", description)
+            description = re.sub(r"\s+", " ", description).strip()
+
             # GUARDRAIL 1 enforcement: no date = can't confirm recency = drop.
             if pub_dt is None:
                 dropped_no_date += 1
@@ -301,7 +310,8 @@ def fetch_feed(url, cutoff):
             if pub_dt < cutoff:
                 dropped_stale += 1
                 continue
-            items.append({"title": title, "link": link, "published": pub_dt.isoformat(), "source": source})
+            items.append({"title": title, "link": link, "published": pub_dt.isoformat(),
+                          "source": source, "description": description})
 
         if dropped_no_date or dropped_stale:
             print(f"  [{url}] kept {len(items)}, dropped {dropped_no_date} (no date), {dropped_stale} (older than {RECENCY_HOURS}h)")
@@ -359,19 +369,49 @@ def cluster_by_story(headlines):
 
 
 # ---------------------------------------------------------------------------
-# Matching (same keyword-substring approach as the web tool, for consistency)
+# Matching (same word-boundary approach as the web tool, for consistency)
 # ---------------------------------------------------------------------------
+
+# A handful of taxonomy keywords are DELIBERATE truncated stems, meant to catch
+# multiple word forms at once (e.g. "polic" -> police/policy/policing,
+# "immigrat" -> immigrant/immigration/immigrate). These need a word boundary
+# only on the LEFT so the suffix can vary. Every other keyword gets a full
+# word boundary on both sides, which is what prevents bugs like "nato" lighting
+# up on the word "senator", or "dance" lighting up inside "Skydance" — both
+# real false matches found in production before this fix.
+STEM_KEYWORDS = {"polic", "immigrat", "terroris", "radicaliz", "globaliz", "incarcerat", "extremis"}
+
 
 def load_taxonomy():
     tax = json.load(open(TAXONOMY_PATH))
     return tax["tags"], tax["kw"]
 
 
+def _keyword_pattern(kw_lower):
+    escaped = re.escape(kw_lower)
+    if kw_lower in STEM_KEYWORDS:
+        return re.compile(r"\b" + escaped)
+    if " " in kw_lower:
+        # multi-word phrases already have natural boundaries; \b still helps
+        # at the very start/end of the phrase without over-constraining.
+        return re.compile(r"\b" + escaped + r"\b")
+    return re.compile(r"\b" + escaped + r"\b")
+
+
+_PATTERN_CACHE = {}
+
+
+def _compiled(kw_lower):
+    if kw_lower not in _PATTERN_CACHE:
+        _PATTERN_CACHE[kw_lower] = _keyword_pattern(kw_lower)
+    return _PATTERN_CACHE[kw_lower]
+
+
 def match_tags(text, all_tags, keywords):
     lower = text.lower()
     matched = []
     for tag in all_tags:
-        hits = [kw for kw in keywords.get(tag, []) if kw.lower() in lower]
+        hits = [kw for kw in keywords.get(tag, []) if _compiled(kw.lower()).search(lower)]
         if hits:
             matched.append((tag, len(hits)))
     matched.sort(key=lambda x: -x[1])
@@ -391,6 +431,46 @@ def pick_experts(matched_tags, people):
             scored.append((p, len(hit)))
     scored.sort(key=lambda x: (tier_rank(x[0].get("tier")), -x[1]))
     return [p for p, _ in scored]
+
+
+# ---------------------------------------------------------------------------
+# Tier 2 — full article text (only fetched for stories that already passed
+# the recency + corroboration guardrails, so this stays bounded to ~a few
+# dozen fetches/day, not hundreds). Uses trafilatura, a library built
+# specifically for pulling clean article text out of arbitrary news-site
+# HTML — hand-rolling that extraction reliably across 16 different site
+# layouts isn't a fight worth having when a maintained library already does it.
+# ---------------------------------------------------------------------------
+
+FULL_TEXT_MAX_CHARS = 3000       # cap so one long-form piece can't dominate matching
+FULL_TEXT_TIMEOUT = 15           # seconds per article; a slow/dead page shouldn't stall the run
+# Operational kill switch — set DISABLE_FULL_TEXT=1 as a repo/workflow env var
+# to fall back to Tier 1 only (headline + RSS summary) without touching code,
+# e.g. if full-text fetching starts timing out a lot or a dependency breaks.
+FULL_TEXT_ENABLED = os.environ.get("DISABLE_FULL_TEXT", "").lower() not in ("1", "true", "yes")
+
+try:
+    import trafilatura
+except ImportError:
+    trafilatura = None
+
+
+def fetch_article_text(url):
+    """Best-effort full-article fetch. Returns '' (not None) on any failure —
+    paywalled sources (NYT, WSJ in particular), dead links, and parsing
+    failures are all expected and handled the same way: fall back silently
+    to whatever headline/description text is already available."""
+    if not FULL_TEXT_ENABLED or not trafilatura or not url:
+        return ""
+    try:
+        downloaded = trafilatura.fetch_url(url, no_ssl=True)
+        if not downloaded:
+            return ""
+        text = trafilatura.extract(downloaded, include_comments=False, include_tables=False) or ""
+        return text[:FULL_TEXT_MAX_CHARS]
+    except Exception as e:
+        print(f"  [info] full-text fetch failed for {url}: {e}", file=sys.stderr)
+        return ""
 
 
 # ---------------------------------------------------------------------------
@@ -416,9 +496,21 @@ def build_digest():
     print(f"Clustered into {len(clusters)} distinct stories; {dropped_single_source} dropped for appearing on fewer than {MIN_SOURCES} outlets")
 
     scored_headlines = []
+    full_text_fetched = 0
     for c in corroborated:
         h = c["rep"]
-        matched = match_tags(h["title"], all_tags, keywords)
+        # Tier 1: headline + RSS description/summary (free, already downloaded).
+        match_text = h["title"] + " " + h.get("description", "")
+
+        # Tier 2: full article text, fetched only now that this story has
+        # already cleared recency + corroboration — i.e. only for stories
+        # that were going to be considered anyway, not the full raw firehose.
+        article_text = fetch_article_text(h["link"])
+        if article_text:
+            full_text_fetched += 1
+            match_text += " " + article_text
+
+        matched = match_tags(match_text, all_tags, keywords)
         if not matched:
             continue
         experts = pick_experts(matched, people)
@@ -431,7 +523,9 @@ def build_digest():
             "experts": experts[:EXPERTS_PER_HEADLINE],
             "score": len(matched),
             "sources": sorted(c["sources"].keys()),
+            "full_text_used": bool(article_text),
         })
+    print(f"Full article text successfully fetched for {full_text_fetched}/{len(corroborated)} corroborated stories")
 
     scored_headlines.sort(key=lambda x: -x["score"])
     final = scored_headlines[:MAX_HEADLINES]
