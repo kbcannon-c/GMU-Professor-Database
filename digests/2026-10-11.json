@@ -1,0 +1,143 @@
+{
+ "generated_at": "2026-10-11T11:10:15.932489+00:00",
+ "headline_count": 2,
+ "summary": "2 stories today, led by coverage of Foreign Policy & Security and Climate & Environment.",
+ "items": [
+  {
+   "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+   "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "Russia & Ukraine",
+    "Presidency & Executive Branch",
+    "Middle East",
+    "Defense & Military Policy"
+   ],
+   "sources": [
+    "BBC",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Jaffer, Jamil",
+     "title": "Assistant Professor of Law; Founder and Executive Director",
+     "college": "Law",
+     "credentials": "BA, JD, MA",
+     "tier": "Primary",
+     "email": "jjaffer@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
+     "match_percentage": 59
+    },
+    {
+     "name": "Nowzari, Cameron",
+     "title": "Associate Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": "cnowzari@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/cnowzari",
+     "match_percentage": 51
+    },
+    {
+     "name": "Barnes, Steven",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "sbarnes3@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/sbarnes3",
+     "match_percentage": 51
+    },
+    {
+     "name": "Uehling, Greta",
+     "title": "Visiting Scholar, Carter School, 2024",
+     "college": "Peace & Conflict",
+     "credentials": null,
+     "tier": "Primary",
+     "email": "guehling@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/guehling",
+     "match_percentage": 51
+    },
+    {
+     "name": "Dueck, Colin",
+     "title": "Professor",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/cdueck",
+     "match_percentage": 51
+    }
+   ],
+   "category": "Foreign Policy & Security"
+  },
+  {
+   "title": "At least 2 deaths attributed to Isaias after hurricane bashes Florida and Alabama",
+   "link": "https://www.npr.org/2026/10/10/g-s1-147632/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama",
+   "tags": [
+    "Extreme Weather & Natural Disasters",
+    "State & Local Government"
+   ],
+   "sources": [
+    "BBC",
+    "NPR",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Moller Ferreira, Celso",
+     "title": "Professor",
+     "college": "Engineering & Computing",
+     "credentials": "MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 68
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 68
+    },
+    {
+     "name": "McAuliffe, Terence",
+     "title": "Distinguished Visiting Professor of Practice",
+     "college": "Policy & Gov",
+     "credentials": "BA, JD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mcauliffe",
+     "match_percentage": 59
+    },
+    {
+     "name": "Holton, Anne",
+     "title": "Professor of Education",
+     "college": "Ed & Human Development",
+     "credentials": "JD",
+     "tier": "Primary",
+     "email": "aholton2@gmu.edu",
+     "profile_url": "https://cehd.gmu.edu/people/faculty/aholton2/",
+     "match_percentage": 41
+    },
+    {
+     "name": "Lattanzi, David A.",
+     "title": "Associate Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://cec.gmu.edu/profiles/dlattanz",
+     "match_percentage": 41
+    }
+   ],
+   "category": "Climate & Environment"
+  }
+ ]
+}
