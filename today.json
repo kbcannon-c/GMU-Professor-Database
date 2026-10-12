@@ -1,34 +1,24 @@
 {
- "generated_at": "2026-10-11T11:10:15.932489+00:00",
+ "generated_at": "2026-10-12T11:14:06.801060+00:00",
  "headline_count": 2,
- "summary": "2 stories today, led by coverage of Foreign Policy & Security and Climate & Environment.",
+ "summary": "2 stories today, led by coverage of Politics & Government.",
  "items": [
   {
-   "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-   "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+   "title": "Zelenskyy signals surprise at Trump claim of Russia-Ukraine \u2018energy ceasefire\u2019 but would back it if Moscow does \u2013 as it happened",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
    "tags": [
+    "State & Local Government",
     "Russia & Ukraine",
-    "Presidency & Executive Branch",
-    "Middle East",
-    "Defense & Military Policy"
+    "Defense & Military Policy",
+    "Social Media & Disinformation"
    ],
    "sources": [
     "BBC",
-    "The Guardian",
-    "The New York Times"
+    "NPR",
+    "The Guardian"
    ],
    "source_count": 3,
    "experts": [
-    {
-     "name": "Jaffer, Jamil",
-     "title": "Assistant Professor of Law; Founder and Executive Director",
-     "college": "Law",
-     "credentials": "BA, JD, MA",
-     "tier": "Primary",
-     "email": "jjaffer@gmu.edu",
-     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
-     "match_percentage": 59
-    },
     {
      "name": "Nowzari, Cameron",
      "title": "Associate Professor",
@@ -37,7 +27,37 @@
      "tier": "Primary",
      "email": "cnowzari@gmu.edu",
      "profile_url": "https://cec.gmu.edu/profiles/cnowzari",
-     "match_percentage": 51
+     "match_percentage": 57
+    },
+    {
+     "name": "Kirkpatrick, Jesse",
+     "title": "Research Associate Professor, Philosophy",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BS, PhD",
+     "tier": "Primary",
+     "email": "jkirkpat@gmu.edu",
+     "profile_url": "https://philosophy.gmu.edu/people/jkirkpat",
+     "match_percentage": 48
+    },
+    {
+     "name": "Karmegam, Sabari Rajan",
+     "title": "Assistant Professor of Information Systems and Operations Management. BE 2002",
+     "college": "Business",
+     "credentials": "MBA, PhD",
+     "tier": "Primary",
+     "email": "skarmega@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/skarmega",
+     "match_percentage": 46
+    },
+    {
+     "name": "Petryk, Mariia",
+     "title": "Assistant Professor of Information Systems and Operations Management",
+     "college": "Business",
+     "credentials": "BS, MS, BA, PhD",
+     "tier": "Primary",
+     "email": "mpetryk@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/mpetryk",
+     "match_percentage": 46
     },
     {
      "name": "Barnes, Steven",
@@ -47,97 +67,79 @@
      "tier": "Primary",
      "email": "sbarnes3@gmu.edu",
      "profile_url": "https://historyarthistory.gmu.edu/people/sbarnes3",
-     "match_percentage": 51
-    },
-    {
-     "name": "Uehling, Greta",
-     "title": "Visiting Scholar, Carter School, 2024",
-     "college": "Peace & Conflict",
-     "credentials": null,
-     "tier": "Primary",
-     "email": "guehling@gmu.edu",
-     "profile_url": "https://carterschool.gmu.edu/profiles/guehling",
-     "match_percentage": 51
-    },
-    {
-     "name": "Dueck, Colin",
-     "title": "Professor",
-     "college": "Policy & Gov",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://schar.gmu.edu/profiles/cdueck",
-     "match_percentage": 51
+     "match_percentage": 46
     }
    ],
-   "category": "Foreign Policy & Security"
+   "category": "Politics & Government"
   },
   {
-   "title": "At least 2 deaths attributed to Isaias after hurricane bashes Florida and Alabama",
-   "link": "https://www.npr.org/2026/10/10/g-s1-147632/at-least-2-deaths-attributed-to-isaias-after-hurricane-bashes-florida-and-alabama",
+   "title": "Senate Republican settles six-year-old campaign bill after being called out on social media",
+   "link": "https://www.foxnews.com/politics/roger-marshall-unpaid-campaign-cookie-bill",
    "tags": [
-    "Extreme Weather & Natural Disasters",
-    "State & Local Government"
+    "Elections & Voting",
+    "Congress & Legislation",
+    "Small Business & Entrepreneurship",
+    "Social Media & Disinformation"
    ],
    "sources": [
-    "BBC",
-    "NPR",
+    "Fox News",
+    "The Guardian",
     "The New York Times"
    ],
    "source_count": 3,
    "experts": [
     {
-     "name": "Moller Ferreira, Celso",
-     "title": "Professor",
-     "college": "Engineering & Computing",
-     "credentials": "MS, PhD",
+     "name": "Lyons, Terrence P.",
+     "title": "Professor of Conflict Analysis and Resolution",
+     "college": "Peace & Conflict",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "tlyons1@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/tlyons1",
+     "match_percentage": 48
+    },
+    {
+     "name": "Karmegam, Sabari Rajan",
+     "title": "Assistant Professor of Information Systems and Operations Management. BE 2002",
+     "college": "Business",
+     "credentials": "MBA, PhD",
+     "tier": "Primary",
+     "email": "skarmega@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/skarmega",
+     "match_percentage": 39
+    },
+    {
+     "name": "Dorpenyo, Isidore",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MS, PhD",
      "tier": "Primary",
      "email": null,
      "profile_url": null,
-     "match_percentage": 68
+     "match_percentage": 39
     },
     {
-     "name": "Rozell, Mark",
-     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
-     "college": "Policy & Gov",
+     "name": "Martinelli, Cesar",
+     "title": "Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": "cmarti33@gmu.edu",
+     "profile_url": "https://economics.gmu.edu/people/cmarti33",
+     "match_percentage": 39
+    },
+    {
+     "name": "Kim, Sojung",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
      "credentials": "BA, MA, PhD",
      "tier": "Primary",
      "email": null,
-     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
-     "match_percentage": 68
-    },
-    {
-     "name": "McAuliffe, Terence",
-     "title": "Distinguished Visiting Professor of Practice",
-     "college": "Policy & Gov",
-     "credentials": "BA, JD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://schar.gmu.edu/profiles/mcauliffe",
-     "match_percentage": 59
-    },
-    {
-     "name": "Holton, Anne",
-     "title": "Professor of Education",
-     "college": "Ed & Human Development",
-     "credentials": "JD",
-     "tier": "Primary",
-     "email": "aholton2@gmu.edu",
-     "profile_url": "https://cehd.gmu.edu/people/faculty/aholton2/",
-     "match_percentage": 41
-    },
-    {
-     "name": "Lattanzi, David A.",
-     "title": "Associate Professor",
-     "college": "Engineering & Computing",
-     "credentials": "BS, MS, PhD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://cec.gmu.edu/profiles/dlattanz",
-     "match_percentage": 41
+     "profile_url": "https://communication.gmu.edu/people/skim205",
+     "match_percentage": 30
     }
    ],
-   "category": "Climate & Environment"
+   "category": "Politics & Government"
   }
  ]
 }

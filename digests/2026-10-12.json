@@ -1,0 +1,145 @@
+{
+ "generated_at": "2026-10-12T11:14:06.801060+00:00",
+ "headline_count": 2,
+ "summary": "2 stories today, led by coverage of Politics & Government.",
+ "items": [
+  {
+   "title": "Zelenskyy signals surprise at Trump claim of Russia-Ukraine \u2018energy ceasefire\u2019 but would back it if Moscow does \u2013 as it happened",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
+   "tags": [
+    "State & Local Government",
+    "Russia & Ukraine",
+    "Defense & Military Policy",
+    "Social Media & Disinformation"
+   ],
+   "sources": [
+    "BBC",
+    "NPR",
+    "The Guardian"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Nowzari, Cameron",
+     "title": "Associate Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": "cnowzari@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/cnowzari",
+     "match_percentage": 57
+    },
+    {
+     "name": "Kirkpatrick, Jesse",
+     "title": "Research Associate Professor, Philosophy",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BS, PhD",
+     "tier": "Primary",
+     "email": "jkirkpat@gmu.edu",
+     "profile_url": "https://philosophy.gmu.edu/people/jkirkpat",
+     "match_percentage": 48
+    },
+    {
+     "name": "Karmegam, Sabari Rajan",
+     "title": "Assistant Professor of Information Systems and Operations Management. BE 2002",
+     "college": "Business",
+     "credentials": "MBA, PhD",
+     "tier": "Primary",
+     "email": "skarmega@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/skarmega",
+     "match_percentage": 46
+    },
+    {
+     "name": "Petryk, Mariia",
+     "title": "Assistant Professor of Information Systems and Operations Management",
+     "college": "Business",
+     "credentials": "BS, MS, BA, PhD",
+     "tier": "Primary",
+     "email": "mpetryk@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/mpetryk",
+     "match_percentage": 46
+    },
+    {
+     "name": "Barnes, Steven",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "sbarnes3@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/sbarnes3",
+     "match_percentage": 46
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Senate Republican settles six-year-old campaign bill after being called out on social media",
+   "link": "https://www.foxnews.com/politics/roger-marshall-unpaid-campaign-cookie-bill",
+   "tags": [
+    "Elections & Voting",
+    "Congress & Legislation",
+    "Small Business & Entrepreneurship",
+    "Social Media & Disinformation"
+   ],
+   "sources": [
+    "Fox News",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Lyons, Terrence P.",
+     "title": "Professor of Conflict Analysis and Resolution",
+     "college": "Peace & Conflict",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "tlyons1@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/tlyons1",
+     "match_percentage": 48
+    },
+    {
+     "name": "Karmegam, Sabari Rajan",
+     "title": "Assistant Professor of Information Systems and Operations Management. BE 2002",
+     "college": "Business",
+     "credentials": "MBA, PhD",
+     "tier": "Primary",
+     "email": "skarmega@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/skarmega",
+     "match_percentage": 39
+    },
+    {
+     "name": "Dorpenyo, Isidore",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 39
+    },
+    {
+     "name": "Martinelli, Cesar",
+     "title": "Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": "cmarti33@gmu.edu",
+     "profile_url": "https://economics.gmu.edu/people/cmarti33",
+     "match_percentage": 39
+    },
+    {
+     "name": "Kim, Sojung",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://communication.gmu.edu/people/skim205",
+     "match_percentage": 30
+    }
+   ],
+   "category": "Politics & Government"
+  }
+ ]
+}
