@@ -1,16 +1,224 @@
 {
- "generated_at": "2026-10-12T11:14:06.801060+00:00",
- "headline_count": 2,
- "summary": "2 stories today, led by coverage of Politics & Government.",
+ "generated_at": "2026-10-13T11:13:58.967178+00:00",
+ "headline_count": 6,
+ "summary": "6 stories today, led by coverage of Politics & Government and Health & Science.",
  "items": [
   {
-   "title": "Zelenskyy signals surprise at Trump claim of Russia-Ukraine \u2018energy ceasefire\u2019 but would back it if Moscow does \u2013 as it happened",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/11/donald-trump-ukraine-russia-energy-ceasefire-diesel-latest-updates",
+   "title": "First Thing: Democratic leaders condemn federal raid on Ilhan Omar as she vows not to be silenced",
+   "link": "https://www.theguardian.com/us-news/2026/oct/13/first-thing-democratic-leaders-condemn-federal-raid-ilhan-omar",
    "tags": [
+    "Infectious Disease & Vaccines",
+    "Presidency & Executive Branch",
     "State & Local Government",
-    "Russia & Ukraine",
-    "Defense & Military Policy",
-    "Social Media & Disinformation"
+    "Immigration Law & Policy"
+   ],
+   "sources": [
+    "BBC",
+    "The Guardian",
+    "The New York Times",
+    "Washington Examiner"
+   ],
+   "source_count": 4,
+   "experts": [
+    {
+     "name": "Buckley, Francis",
+     "title": "George Mason University Foundation Professor of Law",
+     "college": "Law",
+     "credentials": "BA, LLB, LLM",
+     "tier": "Primary",
+     "email": "fbuckley@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/buckley_francis",
+     "match_percentage": 49
+    },
+    {
+     "name": "Popescu, Saskia",
+     "title": "Adjunct Faculty",
+     "college": "Policy & Gov",
+     "credentials": null,
+     "tier": "Primary",
+     "email": "spopesc2@gmu.edu",
+     "profile_url": "https://schar.gmu.edu/profiles/spopesc2",
+     "match_percentage": 49
+    },
+    {
+     "name": "Roess, Amira",
+     "title": "Professor",
+     "college": "Public Health",
+     "credentials": "PhD, MPH",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://publichealth.gmu.edu/profiles/aroess",
+     "match_percentage": 49
+    },
+    {
+     "name": "Howard, Susan",
+     "title": "Associate Professor, School of Integrative Studies",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, PhD, MPH",
+     "tier": "Primary",
+     "email": "showar16@gmu.edu",
+     "profile_url": "https://integrative.gmu.edu/people/showar16",
+     "match_percentage": 42
+    },
+    {
+     "name": "Manuel-Scott, Wendi N.",
+     "title": "Professor, Integrative Studies and History",
+     "college": "Humanities & Social Sciences",
+     "credentials": "PhD",
+     "tier": "Primary",
+     "email": "wmanuels@gmu.edu",
+     "profile_url": "https://aaas.gmu.edu/people/wmanuels",
+     "match_percentage": 42
+    }
+   ],
+   "category": "Health & Science"
+  },
+  {
+   "title": "Trump's new press secretary takes the podium after weeks-long White House shake-up and more top headlines",
+   "link": "https://www.foxnews.com/us/trumps-new-press-secretary-takes-podium-after-weeks-long-white-house-shake-up-more-top-headlines",
+   "tags": [
+    "Congress & Legislation",
+    "Presidency & Executive Branch",
+    "Immigration Law & Policy",
+    "Reproductive Rights"
+   ],
+   "sources": [
+    "Fox News",
+    "NPR",
+    "Washington Examiner"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Mullen, Lincoln",
+     "title": "Director",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "lmullen@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/lmullen",
+     "match_percentage": 49
+    },
+    {
+     "name": "Alvar\u00e9, Helen",
+     "title": "Robert A. Levy Endowed Chair in Law and Liberty",
+     "college": "Law",
+     "credentials": "BS, JD, MA",
+     "tier": "Primary",
+     "email": "halvare@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/alvare_helen",
+     "match_percentage": 49
+    },
+    {
+     "name": "Buckley, Francis",
+     "title": "George Mason University Foundation Professor of Law",
+     "college": "Law",
+     "credentials": "BA, LLB, LLM",
+     "tier": "Primary",
+     "email": "fbuckley@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/buckley_francis",
+     "match_percentage": 49
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 49
+    },
+    {
+     "name": "Powers, Samantha",
+     "title": "Assistant Professor of Recreation Management",
+     "college": "Ed & Human Development",
+     "credentials": "PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 42
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "US actress Selma Blair accused of assault after incident with flight attendants",
+   "link": "https://www.bbc.co.uk/news/articles/cw80z7edrk80o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "Criminal Justice & Policing",
+    "Film",
+    "Aviation Safety & Air Transportation Systems",
+    "Transportation Engineering & Urban Mobility"
+   ],
+   "sources": [
+    "BBC",
+    "NPR",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Ray, Abhishek",
+     "title": "Assistant Professor of Information Systems and Operations Management. B. Tech 2007",
+     "college": "Business",
+     "credentials": "MBA, MS, PhD",
+     "tier": "Primary",
+     "email": "aray8@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/aray8",
+     "match_percentage": 51
+    },
+    {
+     "name": "Sherry, Lance",
+     "title": "Associate Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": "lsherry@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/lsherry",
+     "match_percentage": 42
+    },
+    {
+     "name": "Shortle, John F.",
+     "title": "Chair and Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://cec.gmu.edu/profiles/jshortle",
+     "match_percentage": 42
+    },
+    {
+     "name": "Greenberg, Nathaniel",
+     "title": "Associate Professor of Arabic",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "ngreenbe@gmu.edu",
+     "profile_url": "https://mcl.gmu.edu/people/ngreenbe",
+     "match_percentage": 42
+    },
+    {
+     "name": "Foudray, Chelsea",
+     "title": "Postdoctoral Fellow, Criminology, Law and Society",
+     "college": "Humanities & Social Sciences",
+     "credentials": "MA, PhD",
+     "tier": "Primary",
+     "email": "mvandijk@gmu.edu",
+     "profile_url": "https://cls.gmu.edu/people/mvandijk",
+     "match_percentage": 42
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Polls are a snapshot, and other helpful things to remember during the midterm elections",
+   "link": "https://www.npr.org/2026/10/13/nx-s1-5996916/2026-election-midterms-polls-horse-race",
+   "tags": [
+    "Elections & Voting",
+    "Congress & Legislation",
+    "Campaigns & Political Communication",
+    "Mental Health"
    ],
    "sources": [
     "BBC",
@@ -20,123 +228,190 @@
    "source_count": 3,
    "experts": [
     {
-     "name": "Nowzari, Cameron",
-     "title": "Associate Professor",
-     "college": "Engineering & Computing",
-     "credentials": "BS, MS, PhD",
-     "tier": "Primary",
-     "email": "cnowzari@gmu.edu",
-     "profile_url": "https://cec.gmu.edu/profiles/cnowzari",
-     "match_percentage": 57
-    },
-    {
-     "name": "Kirkpatrick, Jesse",
-     "title": "Research Associate Professor, Philosophy",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BS, PhD",
-     "tier": "Primary",
-     "email": "jkirkpat@gmu.edu",
-     "profile_url": "https://philosophy.gmu.edu/people/jkirkpat",
-     "match_percentage": 48
-    },
-    {
-     "name": "Karmegam, Sabari Rajan",
-     "title": "Assistant Professor of Information Systems and Operations Management. BE 2002",
-     "college": "Business",
-     "credentials": "MBA, PhD",
-     "tier": "Primary",
-     "email": "skarmega@gmu.edu",
-     "profile_url": "https://business.gmu.edu/profiles/skarmega",
-     "match_percentage": 46
-    },
-    {
-     "name": "Petryk, Mariia",
-     "title": "Assistant Professor of Information Systems and Operations Management",
-     "college": "Business",
-     "credentials": "BS, MS, BA, PhD",
-     "tier": "Primary",
-     "email": "mpetryk@gmu.edu",
-     "profile_url": "https://business.gmu.edu/profiles/mpetryk",
-     "match_percentage": 46
-    },
-    {
-     "name": "Barnes, Steven",
+     "name": "Gill, Charlotte",
      "title": "Associate Professor",
      "college": "Humanities & Social Sciences",
      "credentials": "BA, MA, PhD",
      "tier": "Primary",
-     "email": "sbarnes3@gmu.edu",
-     "profile_url": "https://historyarthistory.gmu.edu/people/sbarnes3",
-     "match_percentage": 46
+     "email": "cgill9@gmu.edu",
+     "profile_url": "https://cls.gmu.edu/people/cgill9",
+     "match_percentage": 51
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 51
+    },
+    {
+     "name": "Muhlhausen, David",
+     "title": "Adjunct Faculty; Research Fellow in Empirical Policy Analysis, The Heritage Foundation",
+     "college": "Policy & Gov",
+     "credentials": null,
+     "tier": "Primary",
+     "email": "dmuhlhau@gmu.edu",
+     "profile_url": "https://schar.gmu.edu/profiles/dmuhlhau",
+     "match_percentage": 51
+    },
+    {
+     "name": "King, Daphne",
+     "title": "Assistant Professor",
+     "college": "Public Health",
+     "credentials": "EdD, MSW, LCSW",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://publichealth.gmu.edu/profiles/dking",
+     "match_percentage": 51
+    },
+    {
+     "name": "Tomaszewski, Evelyn",
+     "title": "Associate Professor",
+     "college": "Public Health",
+     "credentials": "MSW, ACSW",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://publichealth.gmu.edu/profiles/etomasze",
+     "match_percentage": 51
     }
    ],
    "category": "Politics & Government"
   },
   {
-   "title": "Senate Republican settles six-year-old campaign bill after being called out on social media",
-   "link": "https://www.foxnews.com/politics/roger-marshall-unpaid-campaign-cookie-bill",
+   "title": "Trump says Kimberly Guilfoyle could be fired as Greece envoy after alleged misconduct",
+   "link": "https://www.bbc.co.uk/news/articles/cjkgedexp6zgo?at_medium=RSS&at_campaign=rss",
    "tags": [
-    "Elections & Voting",
     "Congress & Legislation",
-    "Small Business & Entrepreneurship",
-    "Social Media & Disinformation"
+    "Presidency & Executive Branch",
+    "State & Local Government"
    ],
    "sources": [
+    "BBC",
     "Fox News",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 70
+    },
+    {
+     "name": "Buckley, Francis",
+     "title": "George Mason University Foundation Professor of Law",
+     "college": "Law",
+     "credentials": "BA, LLB, LLM",
+     "tier": "Primary",
+     "email": "fbuckley@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/buckley_francis",
+     "match_percentage": 57
+    },
+    {
+     "name": "McAuliffe, Terence",
+     "title": "Distinguished Visiting Professor of Practice",
+     "college": "Policy & Gov",
+     "credentials": "BA, JD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mcauliffe",
+     "match_percentage": 57
+    },
+    {
+     "name": "Jaffer, Jamil",
+     "title": "Assistant Professor of Law; Founder and Executive Director",
+     "college": "Law",
+     "credentials": "BA, JD, MA",
+     "tier": "Primary",
+     "email": "jjaffer@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
+     "match_percentage": 52
+    },
+    {
+     "name": "Holton, Anne",
+     "title": "Professor of Education",
+     "college": "Ed & Human Development",
+     "credentials": "JD",
+     "tier": "Primary",
+     "email": "aholton2@gmu.edu",
+     "profile_url": "https://cehd.gmu.edu/people/faculty/aholton2/",
+     "match_percentage": 48
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Death on Six Flags rollercoaster in US triggers ride closures across six states",
+   "link": "https://www.theguardian.com/us-news/2026/oct/13/six-flags-georgia-death-rollercoaster",
+   "tags": [
+    "Criminal Justice & Policing",
+    "Neuroscience & Brain Research",
+    "Tourism & Hospitality Management"
+   ],
+   "sources": [
+    "BBC",
     "The Guardian",
     "The New York Times"
    ],
    "source_count": 3,
    "experts": [
     {
-     "name": "Lyons, Terrence P.",
-     "title": "Professor of Conflict Analysis and Resolution",
-     "college": "Peace & Conflict",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": "tlyons1@gmu.edu",
-     "profile_url": "https://carterschool.gmu.edu/profiles/tlyons1",
-     "match_percentage": 48
-    },
-    {
-     "name": "Karmegam, Sabari Rajan",
-     "title": "Assistant Professor of Information Systems and Operations Management. BE 2002",
+     "name": "Ray, Abhishek",
+     "title": "Assistant Professor of Information Systems and Operations Management. B. Tech 2007",
      "college": "Business",
-     "credentials": "MBA, PhD",
+     "credentials": "MBA, MS, PhD",
      "tier": "Primary",
-     "email": "skarmega@gmu.edu",
-     "profile_url": "https://business.gmu.edu/profiles/skarmega",
-     "match_percentage": 39
+     "email": "aray8@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/aray8",
+     "match_percentage": 57
     },
     {
-     "name": "Dorpenyo, Isidore",
-     "title": "Associate Professor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MS, PhD",
+     "name": "Daniels, Margaret",
+     "title": "Professor of Tourism and Events Management",
+     "college": "Ed & Human Development",
+     "credentials": "PhD",
      "tier": "Primary",
-     "email": null,
-     "profile_url": null,
-     "match_percentage": 39
+     "email": "mdaniels@gmu.edu",
+     "profile_url": "https://cehd.gmu.edu/people/faculty/mdaniels/",
+     "match_percentage": 57
     },
     {
-     "name": "Martinelli, Cesar",
-     "title": "Professor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MS, PhD",
-     "tier": "Primary",
-     "email": "cmarti33@gmu.edu",
-     "profile_url": "https://economics.gmu.edu/people/cmarti33",
-     "match_percentage": 39
-    },
-    {
-     "name": "Kim, Sojung",
+     "name": "Shariati, Auzeen",
      "title": "Associate Professor",
      "college": "Humanities & Social Sciences",
      "credentials": "BA, MA, PhD",
      "tier": "Primary",
+     "email": "asharia@gmu.edu",
+     "profile_url": "https://cls.gmu.edu/people/asharia",
+     "match_percentage": 57
+    },
+    {
+     "name": "Scafide, Katherine",
+     "title": "Associate Professor",
+     "college": "Public Health",
+     "credentials": "PhD, RN, FAAN, FAAFS",
+     "tier": "Primary",
      "email": null,
-     "profile_url": "https://communication.gmu.edu/people/skim205",
-     "match_percentage": 30
+     "profile_url": "https://publichealth.gmu.edu/profiles/kscafide",
+     "match_percentage": 57
+    },
+    {
+     "name": "Gill, Charlotte",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "cgill9@gmu.edu",
+     "profile_url": "https://cls.gmu.edu/people/cgill9",
+     "match_percentage": 48
     }
    ],
    "category": "Politics & Government"
