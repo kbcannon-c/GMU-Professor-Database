@@ -1,0 +1,215 @@
+{
+ "generated_at": "2026-10-14T11:24:46.482256+00:00",
+ "headline_count": 3,
+ "summary": "3 stories today, led by coverage of Politics & Government.",
+ "items": [
+  {
+   "title": "Republicans in historically critical battleground county pull no punches in midterm homestretch: 'Lot of hope'",
+   "link": "https://www.foxnews.com/politics/republicans-historically-critical-battleground-county-pull-no-punches-midterm-homestretch-lot-hope",
+   "tags": [
+    "Elections & Voting",
+    "Congress & Legislation",
+    "Campaigns & Political Communication",
+    "Energy Policy"
+   ],
+   "sources": [
+    "Fox News",
+    "The Guardian",
+    "The New York Times",
+    "Washington Examiner"
+   ],
+   "source_count": 4,
+   "experts": [
+    {
+     "name": "Huang, Liling",
+     "title": "Associate Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": "lhuang20@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/lhuang20",
+     "match_percentage": 48
+    },
+    {
+     "name": "Genetin-Pilawa, C. Joseph",
+     "title": "Associate Professor of History",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "cgenetin@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/cgenetin",
+     "match_percentage": 48
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 48
+    },
+    {
+     "name": "Moran, Jeffrey",
+     "title": "Assistant Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": "jmoran23@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/jmoran23",
+     "match_percentage": 39
+    },
+    {
+     "name": "Chang, Michael G.",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "AB, PhD",
+     "tier": "Primary",
+     "email": "mchang5@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/mchang5",
+     "match_percentage": 39
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Judge extends White House access to banned media outlets CNN, MS Now and Politico",
+   "link": "https://www.theguardian.com/us-news/2026/oct/14/white-house-media-ban-lifted-cnn-msnow-politico",
+   "tags": [
+    "Presidency & Executive Branch",
+    "Free Speech / First Amendment",
+    "Misinformation & Media Literacy"
+   ],
+   "sources": [
+    "BBC",
+    "Fox News",
+    "NPR",
+    "The Guardian",
+    "The New York Times",
+    "Washington Examiner"
+   ],
+   "source_count": 6,
+   "experts": [
+    {
+     "name": "Alvar\u00e9, Helen",
+     "title": "Robert A. Levy Endowed Chair in Law and Liberty",
+     "college": "Law",
+     "credentials": "BS, JD, MA",
+     "tier": "Primary",
+     "email": "halvare@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/alvare_helen",
+     "match_percentage": 48
+    },
+    {
+     "name": "Buckley, Francis",
+     "title": "George Mason University Foundation Professor of Law",
+     "college": "Law",
+     "credentials": "BA, LLB, LLM",
+     "tier": "Primary",
+     "email": "fbuckley@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/buckley_francis",
+     "match_percentage": 48
+    },
+    {
+     "name": "Jaffer, Jamil",
+     "title": "Assistant Professor of Law; Founder and Executive Director",
+     "college": "Law",
+     "credentials": "BA, JD, MA",
+     "tier": "Primary",
+     "email": "jjaffer@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
+     "match_percentage": 48
+    },
+    {
+     "name": "Weinberger, Lael",
+     "title": "Assistant Professor of Law",
+     "college": "Law",
+     "credentials": "PhD, JD",
+     "tier": "Primary",
+     "email": "lweinber@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/weinberger_lael",
+     "match_percentage": 48
+    },
+    {
+     "name": "Dueck, Colin",
+     "title": "Professor",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/cdueck",
+     "match_percentage": 48
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
+   "link": "https://www.npr.org/2026/10/14/g-s1-148027/trump-ambassador-greece-resignation",
+   "tags": [
+    "Presidency & Executive Branch"
+   ],
+   "sources": [
+    "BBC",
+    "NPR",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 4,
+   "experts": [
+    {
+     "name": "Dueck, Colin",
+     "title": "Professor",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/cdueck",
+     "match_percentage": 91
+    },
+    {
+     "name": "Buckley, Francis",
+     "title": "George Mason University Foundation Professor of Law",
+     "college": "Law",
+     "credentials": "BA, LLB, LLM",
+     "tier": "Primary",
+     "email": "fbuckley@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/buckley_francis",
+     "match_percentage": 74
+    },
+    {
+     "name": "Jaffer, Jamil",
+     "title": "Assistant Professor of Law; Founder and Executive Director",
+     "college": "Law",
+     "credentials": "BA, JD, MA",
+     "tier": "Primary",
+     "email": "jjaffer@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
+     "match_percentage": 74
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 74
+    },
+    {
+     "name": "Lund, Nelson",
+     "title": "Distinguished University Professor",
+     "college": "Law",
+     "credentials": "BA, MA, PhD, JD",
+     "tier": "Secondary",
+     "email": "nlund@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/lund_nelson",
+     "match_percentage": 65
+    }
+   ],
+   "category": "Politics & Government"
+  }
+ ]
+}
