@@ -1,0 +1,279 @@
+{
+ "generated_at": "2026-10-15T11:23:28.612479+00:00",
+ "headline_count": 4,
+ "summary": "4 stories today, led by coverage of Politics & Government and Economy & Business.",
+ "items": [
+  {
+   "title": "Trump tries to rally support for Republican candidates as top Super Pac for Senate Democrats pours millions into key races \u2013 as it happened",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/14/donald-trump-us-midterms-arizona-montana-politics-latest-news-updates",
+   "tags": [
+    "Presidency & Executive Branch",
+    "Elections & Voting",
+    "Congress & Legislation",
+    "State & Local Government"
+   ],
+   "sources": [
+    "The Guardian",
+    "The New York Times",
+    "Washington Examiner"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 68
+    },
+    {
+     "name": "Jaffer, Jamil",
+     "title": "Assistant Professor of Law; Founder and Executive Director",
+     "college": "Law",
+     "credentials": "BA, JD, MA",
+     "tier": "Primary",
+     "email": "jjaffer@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
+     "match_percentage": 50
+    },
+    {
+     "name": "Holton, Anne",
+     "title": "Professor of Education",
+     "college": "Ed & Human Development",
+     "credentials": "JD",
+     "tier": "Primary",
+     "email": "aholton2@gmu.edu",
+     "profile_url": "https://cehd.gmu.edu/people/faculty/aholton2/",
+     "match_percentage": 46
+    },
+    {
+     "name": "Flores, Thomas E.",
+     "title": "Associate Professor and Director of Graduate Programs",
+     "college": "Peace & Conflict",
+     "credentials": "BA, PhD",
+     "tier": "Primary",
+     "email": "tflores2@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/tflores2",
+     "match_percentage": 46
+    },
+    {
+     "name": "Uehling, Greta",
+     "title": "Visiting Scholar, Carter School, 2024",
+     "college": "Peace & Conflict",
+     "credentials": null,
+     "tier": "Primary",
+     "email": "guehling@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/guehling",
+     "match_percentage": 46
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Trump should fear the BBC \u2013 these are the people who made Noel's House Party | Emma Brockes",
+   "link": "https://www.theguardian.com/commentisfree/2026/oct/15/donald-trump-bbc-lawsuit-public-broadcaster-truth-power-noels-house-party",
+   "tags": [
+    "Labor Market & Employment",
+    "Autonomous Systems & Robotics",
+    "TV & Media Studies"
+   ],
+   "sources": [
+    "NPR",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Greenberg, Nathaniel",
+     "title": "Associate Professor of Arabic",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "ngreenbe@gmu.edu",
+     "profile_url": "https://mcl.gmu.edu/people/ngreenbe",
+     "match_percentage": 57
+    },
+    {
+     "name": "Rupp, Deborah",
+     "title": "Professor of Psychology",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "drupp2@gmu.edu",
+     "profile_url": "https://psychology.gmu.edu/people/drupp2",
+     "match_percentage": 57
+    },
+    {
+     "name": "Cummings, Missy",
+     "title": "Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 48
+    },
+    {
+     "name": "McCue-Weil, Leigh",
+     "title": "Professor and Department Chair",
+     "college": "Engineering & Computing",
+     "credentials": "BSE, MSE, PhD",
+     "tier": "Primary",
+     "email": "lmccuewe@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/lmccuewe",
+     "match_percentage": 48
+    },
+    {
+     "name": "Peterson, Matthew S.",
+     "title": "Professor, Cognitive and Behavioral Neuroscience and Human Factors/Applied Cognition",
+     "college": "Humanities & Social Sciences",
+     "credentials": "PhD",
+     "tier": "Primary",
+     "email": "mpeters2@gmu.edu",
+     "profile_url": "https://psychology.gmu.edu/people/mpeters2",
+     "match_percentage": 48
+    }
+   ],
+   "category": "Economy & Business"
+  },
+  {
+   "title": "Former White House press secretary Karoline Leavitt opens up about Trump, motherhood",
+   "link": "https://www.foxnews.com/politics/former-white-house-press-secretary-karoline-leavitt-opens-up-about-trump-motherhood",
+   "tags": [
+    "Congress & Legislation",
+    "Presidency & Executive Branch",
+    "Russia & Ukraine"
+   ],
+   "sources": [
+    "BBC",
+    "Fox News",
+    "The New York Times",
+    "Washington Examiner"
+   ],
+   "source_count": 4,
+   "experts": [
+    {
+     "name": "Jaffer, Jamil",
+     "title": "Assistant Professor of Law; Founder and Executive Director",
+     "college": "Law",
+     "credentials": "BA, JD, MA",
+     "tier": "Primary",
+     "email": "jjaffer@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
+     "match_percentage": 70
+    },
+    {
+     "name": "Dueck, Colin",
+     "title": "Professor",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/cdueck",
+     "match_percentage": 57
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 48
+    },
+    {
+     "name": "Petryk, Mariia",
+     "title": "Assistant Professor of Information Systems and Operations Management",
+     "college": "Business",
+     "credentials": "BS, MS, BA, PhD",
+     "tier": "Primary",
+     "email": "mpetryk@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/mpetryk",
+     "match_percentage": 39
+    },
+    {
+     "name": "Barnes, Steven",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "sbarnes3@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/sbarnes3",
+     "match_percentage": 39
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Cornell Bans Fraternity Parties and Adds Sexual Assault Investigators",
+   "link": "https://www.nytimes.com/2026/10/13/nyregion/cornell-sexual-assault-fraternity-party-ban.html",
+   "tags": [
+    "Criminal Justice & Policing"
+   ],
+   "sources": [
+    "BBC",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Gill, Charlotte",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "cgill9@gmu.edu",
+     "profile_url": "https://cls.gmu.edu/people/cgill9",
+     "match_percentage": 74
+    },
+    {
+     "name": "Lum, Cynthia",
+     "title": "Distinguished University Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": "clum@gmu.edu",
+     "profile_url": "https://cls.gmu.edu/people/clum",
+     "match_percentage": 74
+    },
+    {
+     "name": "Foudray, Chelsea",
+     "title": "Postdoctoral Fellow, Criminology, Law and Society",
+     "college": "Humanities & Social Sciences",
+     "credentials": "MA, PhD",
+     "tier": "Primary",
+     "email": "mvandijk@gmu.edu",
+     "profile_url": "https://cls.gmu.edu/people/mvandijk",
+     "match_percentage": 74
+    },
+    {
+     "name": "Ramsdell, Justin",
+     "title": "Associate Chair for Undergraduate Education",
+     "college": "Humanities & Social Sciences",
+     "credentials": "Professor of Psychology",
+     "tier": "Primary",
+     "email": "jramsde2@gmu.edu",
+     "profile_url": "https://psychology.gmu.edu/people/jramsde2",
+     "match_percentage": 74
+    },
+    {
+     "name": "Maulden, Patricia",
+     "title": "Professor of Conflict Analysis and Resolution",
+     "college": "Peace & Conflict",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": "pmaulden@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/pmaulden",
+     "match_percentage": 74
+    }
+   ],
+   "category": "Politics & Government"
+  }
+ ]
+}
