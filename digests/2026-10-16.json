@@ -1,0 +1,350 @@
+{
+ "generated_at": "2026-10-16T11:23:31.314123+00:00",
+ "headline_count": 5,
+ "summary": "5 stories today, led by coverage of Politics & Government and Foreign Policy & Security.",
+ "items": [
+  {
+   "title": "Pentagon says Trump and Hegseth \u2018completely aligned\u2019 on decision to cancel livestream of firing squad execution \u2013 as it happened",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/15/donald-trump-midterms-rallies-iran-ukraine-starlink-intelligence-fuel-gas-cost-of-living-latest-news-updates",
+   "tags": [
+    "Elections & Voting",
+    "Defense & Military Policy",
+    "Social Media & Disinformation",
+    "Public Health & Pandemic Preparedness"
+   ],
+   "sources": [
+    "BBC",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Balakian, Sophia",
+     "title": "Assistant Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, PhD",
+     "tier": "Primary",
+     "email": "sbalakia@gmu.edu",
+     "profile_url": "https://integrative.gmu.edu/people/sbalakia",
+     "match_percentage": 47
+    },
+    {
+     "name": "Roess, Amira",
+     "title": "Professor",
+     "college": "Public Health",
+     "credentials": "PhD, MPH",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://publichealth.gmu.edu/profiles/aroess",
+     "match_percentage": 47
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 44
+    },
+    {
+     "name": "Karmegam, Sabari Rajan",
+     "title": "Assistant Professor of Information Systems and Operations Management. BE 2002",
+     "college": "Business",
+     "credentials": "MBA, PhD",
+     "tier": "Primary",
+     "email": "skarmega@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/skarmega",
+     "match_percentage": 41
+    },
+    {
+     "name": "Nelson, Jill Karen",
+     "title": "Associate Dean",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://cec.gmu.edu/profiles/jnelson",
+     "match_percentage": 41
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Trans neo-Nazi accused of plotting Hindu temple massacre, will receive hormone treatment in jail: officials",
+   "link": "https://www.foxnews.com/us/trans-neo-nazi-accused-plotting-hindu-temple-massacre-receive-hormone-treatment-jail-officials",
+   "tags": [
+    "Gun Policy & Second Amendment",
+    "Terrorism & Counterterrorism",
+    "Mental Health",
+    "Criminal Justice & Policing"
+   ],
+   "sources": [
+    "BBC",
+    "Fox News",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Shariati, Auzeen",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "asharia@gmu.edu",
+     "profile_url": "https://cls.gmu.edu/people/asharia",
+     "match_percentage": 54
+    },
+    {
+     "name": "Ramsdell, Justin",
+     "title": "Associate Chair for Undergraduate Education",
+     "college": "Humanities & Social Sciences",
+     "credentials": "Professor of Psychology",
+     "tier": "Primary",
+     "email": "jramsde2@gmu.edu",
+     "profile_url": "https://psychology.gmu.edu/people/jramsde2",
+     "match_percentage": 54
+    },
+    {
+     "name": "Maulden, Patricia",
+     "title": "Professor of Conflict Analysis and Resolution",
+     "college": "Peace & Conflict",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": "pmaulden@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/pmaulden",
+     "match_percentage": 54
+    },
+    {
+     "name": "Shelley, Louise I.",
+     "title": "Distinguished University Professor Emerita, and Omer L. and Nancy Hirst Chair Emerita",
+     "college": "Policy & Gov",
+     "credentials": null,
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 54
+    },
+    {
+     "name": "King, Daphne",
+     "title": "Assistant Professor",
+     "college": "Public Health",
+     "credentials": "EdD, MSW, LCSW",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://publichealth.gmu.edu/profiles/dking",
+     "match_percentage": 54
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
+   "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "State & Local Government",
+    "Criminal Justice & Policing",
+    "Gun Policy & Second Amendment"
+   ],
+   "sources": [
+    "BBC",
+    "NPR",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 4,
+   "experts": [
+    {
+     "name": "Maulden, Patricia",
+     "title": "Professor of Conflict Analysis and Resolution",
+     "college": "Peace & Conflict",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": "pmaulden@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/pmaulden",
+     "match_percentage": 57
+    },
+    {
+     "name": "Ramsdell, Justin",
+     "title": "Associate Chair for Undergraduate Education",
+     "college": "Humanities & Social Sciences",
+     "credentials": "Professor of Psychology",
+     "tier": "Primary",
+     "email": "jramsde2@gmu.edu",
+     "profile_url": "https://psychology.gmu.edu/people/jramsde2",
+     "match_percentage": 48
+    },
+    {
+     "name": "Viano, Samantha",
+     "title": "Associate Professor of Education",
+     "college": "Ed & Human Development",
+     "credentials": "PhD",
+     "tier": "Primary",
+     "email": "sviano@gmu.edu",
+     "profile_url": "https://cehd.gmu.edu/people/faculty/sviano/",
+     "match_percentage": 39
+    },
+    {
+     "name": "Dailey, Stephanie",
+     "title": "Assistant Professor of Education",
+     "college": "Ed & Human Development",
+     "credentials": "EdD",
+     "tier": "Primary",
+     "email": "sdailey@gmu.edu",
+     "profile_url": "https://cehd.gmu.edu/people/faculty/sdailey/",
+     "match_percentage": 39
+    },
+    {
+     "name": "Gill, Charlotte",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "cgill9@gmu.edu",
+     "profile_url": "https://cls.gmu.edu/people/cgill9",
+     "match_percentage": 39
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "FBI investigates letters with \u2018unknown substance\u2019 sent to US election officials",
+   "link": "https://www.theguardian.com/us-news/2026/oct/15/fbi-usps-letters-unknown-substance-election",
+   "tags": [
+    "Elections & Voting",
+    "Congress & Legislation",
+    "Criminal Justice & Policing"
+   ],
+   "sources": [
+    "BBC",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Muhlhausen, David",
+     "title": "Adjunct Faculty; Research Fellow in Empirical Policy Analysis, The Heritage Foundation",
+     "college": "Policy & Gov",
+     "credentials": null,
+     "tier": "Primary",
+     "email": "dmuhlhau@gmu.edu",
+     "profile_url": "https://schar.gmu.edu/profiles/dmuhlhau",
+     "match_percentage": 61
+    },
+    {
+     "name": "Foudray, Chelsea",
+     "title": "Postdoctoral Fellow, Criminology, Law and Society",
+     "college": "Humanities & Social Sciences",
+     "credentials": "MA, PhD",
+     "tier": "Primary",
+     "email": "mvandijk@gmu.edu",
+     "profile_url": "https://cls.gmu.edu/people/mvandijk",
+     "match_percentage": 57
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 57
+    },
+    {
+     "name": "Martinelli, Cesar",
+     "title": "Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": "cmarti33@gmu.edu",
+     "profile_url": "https://economics.gmu.edu/people/cmarti33",
+     "match_percentage": 48
+    },
+    {
+     "name": "Ramsdell, Justin",
+     "title": "Associate Chair for Undergraduate Education",
+     "college": "Humanities & Social Sciences",
+     "credentials": "Professor of Psychology",
+     "tier": "Primary",
+     "email": "jramsde2@gmu.edu",
+     "profile_url": "https://psychology.gmu.edu/people/jramsde2",
+     "match_percentage": 48
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Europe sent Putin $1 trillion, Obama blinked, and Biden tied Ukraine\u2019s hands. Why is Trump the only traitor?",
+   "link": "https://www.washingtonexaminer.com/op-eds/4767727/trump-russia-diesel-deal-ukraine-double-standard/",
+   "tags": [
+    "Russia & Ukraine"
+   ],
+   "sources": [
+    "BBC",
+    "Fox News",
+    "The Guardian",
+    "The New York Times",
+    "Washington Examiner"
+   ],
+   "source_count": 5,
+   "experts": [
+    {
+     "name": "Petryk, Mariia",
+     "title": "Assistant Professor of Information Systems and Operations Management",
+     "college": "Business",
+     "credentials": "BS, MS, BA, PhD",
+     "tier": "Primary",
+     "email": "mpetryk@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/mpetryk",
+     "match_percentage": 91
+    },
+    {
+     "name": "Staklo, Vadim",
+     "title": "Associate Professor, European History",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "vstaklo@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/vstaklo",
+     "match_percentage": 91
+    },
+    {
+     "name": "Barnes, Steven",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "sbarnes3@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/sbarnes3",
+     "match_percentage": 82
+    },
+    {
+     "name": "Shelley, Louise I.",
+     "title": "Distinguished University Professor Emerita, and Omer L. and Nancy Hirst Chair Emerita",
+     "college": "Policy & Gov",
+     "credentials": null,
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 82
+    },
+    {
+     "name": "Uehling, Greta",
+     "title": "Visiting Scholar, Carter School, 2024",
+     "college": "Peace & Conflict",
+     "credentials": null,
+     "tier": "Primary",
+     "email": "guehling@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/guehling",
+     "match_percentage": 74
+    }
+   ],
+   "category": "Foreign Policy & Security"
+  }
+ ]
+}
