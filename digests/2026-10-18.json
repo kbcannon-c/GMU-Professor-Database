@@ -1,0 +1,143 @@
+{
+ "generated_at": "2026-10-18T11:17:12.608477+00:00",
+ "headline_count": 2,
+ "summary": "2 stories today, led by coverage of Politics & Government and Climate & Environment.",
+ "items": [
+  {
+   "title": "Can Ken Paxton outrun a trail of scandal to win US Senate seat in ruby-red Texas?",
+   "link": "https://www.theguardian.com/us-news/2026/oct/18/ken-paxton-texas-senate-scandal-midterms",
+   "tags": [
+    "Elections & Voting",
+    "Congress & Legislation",
+    "Housing & Real Estate",
+    "Small Business & Entrepreneurship"
+   ],
+   "sources": [
+    "The Guardian",
+    "The New York Times",
+    "Washington Examiner"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Greenwood, Brad",
+     "title": "Professor of Information Systems and Operations Management",
+     "college": "Business",
+     "credentials": "BS, MBA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 48
+    },
+    {
+     "name": "Mullen, Lincoln",
+     "title": "Director",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "lmullen@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/lmullen",
+     "match_percentage": 48
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 44
+    },
+    {
+     "name": "Wolfe, James W.",
+     "title": "Instructional Associate Professor of Management",
+     "college": "Business",
+     "credentials": "BS, MBA, JD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://business.gmu.edu/profiles/jwolfe7",
+     "match_percentage": 39
+    },
+    {
+     "name": "Martinelli, Cesar",
+     "title": "Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": "cmarti33@gmu.edu",
+     "profile_url": "https://economics.gmu.edu/people/cmarti33",
+     "match_percentage": 39
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Florida fisherman, 71, killed by nearly 12-foot alligator as rescuers face more gators",
+   "link": "https://www.foxnews.com/lifestyle/florida-fisherman-71-killed-nearly-12-foot-alligator-rescuers-face-more-gators",
+   "tags": [
+    "Conservation & Biodiversity",
+    "Criminal Justice & Policing"
+   ],
+   "sources": [
+    "BBC",
+    "Fox News",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Howard, Susan",
+     "title": "Associate Professor, School of Integrative Studies",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, PhD, MPH",
+     "tier": "Primary",
+     "email": "showar16@gmu.edu",
+     "profile_url": "https://integrative.gmu.edu/people/showar16",
+     "match_percentage": 59
+    },
+    {
+     "name": "Scafide, Katherine",
+     "title": "Associate Professor",
+     "college": "Public Health",
+     "credentials": "PhD, RN, FAAN, FAAFS",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://publichealth.gmu.edu/profiles/kscafide",
+     "match_percentage": 59
+    },
+    {
+     "name": "Gill, Charlotte",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "cgill9@gmu.edu",
+     "profile_url": "https://cls.gmu.edu/people/cgill9",
+     "match_percentage": 50
+    },
+    {
+     "name": "Shariati, Auzeen",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "asharia@gmu.edu",
+     "profile_url": "https://cls.gmu.edu/people/asharia",
+     "match_percentage": 50
+    },
+    {
+     "name": "Ramsdell, Justin",
+     "title": "Associate Chair for Undergraduate Education",
+     "college": "Humanities & Social Sciences",
+     "credentials": "Professor of Psychology",
+     "tier": "Primary",
+     "email": "jramsde2@gmu.edu",
+     "profile_url": "https://psychology.gmu.edu/people/jramsde2",
+     "match_percentage": 50
+    }
+   ],
+   "category": "Climate & Environment"
+  }
+ ]
+}

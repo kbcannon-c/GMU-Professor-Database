@@ -1,26 +1,64 @@
 {
- "generated_at": "2026-10-17T11:17:58.445639+00:00",
+ "generated_at": "2026-10-18T11:17:12.608477+00:00",
  "headline_count": 2,
- "summary": "2 stories today, led by coverage of Politics & Government.",
+ "summary": "2 stories today, led by coverage of Politics & Government and Climate & Environment.",
  "items": [
   {
-   "title": "From \u2018Third Reich\u2019 to \u2018not that informed\u2019: Senate debates deliver fireworks before midterms",
-   "link": "https://www.foxnews.com/politics/third-reich-not-informed-senate-debates-deliver-fireworks-before-midterms",
+   "title": "Can Ken Paxton outrun a trail of scandal to win US Senate seat in ruby-red Texas?",
+   "link": "https://www.theguardian.com/us-news/2026/oct/18/ken-paxton-texas-senate-scandal-midterms",
    "tags": [
-    "Congress & Legislation",
     "Elections & Voting",
-    "Political Polarization & Extremism",
-    "Middle East"
+    "Congress & Legislation",
+    "Housing & Real Estate",
+    "Small Business & Entrepreneurship"
    ],
    "sources": [
-    "BBC",
-    "Fox News",
     "The Guardian",
     "The New York Times",
     "Washington Examiner"
    ],
-   "source_count": 5,
+   "source_count": 3,
    "experts": [
+    {
+     "name": "Greenwood, Brad",
+     "title": "Professor of Information Systems and Operations Management",
+     "college": "Business",
+     "credentials": "BS, MBA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 48
+    },
+    {
+     "name": "Mullen, Lincoln",
+     "title": "Director",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "lmullen@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/lmullen",
+     "match_percentage": 48
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 44
+    },
+    {
+     "name": "Wolfe, James W.",
+     "title": "Instructional Associate Professor of Management",
+     "college": "Business",
+     "credentials": "BS, MBA, JD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://business.gmu.edu/profiles/jwolfe7",
+     "match_percentage": 39
+    },
     {
      "name": "Martinelli, Cesar",
      "title": "Professor",
@@ -29,118 +67,77 @@
      "tier": "Primary",
      "email": "cmarti33@gmu.edu",
      "profile_url": "https://economics.gmu.edu/people/cmarti33",
-     "match_percentage": 48
-    },
-    {
-     "name": "Flores, Thomas E.",
-     "title": "Associate Professor and Director of Graduate Programs",
-     "college": "Peace & Conflict",
-     "credentials": "BA, PhD",
-     "tier": "Primary",
-     "email": "tflores2@gmu.edu",
-     "profile_url": "https://carterschool.gmu.edu/profiles/tflores2",
-     "match_percentage": 48
-    },
-    {
-     "name": "Gopin, Marc",
-     "title": "James H. Laue Professor of World Religions",
-     "college": "Peace & Conflict",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": "mgopin@gmu.edu",
-     "profile_url": "https://carterschool.gmu.edu/profiles/mgopin",
-     "match_percentage": 48
-    },
-    {
-     "name": "Amr, Hady",
-     "title": "Affiliate Faculty, the Carter School for Peace and Conflict Resolution, and the Schar School of Policy and Government",
-     "college": "Peace & Conflict",
-     "credentials": null,
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://carterschool.gmu.edu/profiles/hamr",
-     "match_percentage": 48
-    },
-    {
-     "name": "Greenberg, Nathaniel",
-     "title": "Associate Professor of Arabic",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": "ngreenbe@gmu.edu",
-     "profile_url": "https://mcl.gmu.edu/people/ngreenbe",
-     "match_percentage": 44
+     "match_percentage": 39
     }
    ],
    "category": "Politics & Government"
   },
   {
-   "title": "Analysis: Zacharia was thrown into a whirlwind - and failed at a critical time for Trump",
-   "link": "https://www.bbc.co.uk/news/articles/c6e3xnjlz12do?at_medium=RSS&at_campaign=rss",
+   "title": "Florida fisherman, 71, killed by nearly 12-foot alligator as rescuers face more gators",
+   "link": "https://www.foxnews.com/lifestyle/florida-fisherman-71-killed-nearly-12-foot-alligator-rescuers-face-more-gators",
    "tags": [
-    "Presidency & Executive Branch",
-    "Defense & Military Policy"
+    "Conservation & Biodiversity",
+    "Criminal Justice & Policing"
    ],
    "sources": [
     "BBC",
-    "NPR",
-    "The Guardian",
+    "Fox News",
     "The New York Times"
    ],
-   "source_count": 4,
+   "source_count": 3,
    "experts": [
     {
-     "name": "Jaffer, Jamil",
-     "title": "Assistant Professor of Law; Founder and Executive Director",
-     "college": "Law",
-     "credentials": "BA, JD, MA",
+     "name": "Howard, Susan",
+     "title": "Associate Professor, School of Integrative Studies",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, PhD, MPH",
      "tier": "Primary",
-     "email": "jjaffer@gmu.edu",
-     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
-     "match_percentage": 74
-    },
-    {
-     "name": "Buckley, Francis",
-     "title": "George Mason University Foundation Professor of Law",
-     "college": "Law",
-     "credentials": "BA, LLB, LLM",
-     "tier": "Primary",
-     "email": "fbuckley@gmu.edu",
-     "profile_url": "https://law.gmu.edu/directory/profiles/buckley_francis",
+     "email": "showar16@gmu.edu",
+     "profile_url": "https://integrative.gmu.edu/people/showar16",
      "match_percentage": 59
     },
     {
-     "name": "Dueck, Colin",
-     "title": "Professor",
-     "college": "Policy & Gov",
-     "credentials": "BA, MA, PhD",
+     "name": "Scafide, Katherine",
+     "title": "Associate Professor",
+     "college": "Public Health",
+     "credentials": "PhD, RN, FAAN, FAAFS",
      "tier": "Primary",
      "email": null,
-     "profile_url": "https://schar.gmu.edu/profiles/cdueck",
+     "profile_url": "https://publichealth.gmu.edu/profiles/kscafide",
      "match_percentage": 59
     },
     {
-     "name": "Pichichero, Christy",
-     "title": "Associate Professor of French",
+     "name": "Gill, Charlotte",
+     "title": "Associate Professor",
      "college": "Humanities & Social Sciences",
-     "credentials": "AB, BM, PhD",
+     "credentials": "BA, MA, PhD",
      "tier": "Primary",
-     "email": "cpichich@gmu.edu",
-     "profile_url": "https://aaas.gmu.edu/people/cpichich",
+     "email": "cgill9@gmu.edu",
+     "profile_url": "https://cls.gmu.edu/people/cgill9",
      "match_percentage": 50
     },
     {
-     "name": "Peterson, Matthew S.",
-     "title": "Professor, Cognitive and Behavioral Neuroscience and Human Factors/Applied Cognition",
+     "name": "Shariati, Auzeen",
+     "title": "Associate Professor",
      "college": "Humanities & Social Sciences",
-     "credentials": "PhD",
+     "credentials": "BA, MA, PhD",
      "tier": "Primary",
-     "email": "mpeters2@gmu.edu",
-     "profile_url": "https://psychology.gmu.edu/people/mpeters2",
+     "email": "asharia@gmu.edu",
+     "profile_url": "https://cls.gmu.edu/people/asharia",
+     "match_percentage": 50
+    },
+    {
+     "name": "Ramsdell, Justin",
+     "title": "Associate Chair for Undergraduate Education",
+     "college": "Humanities & Social Sciences",
+     "credentials": "Professor of Psychology",
+     "tier": "Primary",
+     "email": "jramsde2@gmu.edu",
+     "profile_url": "https://psychology.gmu.edu/people/jramsde2",
      "match_percentage": 50
     }
    ],
-   "category": "Politics & Government"
+   "category": "Climate & Environment"
   }
  ]
 }
