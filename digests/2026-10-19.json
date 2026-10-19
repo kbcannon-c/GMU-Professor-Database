@@ -1,0 +1,143 @@
+{
+ "generated_at": "2026-10-19T11:25:06.254098+00:00",
+ "headline_count": 2,
+ "summary": "2 stories today, led by coverage of Politics & Government and Foreign Policy & Security.",
+ "items": [
+  {
+   "title": "Obama condemns comments by \u2018border czar\u2019 that Ilhan Omar could \u2018of course\u2019 be denaturalized",
+   "link": "https://www.theguardian.com/us-news/2026/oct/18/tom-homan-trump-ilhan-omar-citizenship-deportation",
+   "tags": [
+    "Immigration Law & Policy",
+    "Elections & Voting",
+    "Presidency & Executive Branch"
+   ],
+   "sources": [
+    "The Guardian",
+    "The New York Times",
+    "Washington Examiner"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Buckley, Francis",
+     "title": "George Mason University Foundation Professor of Law",
+     "college": "Law",
+     "credentials": "BA, LLB, LLM",
+     "tier": "Primary",
+     "email": "fbuckley@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/buckley_francis",
+     "match_percentage": 78
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 70
+    },
+    {
+     "name": "Dueck, Colin",
+     "title": "Professor",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/cdueck",
+     "match_percentage": 57
+    },
+    {
+     "name": "Martinelli, Cesar",
+     "title": "Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": "cmarti33@gmu.edu",
+     "profile_url": "https://economics.gmu.edu/people/cmarti33",
+     "match_percentage": 39
+    },
+    {
+     "name": "Jaffer, Jamil",
+     "title": "Assistant Professor of Law; Founder and Executive Director",
+     "college": "Law",
+     "credentials": "BA, JD, MA",
+     "tier": "Primary",
+     "email": "jjaffer@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
+     "match_percentage": 39
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Trump brands federal judge a \u2018crazed lunatic\u2019 amid clashes over his golf course project \u2013 US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
+   "tags": [
+    "Russia & Ukraine",
+    "Presidency & Executive Branch",
+    "Defense & Military Policy"
+   ],
+   "sources": [
+    "NPR",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Jaffer, Jamil",
+     "title": "Assistant Professor of Law; Founder and Executive Director",
+     "college": "Law",
+     "credentials": "BA, JD, MA",
+     "tier": "Primary",
+     "email": "jjaffer@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
+     "match_percentage": 70
+    },
+    {
+     "name": "Petryk, Mariia",
+     "title": "Assistant Professor of Information Systems and Operations Management",
+     "college": "Business",
+     "credentials": "BS, MS, BA, PhD",
+     "tier": "Primary",
+     "email": "mpetryk@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/mpetryk",
+     "match_percentage": 57
+    },
+    {
+     "name": "Barnes, Steven",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "sbarnes3@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/sbarnes3",
+     "match_percentage": 57
+    },
+    {
+     "name": "Uehling, Greta",
+     "title": "Visiting Scholar, Carter School, 2024",
+     "college": "Peace & Conflict",
+     "credentials": null,
+     "tier": "Primary",
+     "email": "guehling@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/guehling",
+     "match_percentage": 57
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 57
+    }
+   ],
+   "category": "Foreign Policy & Security"
+  }
+ ]
+}
