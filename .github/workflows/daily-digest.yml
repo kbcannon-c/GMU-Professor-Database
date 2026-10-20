@@ -40,4 +40,13 @@ jobs:
           git config user.email "actions@github.com"
           git add today.json digests/
           git diff --cached --quiet && echo "No changes to commit" || git commit -m "Update today's digest [automated]"
-          git push
+          # Rebase onto the latest remote main right before pushing, with a
+          # few retries. Without this, a plain `git push` gets rejected
+          # ("fetch first") any time something else landed on main after this
+          # job's checkout — e.g. a manual file upload or an overlapping run —
+          # since the job's local branch is then behind origin.
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            echo "Push attempt $i failed (likely a race with another push), retrying in 5s..."
+            sleep 5
+          done
