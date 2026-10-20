@@ -1,33 +1,26 @@
 {
- "generated_at": "2026-10-19T11:25:06.254098+00:00",
+ "generated_at": "2026-10-20T11:24:28.312185+00:00",
  "headline_count": 2,
- "summary": "2 stories today, led by coverage of Politics & Government and Foreign Policy & Security.",
+ "summary": "2 stories today, led by coverage of Politics & Government.",
  "items": [
   {
-   "title": "Obama condemns comments by \u2018border czar\u2019 that Ilhan Omar could \u2018of course\u2019 be denaturalized",
-   "link": "https://www.theguardian.com/us-news/2026/oct/18/tom-homan-trump-ilhan-omar-citizenship-deportation",
+   "title": "Federal efforts over alleged noncitizen voting escalate with California arrests | First Thing",
+   "link": "https://www.theguardian.com/us-news/2026/oct/20/first-thing-federal-efforts-over-alleged-noncitizen-voting-escalate-with-california-arrests",
    "tags": [
-    "Immigration Law & Policy",
     "Elections & Voting",
-    "Presidency & Executive Branch"
+    "Immigration Law & Policy",
+    "Defense & Military Policy",
+    "Congress & Legislation"
    ],
    "sources": [
+    "Fox News",
+    "NPR",
     "The Guardian",
     "The New York Times",
     "Washington Examiner"
    ],
-   "source_count": 3,
+   "source_count": 5,
    "experts": [
-    {
-     "name": "Buckley, Francis",
-     "title": "George Mason University Foundation Professor of Law",
-     "college": "Law",
-     "credentials": "BA, LLB, LLM",
-     "tier": "Primary",
-     "email": "fbuckley@gmu.edu",
-     "profile_url": "https://law.gmu.edu/directory/profiles/buckley_francis",
-     "match_percentage": 78
-    },
     {
      "name": "Rozell, Mark",
      "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
@@ -36,8 +29,67 @@
      "tier": "Primary",
      "email": null,
      "profile_url": "https://schar.gmu.edu/profiles/mrozell",
-     "match_percentage": 70
+     "match_percentage": 54
     },
+    {
+     "name": "Jaffer, Jamil",
+     "title": "Assistant Professor of Law; Founder and Executive Director",
+     "college": "Law",
+     "credentials": "BA, JD, MA",
+     "tier": "Primary",
+     "email": "jjaffer@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
+     "match_percentage": 45
+    },
+    {
+     "name": "Muhlhausen, David",
+     "title": "Adjunct Faculty; Research Fellow in Empirical Policy Analysis, The Heritage Foundation",
+     "college": "Policy & Gov",
+     "credentials": null,
+     "tier": "Primary",
+     "email": "dmuhlhau@gmu.edu",
+     "profile_url": "https://schar.gmu.edu/profiles/dmuhlhau",
+     "match_percentage": 45
+    },
+    {
+     "name": "Viano, Samantha",
+     "title": "Associate Professor of Education",
+     "college": "Ed & Human Development",
+     "credentials": "PhD",
+     "tier": "Primary",
+     "email": "sviano@gmu.edu",
+     "profile_url": "https://cehd.gmu.edu/people/faculty/sviano/",
+     "match_percentage": 44
+    },
+    {
+     "name": "Dailey, Stephanie",
+     "title": "Assistant Professor of Education",
+     "college": "Ed & Human Development",
+     "credentials": "EdD",
+     "tier": "Primary",
+     "email": "sdailey@gmu.edu",
+     "profile_url": "https://cehd.gmu.edu/people/faculty/sdailey/",
+     "match_percentage": 44
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Kansas Senate race on a knife edge as Democrats aim to end 94 years of Republican dominance",
+   "link": "https://www.theguardian.com/us-news/2026/oct/20/kansas-senate-race-democrat-adam-hamilton",
+   "tags": [
+    "Presidency & Executive Branch",
+    "Congress & Legislation",
+    "Campaigns & Political Communication",
+    "Housing & Real Estate"
+   ],
+   "sources": [
+    "Fox News",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
     {
      "name": "Dueck, Colin",
      "title": "Professor",
@@ -46,98 +98,50 @@
      "tier": "Primary",
      "email": null,
      "profile_url": "https://schar.gmu.edu/profiles/cdueck",
-     "match_percentage": 57
+     "match_percentage": 46
     },
     {
-     "name": "Martinelli, Cesar",
-     "title": "Professor",
+     "name": "Peterson, Andrew H.",
+     "title": "Associate Professor, Philosophy and Institute for Philosophy and Public Policy",
      "college": "Humanities & Social Sciences",
-     "credentials": "BA, MS, PhD",
+     "credentials": "MA, PhD",
      "tier": "Primary",
-     "email": "cmarti33@gmu.edu",
-     "profile_url": "https://economics.gmu.edu/people/cmarti33",
+     "email": "apeter31@gmu.edu",
+     "profile_url": "https://philosophy.gmu.edu/people/apeter31",
      "match_percentage": 39
     },
     {
-     "name": "Jaffer, Jamil",
-     "title": "Assistant Professor of Law; Founder and Executive Director",
-     "college": "Law",
-     "credentials": "BA, JD, MA",
-     "tier": "Primary",
-     "email": "jjaffer@gmu.edu",
-     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
-     "match_percentage": 39
-    }
-   ],
-   "category": "Politics & Government"
-  },
-  {
-   "title": "Trump brands federal judge a \u2018crazed lunatic\u2019 amid clashes over his golf course project \u2013 US politics live",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/19/donald-trump-kansas-roger-marshall-golf-ukraine-midterms-latest-news-updates",
-   "tags": [
-    "Russia & Ukraine",
-    "Presidency & Executive Branch",
-    "Defense & Military Policy"
-   ],
-   "sources": [
-    "NPR",
-    "The Guardian",
-    "The New York Times"
-   ],
-   "source_count": 3,
-   "experts": [
-    {
-     "name": "Jaffer, Jamil",
-     "title": "Assistant Professor of Law; Founder and Executive Director",
-     "college": "Law",
-     "credentials": "BA, JD, MA",
-     "tier": "Primary",
-     "email": "jjaffer@gmu.edu",
-     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
-     "match_percentage": 70
-    },
-    {
-     "name": "Petryk, Mariia",
-     "title": "Assistant Professor of Information Systems and Operations Management",
+     "name": "Gring-Pemble, Lisa",
+     "title": "Associate Professor of Business Foundations",
      "college": "Business",
-     "credentials": "BS, MS, BA, PhD",
-     "tier": "Primary",
-     "email": "mpetryk@gmu.edu",
-     "profile_url": "https://business.gmu.edu/profiles/mpetryk",
-     "match_percentage": 57
-    },
-    {
-     "name": "Barnes, Steven",
-     "title": "Associate Professor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": "sbarnes3@gmu.edu",
-     "profile_url": "https://historyarthistory.gmu.edu/people/sbarnes3",
-     "match_percentage": 57
-    },
-    {
-     "name": "Uehling, Greta",
-     "title": "Visiting Scholar, Carter School, 2024",
-     "college": "Peace & Conflict",
-     "credentials": null,
-     "tier": "Primary",
-     "email": "guehling@gmu.edu",
-     "profile_url": "https://carterschool.gmu.edu/profiles/guehling",
-     "match_percentage": 57
-    },
-    {
-     "name": "Rozell, Mark",
-     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
-     "college": "Policy & Gov",
      "credentials": "BA, MA, PhD",
      "tier": "Primary",
      "email": null,
-     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
-     "match_percentage": 57
+     "profile_url": null,
+     "match_percentage": 37
+    },
+    {
+     "name": "Ascoli, Giorgio A.",
+     "title": "Distinguished University Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://cec.gmu.edu/profiles/ascoli",
+     "match_percentage": 37
+    },
+    {
+     "name": "Peixoto, Nathalia",
+     "title": "Associate Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, DSc",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 37
     }
    ],
-   "category": "Foreign Policy & Security"
+   "category": "Politics & Government"
   }
  ]
 }

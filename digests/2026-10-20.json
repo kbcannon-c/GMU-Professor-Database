@@ -1,0 +1,147 @@
+{
+ "generated_at": "2026-10-20T11:24:28.312185+00:00",
+ "headline_count": 2,
+ "summary": "2 stories today, led by coverage of Politics & Government.",
+ "items": [
+  {
+   "title": "Federal efforts over alleged noncitizen voting escalate with California arrests | First Thing",
+   "link": "https://www.theguardian.com/us-news/2026/oct/20/first-thing-federal-efforts-over-alleged-noncitizen-voting-escalate-with-california-arrests",
+   "tags": [
+    "Elections & Voting",
+    "Immigration Law & Policy",
+    "Defense & Military Policy",
+    "Congress & Legislation"
+   ],
+   "sources": [
+    "Fox News",
+    "NPR",
+    "The Guardian",
+    "The New York Times",
+    "Washington Examiner"
+   ],
+   "source_count": 5,
+   "experts": [
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 54
+    },
+    {
+     "name": "Jaffer, Jamil",
+     "title": "Assistant Professor of Law; Founder and Executive Director",
+     "college": "Law",
+     "credentials": "BA, JD, MA",
+     "tier": "Primary",
+     "email": "jjaffer@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
+     "match_percentage": 45
+    },
+    {
+     "name": "Muhlhausen, David",
+     "title": "Adjunct Faculty; Research Fellow in Empirical Policy Analysis, The Heritage Foundation",
+     "college": "Policy & Gov",
+     "credentials": null,
+     "tier": "Primary",
+     "email": "dmuhlhau@gmu.edu",
+     "profile_url": "https://schar.gmu.edu/profiles/dmuhlhau",
+     "match_percentage": 45
+    },
+    {
+     "name": "Viano, Samantha",
+     "title": "Associate Professor of Education",
+     "college": "Ed & Human Development",
+     "credentials": "PhD",
+     "tier": "Primary",
+     "email": "sviano@gmu.edu",
+     "profile_url": "https://cehd.gmu.edu/people/faculty/sviano/",
+     "match_percentage": 44
+    },
+    {
+     "name": "Dailey, Stephanie",
+     "title": "Assistant Professor of Education",
+     "college": "Ed & Human Development",
+     "credentials": "EdD",
+     "tier": "Primary",
+     "email": "sdailey@gmu.edu",
+     "profile_url": "https://cehd.gmu.edu/people/faculty/sdailey/",
+     "match_percentage": 44
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Kansas Senate race on a knife edge as Democrats aim to end 94 years of Republican dominance",
+   "link": "https://www.theguardian.com/us-news/2026/oct/20/kansas-senate-race-democrat-adam-hamilton",
+   "tags": [
+    "Presidency & Executive Branch",
+    "Congress & Legislation",
+    "Campaigns & Political Communication",
+    "Housing & Real Estate"
+   ],
+   "sources": [
+    "Fox News",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Dueck, Colin",
+     "title": "Professor",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/cdueck",
+     "match_percentage": 46
+    },
+    {
+     "name": "Peterson, Andrew H.",
+     "title": "Associate Professor, Philosophy and Institute for Philosophy and Public Policy",
+     "college": "Humanities & Social Sciences",
+     "credentials": "MA, PhD",
+     "tier": "Primary",
+     "email": "apeter31@gmu.edu",
+     "profile_url": "https://philosophy.gmu.edu/people/apeter31",
+     "match_percentage": 39
+    },
+    {
+     "name": "Gring-Pemble, Lisa",
+     "title": "Associate Professor of Business Foundations",
+     "college": "Business",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 37
+    },
+    {
+     "name": "Ascoli, Giorgio A.",
+     "title": "Distinguished University Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://cec.gmu.edu/profiles/ascoli",
+     "match_percentage": 37
+    },
+    {
+     "name": "Peixoto, Nathalia",
+     "title": "Associate Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, DSc",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 37
+    }
+   ],
+   "category": "Politics & Government"
+  }
+ ]
+}
