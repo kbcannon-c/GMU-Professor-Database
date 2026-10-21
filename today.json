@@ -1,6 +1,210 @@
 {
- "generated_at": "2026-10-20T21:46:40.424548+00:00",
- "headline_count": 0,
- "summary": "No headlines matched a GMU expert tag in the last 24 hours.",
- "items": []
+ "generated_at": "2026-10-21T11:24:43.750032+00:00",
+ "headline_count": 3,
+ "summary": "3 stories today, led by coverage of Foreign Policy & Security, Politics & Government, and Social Issues & Culture.",
+ "items": [
+  {
+   "title": "Russia releases American teacher imprisoned on Ukraine mercenary charges after Trump pressed Putin",
+   "link": "https://www.foxnews.com/world/stephen-hubbard-russia-american-prisoner-release",
+   "tags": [
+    "Russia & Ukraine",
+    "Defense & Military Policy",
+    "Tariffs & Globalization"
+   ],
+   "sources": [
+    "BBC",
+    "Fox News",
+    "NPR",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 5,
+   "experts": [
+    {
+     "name": "Petryk, Mariia",
+     "title": "Assistant Professor of Information Systems and Operations Management",
+     "college": "Business",
+     "credentials": "BS, MS, BA, PhD",
+     "tier": "Primary",
+     "email": "mpetryk@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/mpetryk",
+     "match_percentage": 48
+    },
+    {
+     "name": "Barnes, Steven",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "sbarnes3@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/sbarnes3",
+     "match_percentage": 48
+    },
+    {
+     "name": "Staklo, Vadim",
+     "title": "Associate Professor, European History",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "vstaklo@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/vstaklo",
+     "match_percentage": 48
+    },
+    {
+     "name": "Shelley, Louise I.",
+     "title": "Distinguished University Professor Emerita, and Omer L. and Nancy Hirst Chair Emerita",
+     "college": "Policy & Gov",
+     "credentials": null,
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 48
+    },
+    {
+     "name": "Uehling, Greta",
+     "title": "Visiting Scholar, Carter School, 2024",
+     "college": "Peace & Conflict",
+     "credentials": null,
+     "tier": "Primary",
+     "email": "guehling@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/guehling",
+     "match_percentage": 39
+    }
+   ],
+   "category": "Foreign Policy & Security"
+  },
+  {
+   "title": "The Guardian view on Alberta\u2019s referendum: Canada holds together \u2013 against Donald Trump | Editorial",
+   "link": "https://www.theguardian.com/commentisfree/2026/oct/20/the-guardian-view-on-albertas-referendum-canada-holds-together-against-donald-trump",
+   "tags": [
+    "Elections & Voting",
+    "Trade"
+   ],
+   "sources": [
+    "BBC",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 68
+    },
+    {
+     "name": "Martinelli, Cesar",
+     "title": "Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": "cmarti33@gmu.edu",
+     "profile_url": "https://economics.gmu.edu/people/cmarti33",
+     "match_percentage": 59
+    },
+    {
+     "name": "Daigle, Delton T.",
+     "title": "Term Associate Professor",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/ddaigle",
+     "match_percentage": 50
+    },
+    {
+     "name": "Kugler, Maurice D.",
+     "title": "Professor of Public Policy",
+     "college": "Policy & Gov",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mkugler",
+     "match_percentage": 50
+    },
+    {
+     "name": "Boudreaux, Donald J.",
+     "title": "Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD, JD",
+     "tier": "Primary",
+     "email": "dboudrea@gmu.edu",
+     "profile_url": "https://economics.gmu.edu/people/dboudrea",
+     "match_percentage": 41
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "LeBron James and Sixers spoil Knicks\u2019 title party as Thunder and Pistons win NBA openers",
+   "link": "https://www.theguardian.com/sport/2026/oct/20/nba-opening-night-2026-results-pistons-celtics-sixers-knicks-spurs-thunder",
+   "tags": [
+    "History & Historical Scholarship"
+   ],
+   "sources": [
+    "BBC",
+    "NPR",
+    "The Guardian"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Pichichero, Christy",
+     "title": "Associate Professor of French",
+     "college": "Humanities & Social Sciences",
+     "credentials": "AB, BM, PhD",
+     "tier": "Primary",
+     "email": "cpichich@gmu.edu",
+     "profile_url": "https://aaas.gmu.edu/people/cpichich",
+     "match_percentage": 82
+    },
+    {
+     "name": "Zagarri, Rosemarie",
+     "title": "University Professor of History",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "rzagarri@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/rzagarri",
+     "match_percentage": 82
+    },
+    {
+     "name": "Chang, Michael G.",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "AB, PhD",
+     "tier": "Primary",
+     "email": "mchang5@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/mchang5",
+     "match_percentage": 74
+    },
+    {
+     "name": "Geloso, Vincent J.",
+     "title": "Assistant Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BS, MA, PhD",
+     "tier": "Primary",
+     "email": "vgeloso@gmu.edu",
+     "profile_url": "https://economics.gmu.edu/people/vgeloso",
+     "match_percentage": 74
+    },
+    {
+     "name": "Genetin-Pilawa, C. Joseph",
+     "title": "Associate Professor of History",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "cgenetin@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/cgenetin",
+     "match_percentage": 74
+    }
+   ],
+   "category": "Social Issues & Culture"
+  }
+ ]
 }
