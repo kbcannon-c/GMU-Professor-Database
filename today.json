@@ -1,89 +1,160 @@
 {
- "generated_at": "2026-10-21T11:24:43.750032+00:00",
- "headline_count": 3,
- "summary": "3 stories today, led by coverage of Foreign Policy & Security, Politics & Government, and Social Issues & Culture.",
+ "generated_at": "2026-10-22T11:25:15.801813+00:00",
+ "headline_count": 4,
+ "summary": "4 stories today, led by coverage of Politics & Government and Foreign Policy & Security.",
  "items": [
   {
-   "title": "Russia releases American teacher imprisoned on Ukraine mercenary charges after Trump pressed Putin",
-   "link": "https://www.foxnews.com/world/stephen-hubbard-russia-american-prisoner-release",
+   "title": "Trump dominates El-Sayed's attacks against Rogers, but GOP rival offers unexpected policy split",
+   "link": "https://www.foxnews.com/politics/trump-dominates-el-sayeds-attacks-against-rogers-gop-rival-offers-unexpected-policy-split",
    "tags": [
-    "Russia & Ukraine",
-    "Defense & Military Policy",
-    "Tariffs & Globalization"
+    "Elections & Voting",
+    "Congress & Legislation",
+    "Criminal Justice & Policing",
+    "Middle East"
+   ],
+   "sources": [
+    "Fox News",
+    "MIT Technology Review",
+    "NPR",
+    "The New York Times"
+   ],
+   "source_count": 4,
+   "experts": [
+    {
+     "name": "Gopin, Marc",
+     "title": "James H. Laue Professor of World Religions",
+     "college": "Peace & Conflict",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "mgopin@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/mgopin",
+     "match_percentage": 41
+    },
+    {
+     "name": "McCue-Weil, Leigh",
+     "title": "Professor and Department Chair",
+     "college": "Engineering & Computing",
+     "credentials": "BSE, MSE, PhD",
+     "tier": "Primary",
+     "email": "lmccuewe@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/lmccuewe",
+     "match_percentage": 33
+    },
+    {
+     "name": "Martinelli, Cesar",
+     "title": "Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": "cmarti33@gmu.edu",
+     "profile_url": "https://economics.gmu.edu/people/cmarti33",
+     "match_percentage": 33
+    },
+    {
+     "name": "Renshaw, Keith",
+     "title": "Senior Associate Provost for Undergraduate Education and Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BS, MA, PhD",
+     "tier": "Primary",
+     "email": "krenshaw@gmu.edu",
+     "profile_url": "https://psychology.gmu.edu/people/krenshaw",
+     "match_percentage": 33
+    },
+    {
+     "name": "Flores, Thomas E.",
+     "title": "Associate Professor and Director of Graduate Programs",
+     "college": "Peace & Conflict",
+     "credentials": "BA, PhD",
+     "tier": "Primary",
+     "email": "tflores2@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/tflores2",
+     "match_percentage": 33
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Meet the volunteers who will observe Trump\u2019s election monitors during the midterms",
+   "link": "https://www.theguardian.com/us-news/2026/oct/22/volunteers-trump-election-monitors-midterms",
+   "tags": [
+    "Elections & Voting",
+    "Campaigns & Political Communication",
+    "Supreme Court & Constitutional Law",
+    "Immigration Law & Policy"
    ],
    "sources": [
     "BBC",
-    "Fox News",
     "NPR",
-    "The Guardian",
-    "The New York Times"
+    "The Guardian"
    ],
-   "source_count": 5,
+   "source_count": 3,
    "experts": [
     {
-     "name": "Petryk, Mariia",
-     "title": "Assistant Professor of Information Systems and Operations Management",
-     "college": "Business",
-     "credentials": "BS, MS, BA, PhD",
-     "tier": "Primary",
-     "email": "mpetryk@gmu.edu",
-     "profile_url": "https://business.gmu.edu/profiles/mpetryk",
-     "match_percentage": 48
-    },
-    {
-     "name": "Barnes, Steven",
-     "title": "Associate Professor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": "sbarnes3@gmu.edu",
-     "profile_url": "https://historyarthistory.gmu.edu/people/sbarnes3",
-     "match_percentage": 48
-    },
-    {
-     "name": "Staklo, Vadim",
-     "title": "Associate Professor, European History",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": "vstaklo@gmu.edu",
-     "profile_url": "https://historyarthistory.gmu.edu/people/vstaklo",
-     "match_percentage": 48
-    },
-    {
-     "name": "Shelley, Louise I.",
-     "title": "Distinguished University Professor Emerita, and Omer L. and Nancy Hirst Chair Emerita",
+     "name": "Somin, Ilya",
+     "title": "Professor of Law, Antonin Scalia Law School; B. Kenneth Simon Chair in Constitutional Studies at the Cato Institute; University Affiliate, Schar School of Policy and Government",
      "college": "Policy & Gov",
      "credentials": null,
      "tier": "Primary",
-     "email": null,
-     "profile_url": null,
+     "email": "isomin@gmu.edu",
+     "profile_url": "https://schar.gmu.edu/profiles/isomin",
      "match_percentage": 48
     },
     {
-     "name": "Uehling, Greta",
-     "title": "Visiting Scholar, Carter School, 2024",
-     "college": "Peace & Conflict",
+     "name": "Lattanzi Shutika, Debra L.",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BSN, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://english.gmu.edu/people/dshutika",
+     "match_percentage": 46
+    },
+    {
+     "name": "Buckley, Francis",
+     "title": "George Mason University Foundation Professor of Law",
+     "college": "Law",
+     "credentials": "BA, LLB, LLM",
+     "tier": "Primary",
+     "email": "fbuckley@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/buckley_francis",
+     "match_percentage": 46
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 46
+    },
+    {
+     "name": "Muhlhausen, David",
+     "title": "Adjunct Faculty; Research Fellow in Empirical Policy Analysis, The Heritage Foundation",
+     "college": "Policy & Gov",
      "credentials": null,
      "tier": "Primary",
-     "email": "guehling@gmu.edu",
-     "profile_url": "https://carterschool.gmu.edu/profiles/guehling",
-     "match_percentage": 39
+     "email": "dmuhlhau@gmu.edu",
+     "profile_url": "https://schar.gmu.edu/profiles/dmuhlhau",
+     "match_percentage": 46
     }
    ],
-   "category": "Foreign Policy & Security"
+   "category": "Politics & Government"
   },
   {
-   "title": "The Guardian view on Alberta\u2019s referendum: Canada holds together \u2013 against Donald Trump | Editorial",
-   "link": "https://www.theguardian.com/commentisfree/2026/oct/20/the-guardian-view-on-albertas-referendum-canada-holds-together-against-donald-trump",
+   "title": "The Guardian view on the Republicans\u2019 midterms struggle: Trump has circuses, but voters also want bread | Editorial",
+   "link": "https://www.theguardian.com/commentisfree/2026/oct/21/the-guardian-view-on-the-republicans-midterms-struggle-trump-has-circuses-but-voters-also-want-bread",
    "tags": [
     "Elections & Voting",
-    "Trade"
+    "Congress & Legislation",
+    "Campaigns & Political Communication",
+    "Tariffs & Globalization"
    ],
    "sources": [
-    "BBC",
-    "The Guardian",
-    "The New York Times"
+    "Fox News",
+    "NPR",
+    "The Guardian"
    ],
    "source_count": 3,
    "experts": [
@@ -95,37 +166,27 @@
      "tier": "Primary",
      "email": null,
      "profile_url": "https://schar.gmu.edu/profiles/mrozell",
-     "match_percentage": 68
+     "match_percentage": 30
     },
     {
-     "name": "Martinelli, Cesar",
-     "title": "Professor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MS, PhD",
-     "tier": "Primary",
-     "email": "cmarti33@gmu.edu",
-     "profile_url": "https://economics.gmu.edu/people/cmarti33",
-     "match_percentage": 59
-    },
-    {
-     "name": "Daigle, Delton T.",
-     "title": "Term Associate Professor",
+     "name": "Muhlhausen, David",
+     "title": "Adjunct Faculty; Research Fellow in Empirical Policy Analysis, The Heritage Foundation",
      "college": "Policy & Gov",
-     "credentials": "BA, MA, PhD",
+     "credentials": null,
+     "tier": "Primary",
+     "email": "dmuhlhau@gmu.edu",
+     "profile_url": "https://schar.gmu.edu/profiles/dmuhlhau",
+     "match_percentage": 30
+    },
+    {
+     "name": "Maibach, Edward",
+     "title": "University Professor and Director of Center for Climate Change Communication",
+     "college": "Science",
+     "credentials": "BA, MPH, PhD",
      "tier": "Primary",
      "email": null,
-     "profile_url": "https://schar.gmu.edu/profiles/ddaigle",
-     "match_percentage": 50
-    },
-    {
-     "name": "Kugler, Maurice D.",
-     "title": "Professor of Public Policy",
-     "college": "Policy & Gov",
-     "credentials": "BS, MS, PhD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://schar.gmu.edu/profiles/mkugler",
-     "match_percentage": 50
+     "profile_url": "https://science.gmu.edu/directory/edward-maibach",
+     "match_percentage": 30
     },
     {
      "name": "Boudreaux, Donald J.",
@@ -135,76 +196,87 @@
      "tier": "Primary",
      "email": "dboudrea@gmu.edu",
      "profile_url": "https://economics.gmu.edu/people/dboudrea",
-     "match_percentage": 41
+     "match_percentage": 22
+    },
+    {
+     "name": "Dorpenyo, Isidore",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 22
     }
    ],
    "category": "Politics & Government"
   },
   {
-   "title": "LeBron James and Sixers spoil Knicks\u2019 title party as Thunder and Pistons win NBA openers",
-   "link": "https://www.theguardian.com/sport/2026/oct/20/nba-opening-night-2026-results-pistons-celtics-sixers-knicks-spurs-thunder",
+   "title": "In Trump\u2019s Diplomacy, Insults Are a One-Way Street. Ukraine Is the Latest Example.",
+   "link": "https://www.nytimes.com/2026/10/21/us/politics/trumps-diplomacy-insults.html",
    "tags": [
-    "History & Historical Scholarship"
+    "Russia & Ukraine"
    ],
    "sources": [
+    "Ars Technica",
     "BBC",
-    "NPR",
-    "The Guardian"
+    "The Guardian",
+    "The New York Times"
    ],
-   "source_count": 3,
+   "source_count": 4,
    "experts": [
     {
-     "name": "Pichichero, Christy",
-     "title": "Associate Professor of French",
-     "college": "Humanities & Social Sciences",
-     "credentials": "AB, BM, PhD",
+     "name": "Petryk, Mariia",
+     "title": "Assistant Professor of Information Systems and Operations Management",
+     "college": "Business",
+     "credentials": "BS, MS, BA, PhD",
      "tier": "Primary",
-     "email": "cpichich@gmu.edu",
-     "profile_url": "https://aaas.gmu.edu/people/cpichich",
-     "match_percentage": 82
+     "email": "mpetryk@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/mpetryk",
+     "match_percentage": 74
     },
     {
-     "name": "Zagarri, Rosemarie",
-     "title": "University Professor of History",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MA, PhD",
+     "name": "Uehling, Greta",
+     "title": "Visiting Scholar, Carter School, 2024",
+     "college": "Peace & Conflict",
+     "credentials": null,
      "tier": "Primary",
-     "email": "rzagarri@gmu.edu",
-     "profile_url": "https://historyarthistory.gmu.edu/people/rzagarri",
-     "match_percentage": 82
+     "email": "guehling@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/guehling",
+     "match_percentage": 74
     },
     {
-     "name": "Chang, Michael G.",
+     "name": "Shelley, Louise I.",
+     "title": "Distinguished University Professor Emerita, and Omer L. and Nancy Hirst Chair Emerita",
+     "college": "Policy & Gov",
+     "credentials": null,
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 74
+    },
+    {
+     "name": "Barnes, Steven",
      "title": "Associate Professor",
      "college": "Humanities & Social Sciences",
-     "credentials": "AB, PhD",
+     "credentials": "BA, MA, PhD",
      "tier": "Primary",
-     "email": "mchang5@gmu.edu",
-     "profile_url": "https://historyarthistory.gmu.edu/people/mchang5",
-     "match_percentage": 74
+     "email": "sbarnes3@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/sbarnes3",
+     "match_percentage": 65
     },
     {
-     "name": "Geloso, Vincent J.",
-     "title": "Assistant Professor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BS, MA, PhD",
-     "tier": "Primary",
-     "email": "vgeloso@gmu.edu",
-     "profile_url": "https://economics.gmu.edu/people/vgeloso",
-     "match_percentage": 74
-    },
-    {
-     "name": "Genetin-Pilawa, C. Joseph",
-     "title": "Associate Professor of History",
+     "name": "Staklo, Vadim",
+     "title": "Associate Professor, European History",
      "college": "Humanities & Social Sciences",
      "credentials": "BA, MA, PhD",
      "tier": "Primary",
-     "email": "cgenetin@gmu.edu",
-     "profile_url": "https://historyarthistory.gmu.edu/people/cgenetin",
-     "match_percentage": 74
+     "email": "vstaklo@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/vstaklo",
+     "match_percentage": 65
     }
    ],
-   "category": "Social Issues & Culture"
+   "category": "Foreign Policy & Security"
   }
  ]
 }
