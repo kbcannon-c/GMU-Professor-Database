@@ -1,0 +1,76 @@
+{
+ "generated_at": "2026-10-23T11:25:02.977530+00:00",
+ "headline_count": 1,
+ "summary": "1 story today, led by coverage of Foreign Policy & Security.",
+ "items": [
+  {
+   "title": "The Trump-Putin love story\u2019s next chapter: selling out Ukraine | Sidney Blumenthal",
+   "link": "https://www.theguardian.com/commentisfree/2026/oct/23/trump-putin-ukraine",
+   "tags": [
+    "Russia & Ukraine",
+    "Housing & Real Estate",
+    "Tariffs & Globalization",
+    "Inflation"
+   ],
+   "sources": [
+    "Fox News",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Staklo, Vadim",
+     "title": "Associate Professor, European History",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "vstaklo@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/vstaklo",
+     "match_percentage": 61
+    },
+    {
+     "name": "Barnes, Steven",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "sbarnes3@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/sbarnes3",
+     "match_percentage": 48
+    },
+    {
+     "name": "Chang, Michael G.",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "AB, PhD",
+     "tier": "Primary",
+     "email": "mchang5@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/mchang5",
+     "match_percentage": 48
+    },
+    {
+     "name": "Geloso, Vincent J.",
+     "title": "Assistant Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BS, MA, PhD",
+     "tier": "Primary",
+     "email": "vgeloso@gmu.edu",
+     "profile_url": "https://economics.gmu.edu/people/vgeloso",
+     "match_percentage": 48
+    },
+    {
+     "name": "Genetin-Pilawa, C. Joseph",
+     "title": "Associate Professor of History",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "cgenetin@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/cgenetin",
+     "match_percentage": 48
+    }
+   ],
+   "category": "Foreign Policy & Security"
+  }
+ ]
+}
