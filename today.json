@@ -1,23 +1,24 @@
 {
- "generated_at": "2026-10-24T11:19:47.324580+00:00",
- "headline_count": 2,
- "summary": "2 stories today, led by coverage of Politics & Government.",
+ "generated_at": "2026-10-25T11:19:45.230000+00:00",
+ "headline_count": 3,
+ "summary": "3 stories today, led by coverage of Politics & Government and Foreign Policy & Security.",
  "items": [
   {
-   "title": "Trump drops some Canada tariffs in bid to boost embattled Susan Collins in Maine",
-   "link": "https://www.theguardian.com/us-news/2026/oct/23/susan-collins-maine-trump-tariffs-canada",
+   "title": "\u2018Change is in the air\u2019: Obama praises El-Sayed and attacks Trump at Michigan rally \u2013 as it happened",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/24/obama-abdul-el-sayed-midterms-rally-michigan-live-updates",
    "tags": [
+    "Elections & Voting",
     "Congress & Legislation",
-    "Tariffs & Globalization",
-    "Elections & Voting",
-    "Presidency & Executive Branch"
+    "Presidency & Executive Branch",
+    "Campaigns & Political Communication"
    ],
    "sources": [
     "BBC",
+    "Fox News",
     "The Guardian",
     "The New York Times"
    ],
-   "source_count": 3,
+   "source_count": 4,
    "experts": [
     {
      "name": "Rozell, Mark",
@@ -27,94 +28,37 @@
      "tier": "Primary",
      "email": null,
      "profile_url": "https://schar.gmu.edu/profiles/mrozell",
-     "match_percentage": 34
+     "match_percentage": 61
     },
     {
-     "name": "Geloso, Vincent J.",
-     "title": "Assistant Professor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BS, MA, PhD",
-     "tier": "Primary",
-     "email": "vgeloso@gmu.edu",
-     "profile_url": "https://economics.gmu.edu/people/vgeloso",
-     "match_percentage": 34
-    },
-    {
-     "name": "Zagarri, Rosemarie",
-     "title": "University Professor of History",
+     "name": "Wooten, Courtney",
+     "title": "Associate Professor and English Composition Director",
      "college": "Humanities & Social Sciences",
      "credentials": "BA, MA, PhD",
      "tier": "Primary",
-     "email": "rzagarri@gmu.edu",
-     "profile_url": "https://historyarthistory.gmu.edu/people/rzagarri",
-     "match_percentage": 34
+     "email": "cwooten3@gmu.edu",
+     "profile_url": "https://english.gmu.edu/people/cwooten3",
+     "match_percentage": 48
     },
     {
-     "name": "Dueck, Colin",
-     "title": "Professor",
-     "college": "Policy & Gov",
-     "credentials": "BA, MA, PhD",
+     "name": "Alvar\u00e9, Helen",
+     "title": "Robert A. Levy Endowed Chair in Law and Liberty",
+     "college": "Law",
+     "credentials": "BS, JD, MA",
      "tier": "Primary",
-     "email": null,
-     "profile_url": "https://schar.gmu.edu/profiles/cdueck",
-     "match_percentage": 34
+     "email": "halvare@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/alvare_helen",
+     "match_percentage": 48
     },
     {
-     "name": "McAuliffe, Terence",
-     "title": "Distinguished Visiting Professor of Practice",
-     "college": "Policy & Gov",
-     "credentials": "BA, JD",
+     "name": "Jaffer, Jamil",
+     "title": "Assistant Professor of Law; Founder and Executive Director",
+     "college": "Law",
+     "credentials": "BA, JD, MA",
      "tier": "Primary",
-     "email": null,
-     "profile_url": "https://schar.gmu.edu/profiles/mcauliffe",
-     "match_percentage": 34
-    }
-   ],
-   "category": "Politics & Government"
-  },
-  {
-   "title": "Trump says he ordered DoJ to file lawsuit to block Alaska Senate results certification",
-   "link": "https://www.theguardian.com/us-news/2026/oct/23/trump-doj-lawsuit-alaska-senate-dan-sullivan",
-   "tags": [
-    "Elections & Voting",
-    "Congress & Legislation"
-   ],
-   "sources": [
-    "BBC",
-    "The Guardian",
-    "The New York Times"
-   ],
-   "source_count": 3,
-   "experts": [
-    {
-     "name": "Martinelli, Cesar",
-     "title": "Professor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MS, PhD",
-     "tier": "Primary",
-     "email": "cmarti33@gmu.edu",
-     "profile_url": "https://economics.gmu.edu/people/cmarti33",
-     "match_percentage": 68
-    },
-    {
-     "name": "Rozell, Mark",
-     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
-     "college": "Policy & Gov",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
-     "match_percentage": 68
-    },
-    {
-     "name": "Muhlhausen, David",
-     "title": "Adjunct Faculty; Research Fellow in Empirical Policy Analysis, The Heritage Foundation",
-     "college": "Policy & Gov",
-     "credentials": null,
-     "tier": "Primary",
-     "email": "dmuhlhau@gmu.edu",
-     "profile_url": "https://schar.gmu.edu/profiles/dmuhlhau",
-     "match_percentage": 68
+     "email": "jjaffer@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
+     "match_percentage": 44
     },
     {
      "name": "Dorpenyo, Isidore",
@@ -124,16 +68,142 @@
      "tier": "Primary",
      "email": null,
      "profile_url": null,
-     "match_percentage": 50
+     "match_percentage": 39
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Ukraine's Starlink restored as Elon Musk claims Kyiv violated terms of service 'to kill people'",
+   "link": "https://www.foxnews.com/politics/ukraines-starlink-restored-elon-musk-claims-kyiv-violated-terms-service-kill-people",
+   "tags": [
+    "Russia & Ukraine",
+    "Defense & Military Policy",
+    "Autonomous Systems & Robotics"
+   ],
+   "sources": [
+    "Fox News",
+    "NPR",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 4,
+   "experts": [
+    {
+     "name": "Kirkpatrick, Jesse",
+     "title": "Research Associate Professor, Philosophy",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BS, PhD",
+     "tier": "Primary",
+     "email": "jkirkpat@gmu.edu",
+     "profile_url": "https://philosophy.gmu.edu/people/jkirkpat",
+     "match_percentage": 61
     },
     {
-     "name": "Lyons, Terrence P.",
-     "title": "Professor of Conflict Analysis and Resolution",
+     "name": "Nowzari, Cameron",
+     "title": "Associate Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": "cnowzari@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/cnowzari",
+     "match_percentage": 52
+    },
+    {
+     "name": "Raz, Ali",
+     "title": "Assistant Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://cec.gmu.edu/profiles/araz",
+     "match_percentage": 52
+    },
+    {
+     "name": "Wijesekera, Duminda",
+     "title": "Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BSc, MS, PhD",
+     "tier": "Primary",
+     "email": "dwijesek@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/dwijesek",
+     "match_percentage": 52
+    },
+    {
+     "name": "McCue-Weil, Leigh",
+     "title": "Professor and Department Chair",
+     "college": "Engineering & Computing",
+     "credentials": "BSE, MSE, PhD",
+     "tier": "Primary",
+     "email": "lmccuewe@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/lmccuewe",
+     "match_percentage": 52
+    }
+   ],
+   "category": "Foreign Policy & Security"
+  },
+  {
+   "title": "Florida A&M University shooting leaves 12 injured, including 6 children, near football stadium",
+   "link": "https://www.foxnews.com/us/florida-am-university-shooting-tallahassee-stadium-copy-slug",
+   "tags": [
+    "State & Local Government",
+    "Criminal Justice & Policing"
+   ],
+   "sources": [
+    "Fox News",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Dailey, Stephanie",
+     "title": "Assistant Professor of Education",
+     "college": "Ed & Human Development",
+     "credentials": "EdD",
+     "tier": "Primary",
+     "email": "sdailey@gmu.edu",
+     "profile_url": "https://cehd.gmu.edu/people/faculty/sdailey/",
+     "match_percentage": 59
+    },
+    {
+     "name": "Gill, Charlotte",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "cgill9@gmu.edu",
+     "profile_url": "https://cls.gmu.edu/people/cgill9",
+     "match_percentage": 59
+    },
+    {
+     "name": "Ramsdell, Justin",
+     "title": "Associate Chair for Undergraduate Education",
+     "college": "Humanities & Social Sciences",
+     "credentials": "Professor of Psychology",
+     "tier": "Primary",
+     "email": "jramsde2@gmu.edu",
+     "profile_url": "https://psychology.gmu.edu/people/jramsde2",
+     "match_percentage": 59
+    },
+    {
+     "name": "Romano, Arthur",
+     "title": "Associate Professor of Conflict Analysis and Resolution",
      "college": "Peace & Conflict",
      "credentials": "BA, MA, PhD",
      "tier": "Primary",
-     "email": "tlyons1@gmu.edu",
-     "profile_url": "https://carterschool.gmu.edu/profiles/tlyons1",
+     "email": "aromano7@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/aromano7",
+     "match_percentage": 59
+    },
+    {
+     "name": "Shariati, Auzeen",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "asharia@gmu.edu",
+     "profile_url": "https://cls.gmu.edu/people/asharia",
      "match_percentage": 50
     }
    ],
