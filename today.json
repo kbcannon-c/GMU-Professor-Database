@@ -1,54 +1,34 @@
 {
- "generated_at": "2026-10-26T11:32:49.414369+00:00",
+ "generated_at": "2026-10-27T11:28:51.047546+00:00",
  "headline_count": 2,
- "summary": "2 stories today, led by coverage of Politics & Government.",
+ "summary": "2 stories today, led by coverage of Politics & Government and Social Issues & Culture.",
  "items": [
   {
-   "title": "Trump escalates attacks on El-Sayed as Michigan Senate race tightens and more top headlines",
-   "link": "https://www.foxnews.com/us/trump-escalates-attacks-el-sayed-michigan-senate-race-tightens-more-top-headlines",
+   "title": "Trump continues midterm campaign blitz in Mississippi amid outcry over racist, Islamophobic attacks \u2013 as it happened",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates",
    "tags": [
+    "Presidency & Executive Branch",
     "Elections & Voting",
     "Congress & Legislation",
-    "Russia & Ukraine",
-    "Middle East"
+    "Campaigns & Political Communication"
    ],
    "sources": [
+    "Ars Technica",
     "Fox News",
-    "NPR",
     "The Guardian",
     "The New York Times"
    ],
    "source_count": 4,
    "experts": [
     {
-     "name": "Kim, Sojung",
-     "title": "Associate Professor",
-     "college": "Humanities & Social Sciences",
+     "name": "Dueck, Colin",
+     "title": "Professor",
+     "college": "Policy & Gov",
      "credentials": "BA, MA, PhD",
      "tier": "Primary",
      "email": null,
-     "profile_url": "https://communication.gmu.edu/people/skim205",
-     "match_percentage": 44
-    },
-    {
-     "name": "Pichichero, Christy",
-     "title": "Associate Professor of French",
-     "college": "Humanities & Social Sciences",
-     "credentials": "AB, BM, PhD",
-     "tier": "Primary",
-     "email": "cpichich@gmu.edu",
-     "profile_url": "https://aaas.gmu.edu/people/cpichich",
-     "match_percentage": 44
-    },
-    {
-     "name": "Lyons, Terrence P.",
-     "title": "Professor of Conflict Analysis and Resolution",
-     "college": "Peace & Conflict",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": "tlyons1@gmu.edu",
-     "profile_url": "https://carterschool.gmu.edu/profiles/tlyons1",
-     "match_percentage": 44
+     "profile_url": "https://schar.gmu.edu/profiles/cdueck",
+     "match_percentage": 43
     },
     {
      "name": "Jaffer, Jamil",
@@ -58,7 +38,17 @@
      "tier": "Primary",
      "email": "jjaffer@gmu.edu",
      "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
-     "match_percentage": 36
+     "match_percentage": 42
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 42
     },
     {
      "name": "Dorpenyo, Isidore",
@@ -68,79 +58,86 @@
      "tier": "Primary",
      "email": null,
      "profile_url": null,
-     "match_percentage": 36
+     "match_percentage": 34
+    },
+    {
+     "name": "Kim, Sojung",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://communication.gmu.edu/people/skim205",
+     "match_percentage": 34
     }
    ],
    "category": "Politics & Government"
   },
   {
-   "title": "Trump restored the Department of War. Now it\u2019s up to Congress to finish the job",
-   "link": "https://www.foxnews.com/opinion/trump-restored-department-of-war-now-congress-finish-job",
+   "title": "Brewers ride ridiculous, record-setting eight-run inning to dominant 3-0 World Series lead over Rays",
+   "link": "https://www.foxnews.com/outkick-sports/brewers-ride-ridiculous-record-setting-eight-run-inning-dominant-3-0-world-series-lead-rays",
    "tags": [
-    "Congress & Legislation",
-    "Presidency & Executive Branch",
-    "Immigration Law & Policy",
-    "Defense & Military Policy"
+    "Religion & Society"
    ],
    "sources": [
     "Fox News",
-    "The Guardian",
-    "The New York Times"
+    "NPR",
+    "The Guardian"
    ],
    "source_count": 3,
    "experts": [
     {
-     "name": "Jaffer, Jamil",
-     "title": "Assistant Professor of Law; Founder and Executive Director",
-     "college": "Law",
-     "credentials": "BA, JD, MA",
+     "name": "Hirsch, Susan F.",
+     "title": "Professor Emerita of Conflict Resolution and Anthropology, Carter School",
+     "college": "Peace & Conflict",
+     "credentials": null,
      "tier": "Primary",
-     "email": "jjaffer@gmu.edu",
-     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
-     "match_percentage": 75
+     "email": "shirsch4@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/shirsch4",
+     "match_percentage": 91
     },
     {
-     "name": "Lair, Meredith H.",
-     "title": "Associate Professor",
+     "name": "Mullen, Lincoln",
+     "title": "Director",
      "college": "Humanities & Social Sciences",
-     "credentials": "BA, PhD",
+     "credentials": "BA, MA, PhD",
      "tier": "Primary",
-     "email": "mlair@gmu.edu",
-     "profile_url": "https://historyarthistory.gmu.edu/people/mlair",
-     "match_percentage": 42
+     "email": "lmullen@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/lmullen",
+     "match_percentage": 82
     },
     {
-     "name": "Renshaw, Keith",
-     "title": "Senior Associate Provost for Undergraduate Education and Professor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BS, MA, PhD",
-     "tier": "Primary",
-     "email": "krenshaw@gmu.edu",
-     "profile_url": "https://psychology.gmu.edu/people/krenshaw",
-     "match_percentage": 42
-    },
-    {
-     "name": "Laipson, Ellen",
-     "title": "Term Professor and Director",
-     "college": "Policy & Gov",
-     "credentials": "BA, MA",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://schar.gmu.edu/profiles/elaipson",
-     "match_percentage": 42
-    },
-    {
-     "name": "Buckley, Francis",
-     "title": "George Mason University Foundation Professor of Law",
+     "name": "Weinberger, Lael",
+     "title": "Assistant Professor of Law",
      "college": "Law",
-     "credentials": "BA, LLB, LLM",
+     "credentials": "PhD, JD",
      "tier": "Primary",
-     "email": "fbuckley@gmu.edu",
-     "profile_url": "https://law.gmu.edu/directory/profiles/buckley_francis",
-     "match_percentage": 41
+     "email": "lweinber@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/weinberger_lael",
+     "match_percentage": 82
+    },
+    {
+     "name": "DeCaroli, Robert D.",
+     "title": "Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "rdecarol@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/rdecarol",
+     "match_percentage": 74
+    },
+    {
+     "name": "Elsisi, Sayed",
+     "title": "Associate Professor, Arabic",
+     "college": "Humanities & Social Sciences",
+     "credentials": "Specialist in Arabic Literature and Culture",
+     "tier": "Primary",
+     "email": "selsisi@gmu.edu",
+     "profile_url": "https://mcl.gmu.edu/people/selsisi",
+     "match_percentage": 74
     }
    ],
-   "category": "Politics & Government"
+   "category": "Social Issues & Culture"
   }
  ]
 }
