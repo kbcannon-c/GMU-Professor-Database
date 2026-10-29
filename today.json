@@ -1,53 +1,44 @@
 {
- "generated_at": "2026-10-28T11:32:23.033015+00:00",
- "headline_count": 3,
- "summary": "3 stories today, led by coverage of Politics & Government.",
+ "generated_at": "2026-10-29T11:33:11.898336+00:00",
+ "headline_count": 6,
+ "summary": "6 stories today, led by coverage of Politics & Government, Economy & Business, and Health & Science.",
  "items": [
   {
-   "title": "Trump tells Texas campaign rally crowd he\u2019s rolling back environmental rules to curb methane pollution \u2013 as it happened",
-   "link": "https://www.theguardian.com/us-news/live/2026/oct/27/comey-trump-rubio-texas-vance-israel-midterms-politics-latest-news-updates",
+   "title": "Dolores Huerta, influential labor leader, feminist and civil rights icon, dies at 96",
+   "link": "https://www.npr.org/2026/10/28/nx-s1-6020543/dolores-huerta-dies",
    "tags": [
-    "Elections & Voting",
-    "Congress & Legislation",
-    "Energy Policy",
-    "Presidency & Executive Branch"
+    "State & Local Government",
+    "Civil Rights & Discrimination",
+    "Labor Market & Employment",
+    "Gender & Women's Issues"
    ],
    "sources": [
     "BBC",
+    "NPR",
     "The Guardian",
     "The New York Times"
    ],
-   "source_count": 3,
+   "source_count": 4,
    "experts": [
     {
-     "name": "Muhlhausen, David",
-     "title": "Adjunct Faculty; Research Fellow in Empirical Policy Analysis, The Heritage Foundation",
-     "college": "Policy & Gov",
-     "credentials": null,
+     "name": "Ahmad, Afra",
+     "title": "Term Associate Professor of Psychology and Director of the MPS Program",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
      "tier": "Primary",
-     "email": "dmuhlhau@gmu.edu",
-     "profile_url": "https://schar.gmu.edu/profiles/dmuhlhau",
-     "match_percentage": 42
+     "email": "aahmad14@gmu.edu",
+     "profile_url": "https://psychology.gmu.edu/people/aahmad14",
+     "match_percentage": 72
     },
     {
-     "name": "Somin, Ilya",
-     "title": "Professor of Law, Antonin Scalia Law School; B. Kenneth Simon Chair in Constitutional Studies at the Cato Institute; University Affiliate, Schar School of Policy and Government",
-     "college": "Policy & Gov",
-     "credentials": null,
+     "name": "Zagarri, Rosemarie",
+     "title": "University Professor of History",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
      "tier": "Primary",
-     "email": "isomin@gmu.edu",
-     "profile_url": "https://schar.gmu.edu/profiles/isomin",
-     "match_percentage": 42
-    },
-    {
-     "name": "Tomaszewski, Evelyn",
-     "title": "Associate Professor",
-     "college": "Public Health",
-     "credentials": "MSW, ACSW",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://publichealth.gmu.edu/profiles/etomasze",
-     "match_percentage": 42
+     "email": "rzagarri@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/rzagarri",
+     "match_percentage": 54
     },
     {
      "name": "Chesler, G.",
@@ -57,8 +48,47 @@
      "tier": "Primary",
      "email": "gchesler@gmu.edu",
      "profile_url": "https://wmst.gmu.edu/people/gchesler",
-     "match_percentage": 39
+     "match_percentage": 54
     },
+    {
+     "name": "Genetin-Pilawa, C. Joseph",
+     "title": "Associate Professor of History",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "cgenetin@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/cgenetin",
+     "match_percentage": 45
+    },
+    {
+     "name": "Moteabbed, Shora",
+     "title": "Instructional Associate Professor of Business Foundations",
+     "college": "Business",
+     "credentials": "BS, MBA, PhD",
+     "tier": "Primary",
+     "email": "smoteabb@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/smoteabb",
+     "match_percentage": 44
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Trump and Obama trade barbs on campaign trail in final days before midterm election  \u2013\u00a0US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/oct/29/midterm-elections-politics-trump-obama-california-alaska-latest-news-updates",
+   "tags": [
+    "Elections & Voting",
+    "Congress & Legislation",
+    "Presidency & Executive Branch",
+    "Campaigns & Political Communication"
+   ],
+   "sources": [
+    "Fox News",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
     {
      "name": "Rozell, Mark",
      "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
@@ -67,25 +97,28 @@
      "tier": "Primary",
      "email": null,
      "profile_url": "https://schar.gmu.edu/profiles/mrozell",
-     "match_percentage": 39
-    }
-   ],
-   "category": "Politics & Government"
-  },
-  {
-   "title": "What's next for Ilhan Omar? Former immigration judge breaks down legal risks amid federal probes",
-   "link": "https://www.foxnews.com/politics/whats-next-ilhan-omar-former-immigration-judge-breaks-down-legal-risks-amid-federal-probes",
-   "tags": [
-    "Immigration Law & Policy"
-   ],
-   "sources": [
-    "BBC",
-    "Fox News",
-    "The Guardian",
-    "The New York Times"
-   ],
-   "source_count": 4,
-   "experts": [
+     "match_percentage": 61
+    },
+    {
+     "name": "Lyons, Terrence P.",
+     "title": "Professor of Conflict Analysis and Resolution",
+     "college": "Peace & Conflict",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "tlyons1@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/tlyons1",
+     "match_percentage": 48
+    },
+    {
+     "name": "Dueck, Colin",
+     "title": "Professor",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/cdueck",
+     "match_percentage": 48
+    },
     {
      "name": "Buckley, Francis",
      "title": "George Mason University Foundation Professor of Law",
@@ -94,116 +127,268 @@
      "tier": "Primary",
      "email": "fbuckley@gmu.edu",
      "profile_url": "https://law.gmu.edu/directory/profiles/buckley_francis",
-     "match_percentage": 74
+     "match_percentage": 39
     },
     {
-     "name": "Somin, Ilya",
-     "title": "Professor of Law, Antonin Scalia Law School; B. Kenneth Simon Chair in Constitutional Studies at the Cato Institute; University Affiliate, Schar School of Policy and Government",
+     "name": "McAuliffe, Terence",
+     "title": "Distinguished Visiting Professor of Practice",
      "college": "Policy & Gov",
-     "credentials": null,
-     "tier": "Primary",
-     "email": "isomin@gmu.edu",
-     "profile_url": "https://schar.gmu.edu/profiles/isomin",
-     "match_percentage": 74
-    },
-    {
-     "name": "Goldstein, Brian",
-     "title": "Partner/Owner, GG Arts Law",
-     "college": "Visual & Performance Art",
-     "credentials": null,
+     "credentials": "BA, JD",
      "tier": "Primary",
      "email": null,
-     "profile_url": "https://cvpa.gmu.edu/profiles/bgoldstei",
-     "match_percentage": 74
-    },
-    {
-     "name": "Balakian, Sophia",
-     "title": "Assistant Professor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, PhD",
-     "tier": "Primary",
-     "email": "sbalakia@gmu.edu",
-     "profile_url": "https://integrative.gmu.edu/people/sbalakia",
-     "match_percentage": 65
-    },
-    {
-     "name": "Somin, Ilya",
-     "title": "Professor of Law",
-     "college": "Law",
-     "credentials": "BA, MA, JD",
-     "tier": "Secondary",
-     "email": "isomin@gmu.edu",
-     "profile_url": "https://law.gmu.edu/directory/profiles/somin_ilya",
-     "match_percentage": 74
+     "profile_url": "https://schar.gmu.edu/profiles/mcauliffe",
+     "match_percentage": 39
     }
    ],
    "category": "Politics & Government"
   },
   {
-   "title": "Serial killer Ted Bundy linked to teenage girl's murder after 52 years",
-   "link": "https://www.bbc.co.uk/news/articles/ckqxnd7j5007o?at_medium=RSS&at_campaign=rss",
+   "title": "HUGH HEWITT: The hidden advantage that could turn Senate toss-ups into GOP wins",
+   "link": "https://www.foxnews.com/opinion/hugh-hewitt-hidden-advantage-turn-senate-toss-ups-gop-wins",
    "tags": [
-    "Criminal Justice & Policing"
+    "Elections & Voting",
+    "Congress & Legislation",
+    "State & Local Government",
+    "Political Polarization & Extremism"
    ],
    "sources": [
-    "BBC",
+    "Ars Technica",
+    "Fox News",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 59
+    },
+    {
+     "name": "Martinelli, Cesar",
+     "title": "Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": "cmarti33@gmu.edu",
+     "profile_url": "https://economics.gmu.edu/people/cmarti33",
+     "match_percentage": 42
+    },
+    {
+     "name": "McAuliffe, Terence",
+     "title": "Distinguished Visiting Professor of Practice",
+     "college": "Policy & Gov",
+     "credentials": "BA, JD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mcauliffe",
+     "match_percentage": 42
+    },
+    {
+     "name": "Flores, Thomas E.",
+     "title": "Associate Professor and Director of Graduate Programs",
+     "college": "Peace & Conflict",
+     "credentials": "BA, PhD",
+     "tier": "Primary",
+     "email": "tflores2@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/tflores2",
+     "match_percentage": 34
+    },
+    {
+     "name": "Lyons, Terrence P.",
+     "title": "Professor of Conflict Analysis and Resolution",
+     "college": "Peace & Conflict",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "tlyons1@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/tlyons1",
+     "match_percentage": 34
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "In Moving Gradually, Fed Risks Having to Play Catch-Up to Quell Inflation",
+   "link": "https://www.nytimes.com/2026/10/29/business/economy/federal-reserve-interest-rates.html",
+   "tags": [
+    "Inflation",
+    "Fed & Monetary Policy"
+   ],
+   "sources": [
+    "NPR",
     "The Guardian",
     "The New York Times"
    ],
    "source_count": 3,
    "experts": [
     {
-     "name": "Lum, Cynthia",
-     "title": "Distinguished University Professor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MS, PhD",
+     "name": "Pilloff, Steven",
+     "title": "Instructional Professor of Finance",
+     "college": "Business",
+     "credentials": "BA, MA, PhD",
      "tier": "Primary",
-     "email": "clum@gmu.edu",
-     "profile_url": "https://cls.gmu.edu/people/clum",
-     "match_percentage": 100
+     "email": "spilloff@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/spilloff",
+     "match_percentage": 32
     },
     {
-     "name": "Scafide, Katherine",
-     "title": "Associate Professor",
-     "college": "Public Health",
-     "credentials": "PhD, RN, FAAN, FAAFS",
+     "name": "Jones, Garett",
+     "title": "Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MPA, MA, PhD",
      "tier": "Primary",
-     "email": null,
-     "profile_url": "https://publichealth.gmu.edu/profiles/kscafide",
+     "email": "gjonesb@gmu.edu",
+     "profile_url": "https://economics.gmu.edu/people/gjonesb",
+     "match_percentage": 32
+    },
+    {
+     "name": "Verret, J.W.",
+     "title": "Associate Professor of Law",
+     "college": "Law",
+     "credentials": "BS, MA, JD",
+     "tier": "Secondary",
+     "email": "jverret@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/verret_jw",
+     "match_percentage": 65
+    }
+   ],
+   "category": "Economy & Business"
+  },
+  {
+   "title": "Peptide peddlers cheer as RFK Jr. unilaterally grants access, overruling FDA",
+   "link": "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
+   "tags": [
+    "Infectious Disease & Vaccines"
+   ],
+   "sources": [
+    "Ars Technica",
+    "BBC",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Popescu, Saskia",
+     "title": "Adjunct Faculty",
+     "college": "Policy & Gov",
+     "credentials": null,
+     "tier": "Primary",
+     "email": "spopesc2@gmu.edu",
+     "profile_url": "https://schar.gmu.edu/profiles/spopesc2",
      "match_percentage": 91
     },
     {
-     "name": "Gill, Charlotte",
+     "name": "Limaye, Rupali J.",
+     "title": "Associate Professor",
+     "college": "Public Health",
+     "credentials": "PhD, MPH, MA",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://publichealth.gmu.edu/profiles/rlimaye",
+     "match_percentage": 82
+    },
+    {
+     "name": "Tomaszewski, Evelyn",
+     "title": "Associate Professor",
+     "college": "Public Health",
+     "credentials": "MSW, ACSW",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://publichealth.gmu.edu/profiles/etomasze",
+     "match_percentage": 82
+    },
+    {
+     "name": "Lawrence, Heidi",
      "title": "Associate Professor",
      "college": "Humanities & Social Sciences",
      "credentials": "BA, MA, PhD",
      "tier": "Primary",
-     "email": "cgill9@gmu.edu",
-     "profile_url": "https://cls.gmu.edu/people/cgill9",
-     "match_percentage": 82
+     "email": null,
+     "profile_url": "https://english.gmu.edu/people/hlawren2",
+     "match_percentage": 74
     },
     {
-     "name": "Udell, Gwen",
-     "title": "Professor of Practice",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MS",
+     "name": "Roess, Amira",
+     "title": "Professor",
+     "college": "Public Health",
+     "credentials": "PhD, MPH",
      "tier": "Primary",
-     "email": "gudell@gmu.edu",
-     "profile_url": "https://cls.gmu.edu/people/gudell",
-     "match_percentage": 82
-    },
-    {
-     "name": "Ramsdell, Justin",
-     "title": "Associate Chair for Undergraduate Education",
-     "college": "Humanities & Social Sciences",
-     "credentials": "Professor of Psychology",
-     "tier": "Primary",
-     "email": "jramsde2@gmu.edu",
-     "profile_url": "https://psychology.gmu.edu/people/jramsde2",
-     "match_percentage": 82
+     "email": null,
+     "profile_url": "https://publichealth.gmu.edu/profiles/aroess",
+     "match_percentage": 74
     }
    ],
-   "category": "Politics & Government"
+   "category": "Health & Science"
+  },
+  {
+   "title": "Milwaukee Brewers close out Tampa Bay Rays to end 57-year wait for first World Series title",
+   "link": "https://www.theguardian.com/sport/2026/oct/28/milwaukee-brewers-tampa-bay-rays-world-series-game-5-first-title",
+   "tags": [
+    "Religion & Society"
+   ],
+   "sources": [
+    "Fox News",
+    "NPR",
+    "The Guardian"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Mullen, Lincoln",
+     "title": "Director",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "lmullen@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/lmullen",
+     "match_percentage": 82
+    },
+    {
+     "name": "DeCaroli, Robert D.",
+     "title": "Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "rdecarol@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/rdecarol",
+     "match_percentage": 74
+    },
+    {
+     "name": "Elsisi, Sayed",
+     "title": "Associate Professor, Arabic",
+     "college": "Humanities & Social Sciences",
+     "credentials": "Specialist in Arabic Literature and Culture",
+     "tier": "Primary",
+     "email": "selsisi@gmu.edu",
+     "profile_url": "https://mcl.gmu.edu/people/selsisi",
+     "match_percentage": 74
+    },
+    {
+     "name": "Alvar\u00e9, Helen",
+     "title": "Robert A. Levy Endowed Chair in Law and Liberty",
+     "college": "Law",
+     "credentials": "BS, JD, MA",
+     "tier": "Primary",
+     "email": "halvare@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/alvare_helen",
+     "match_percentage": 74
+    },
+    {
+     "name": "Weinberger, Lael",
+     "title": "Assistant Professor of Law",
+     "college": "Law",
+     "credentials": "PhD, JD",
+     "tier": "Primary",
+     "email": "lweinber@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/weinberger_lael",
+     "match_percentage": 74
+    }
+   ],
+   "category": "Social Issues & Culture"
   }
  ]
 }
