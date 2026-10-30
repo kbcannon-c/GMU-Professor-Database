@@ -1,0 +1,323 @@
+{
+ "generated_at": "2026-10-30T11:28:55.054625+00:00",
+ "headline_count": 5,
+ "summary": "5 stories today, led by coverage of Economy & Business, Politics & Government, and Foreign Policy & Security.",
+ "items": [
+  {
+   "title": "Trump vowed to reduce prices, but his policies have fueled US inflation  | Steven Greenhouse",
+   "link": "https://www.theguardian.com/commentisfree/2026/oct/30/trump-tariffs-inflation-election-promise",
+   "tags": [
+    "Tariffs & Globalization",
+    "Elections & Voting",
+    "Congress & Legislation",
+    "Presidency & Executive Branch"
+   ],
+   "sources": [
+    "BBC",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Huang, Liling",
+     "title": "Associate Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": "lhuang20@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/lhuang20",
+     "match_percentage": 33
+    },
+    {
+     "name": "Auerswald, Philip E.",
+     "title": "Professor",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "pauerswa@gmu.edu",
+     "profile_url": "https://schar.gmu.edu/profiles/pauerswa",
+     "match_percentage": 33
+    },
+    {
+     "name": "Rupp, Deborah",
+     "title": "Professor of Psychology",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "drupp2@gmu.edu",
+     "profile_url": "https://psychology.gmu.edu/people/drupp2",
+     "match_percentage": 32
+    },
+    {
+     "name": "Flores, Thomas E.",
+     "title": "Associate Professor and Director of Graduate Programs",
+     "college": "Peace & Conflict",
+     "credentials": "BA, PhD",
+     "tier": "Primary",
+     "email": "tflores2@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/tflores2",
+     "match_percentage": 25
+    },
+    {
+     "name": "Dueck, Colin",
+     "title": "Professor",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/cdueck",
+     "match_percentage": 25
+    }
+   ],
+   "category": "Economy & Business"
+  },
+  {
+   "title": "DHS cites risk to more than 40,000 personnel in effort to take leaked data offline",
+   "link": "https://www.theguardian.com/us-news/2026/oct/29/dhs-personnel-data-leak",
+   "tags": [
+    "Immigration Law & Policy",
+    "Data Privacy",
+    "Healthcare Policy & Insurance"
+   ],
+   "sources": [
+    "Ars Technica",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Vidyashankar, Anand",
+     "title": "Professor",
+     "college": "Engineering & Computing",
+     "credentials": "PhD",
+     "tier": "Primary",
+     "email": "avidyash@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/avidyash",
+     "match_percentage": 52
+    },
+    {
+     "name": "Greenwood, Brad",
+     "title": "Professor of Information Systems and Operations Management",
+     "college": "Business",
+     "credentials": "BS, MBA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 39
+    },
+    {
+     "name": "Motti, Vivian G.",
+     "title": "Associate Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://cec.gmu.edu/profiles/vmotti",
+     "match_percentage": 39
+    },
+    {
+     "name": "Buckley, Francis",
+     "title": "George Mason University Foundation Professor of Law",
+     "college": "Law",
+     "credentials": "BA, LLB, LLM",
+     "tier": "Primary",
+     "email": "fbuckley@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/buckley_francis",
+     "match_percentage": 39
+    },
+    {
+     "name": "Somin, Ilya",
+     "title": "Professor of Law, Antonin Scalia Law School; B. Kenneth Simon Chair in Constitutional Studies at the Cato Institute; University Affiliate, Schar School of Policy and Government",
+     "college": "Policy & Gov",
+     "credentials": null,
+     "tier": "Primary",
+     "email": "isomin@gmu.edu",
+     "profile_url": "https://schar.gmu.edu/profiles/isomin",
+     "match_percentage": 39
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Binance flags 'potential security issue,' says approximately $6.3 billion impacted",
+   "link": "https://www.npr.org/2026/10/30/nx-s1-6023109/binance-security-issue",
+   "tags": [
+    "Cryptocurrency & Blockchain"
+   ],
+   "sources": [
+    "NPR",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Li, Jiasun",
+     "title": "Associate Professor of Finance",
+     "college": "Business",
+     "credentials": "BS, PhD",
+     "tier": "Primary",
+     "email": "jli29@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/jli29",
+     "match_percentage": 100
+    },
+    {
+     "name": "Petryk, Mariia",
+     "title": "Assistant Professor of Information Systems and Operations Management",
+     "college": "Business",
+     "credentials": "BS, MS, BA, PhD",
+     "tier": "Primary",
+     "email": "mpetryk@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/mpetryk",
+     "match_percentage": 100
+    },
+    {
+     "name": "Ateniese, Giuseppe",
+     "title": "Professor",
+     "college": "Engineering & Computing",
+     "credentials": "MSc, PhD",
+     "tier": "Primary",
+     "email": "ateniese@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/ateniese",
+     "match_percentage": 82
+    }
+   ],
+   "category": "Economy & Business"
+  },
+  {
+   "title": "How Michigan\u2019s Midterm Senate Race Could Influence the 2028 Democratic Presidential Primary",
+   "link": "https://www.nytimes.com/2026/10/30/us/politics/michigan-senate-democratic-presidential-primary.html",
+   "tags": [
+    "Congress & Legislation"
+   ],
+   "sources": [
+    "Fox News",
+    "NPR",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 4,
+   "experts": [
+    {
+     "name": "Jaffer, Jamil",
+     "title": "Assistant Professor of Law; Founder and Executive Director",
+     "college": "Law",
+     "credentials": "BA, JD, MA",
+     "tier": "Primary",
+     "email": "jjaffer@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
+     "match_percentage": 74
+    },
+    {
+     "name": "Mink, Phillip",
+     "title": "Instructional Assistant Professor of Business Foundations",
+     "college": "Business",
+     "credentials": "BA, JD",
+     "tier": "Secondary",
+     "email": "pmink@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/pmink-sbus",
+     "match_percentage": 65
+    },
+    {
+     "name": "Davis, Doris Bitler",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Secondary",
+     "email": null,
+     "profile_url": "https://psychology.gmu.edu/people/dbitler",
+     "match_percentage": 65
+    },
+    {
+     "name": "Mandaville, Peter",
+     "title": "Professor of International Affairs",
+     "college": "Humanities & Social Sciences",
+     "credentials": "Professor of International Affairs",
+     "tier": "Secondary",
+     "email": "pmandavi@gmu.edu",
+     "profile_url": "https://globalaffairs.gmu.edu/people/pmandavi",
+     "match_percentage": 65
+    },
+    {
+     "name": "Regan, Priscilla M.",
+     "title": "Professor, Public and International Affairs",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, PhD",
+     "tier": "Secondary",
+     "email": "pregan@gmu.edu",
+     "profile_url": "https://wmst.gmu.edu/people/pregan",
+     "match_percentage": 65
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Three killed in midair helicopter collision near Oregon airport, authorities confirm",
+   "link": "https://www.foxnews.com/us/two-helicopters-collide-midair-near-oregon-airport-three-people-aboard-faa-confirms",
+   "tags": [
+    "Defense & Military Policy"
+   ],
+   "sources": [
+    "BBC",
+    "Fox News",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Wijesekera, Duminda",
+     "title": "Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BSc, MS, PhD",
+     "tier": "Primary",
+     "email": "dwijesek@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/dwijesek",
+     "match_percentage": 91
+    },
+    {
+     "name": "McCue-Weil, Leigh",
+     "title": "Professor and Department Chair",
+     "college": "Engineering & Computing",
+     "credentials": "BSE, MSE, PhD",
+     "tier": "Primary",
+     "email": "lmccuewe@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/lmccuewe",
+     "match_percentage": 91
+    },
+    {
+     "name": "Nowzari, Cameron",
+     "title": "Associate Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": "cnowzari@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/cnowzari",
+     "match_percentage": 82
+    },
+    {
+     "name": "Nelson, Jill Karen",
+     "title": "Associate Dean",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://cec.gmu.edu/profiles/jnelson",
+     "match_percentage": 74
+    },
+    {
+     "name": "Yao, Ningshi",
+     "title": "Assistant Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BEng, MS, PhD",
+     "tier": "Primary",
+     "email": "nyao4@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/nyao4",
+     "match_percentage": 74
+    }
+   ],
+   "category": "Foreign Policy & Security"
+  }
+ ]
+}
