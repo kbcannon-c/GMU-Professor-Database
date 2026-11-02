@@ -1,0 +1,144 @@
+{
+ "generated_at": "2026-11-02T11:44:12.453442+00:00",
+ "headline_count": 2,
+ "summary": "2 stories today, led by coverage of Politics & Government.",
+ "items": [
+  {
+   "title": "The Guardian view on the US midterms and election interference: Trump\u2019s attempted heist is already under way | Editorial",
+   "link": "https://www.theguardian.com/commentisfree/2026/nov/01/the-guardian-view-on-the-us-midterms-and-election-interference-trumps-attempted-heist-is-already-under-way",
+   "tags": [
+    "Elections & Voting",
+    "Immigration Law & Policy",
+    "Congress & Legislation",
+    "State & Local Government"
+   ],
+   "sources": [
+    "BBC",
+    "Fox News",
+    "NPR",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 5,
+   "experts": [
+    {
+     "name": "Chavis, Jr. Charles L.",
+     "title": "Assistant Professor of Conflict Resolution and History",
+     "college": "Peace & Conflict",
+     "credentials": "BA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://carterschool.gmu.edu/profiles/cchavis2",
+     "match_percentage": 49
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 49
+    },
+    {
+     "name": "Hines, Denise",
+     "title": "Professor",
+     "college": "Public Health",
+     "credentials": "PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://publichealth.gmu.edu/profiles/dhines2",
+     "match_percentage": 42
+    },
+    {
+     "name": "Rupp, Deborah",
+     "title": "Professor of Psychology",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "drupp2@gmu.edu",
+     "profile_url": "https://psychology.gmu.edu/people/drupp2",
+     "match_percentage": 41
+    },
+    {
+     "name": "McAuliffe, Terence",
+     "title": "Distinguished Visiting Professor of Practice",
+     "college": "Policy & Gov",
+     "credentials": "BA, JD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mcauliffe",
+     "match_percentage": 41
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Democrats Show Strength in Final Days of Race for the Senate, New Polls Find",
+   "link": "https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html",
+   "tags": [
+    "Congress & Legislation"
+   ],
+   "sources": [
+    "BBC",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Jaffer, Jamil",
+     "title": "Assistant Professor of Law; Founder and Executive Director",
+     "college": "Law",
+     "credentials": "BA, JD, MA",
+     "tier": "Primary",
+     "email": "jjaffer@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
+     "match_percentage": 65
+    },
+    {
+     "name": "Mink, Phillip",
+     "title": "Instructional Assistant Professor of Business Foundations",
+     "college": "Business",
+     "credentials": "BA, JD",
+     "tier": "Secondary",
+     "email": "pmink@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/pmink-sbus",
+     "match_percentage": 65
+    },
+    {
+     "name": "Davis, Doris Bitler",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Secondary",
+     "email": null,
+     "profile_url": "https://psychology.gmu.edu/people/dbitler",
+     "match_percentage": 65
+    },
+    {
+     "name": "Mandaville, Peter",
+     "title": "Professor of International Affairs",
+     "college": "Humanities & Social Sciences",
+     "credentials": "Professor of International Affairs",
+     "tier": "Secondary",
+     "email": "pmandavi@gmu.edu",
+     "profile_url": "https://globalaffairs.gmu.edu/people/pmandavi",
+     "match_percentage": 65
+    },
+    {
+     "name": "Regan, Priscilla M.",
+     "title": "Professor, Public and International Affairs",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, PhD",
+     "tier": "Secondary",
+     "email": "pregan@gmu.edu",
+     "profile_url": "https://wmst.gmu.edu/people/pregan",
+     "match_percentage": 65
+    }
+   ],
+   "category": "Politics & Government"
+  }
+ ]
+}
