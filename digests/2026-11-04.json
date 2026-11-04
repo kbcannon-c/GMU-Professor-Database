@@ -1,0 +1,214 @@
+{
+ "generated_at": "2026-11-04T11:49:21.732876+00:00",
+ "headline_count": 3,
+ "summary": "3 stories today, led by coverage of Politics & Government.",
+ "items": [
+  {
+   "title": "El-Sayed mocks Trump, Vance and Rogers in gloating victory speech signaling combative tone in Senate",
+   "link": "https://www.foxnews.com/politics/el-sayed-mocks-trump-vance-rogers-gloating-victory-speech-signaling-combative-tone-senate",
+   "tags": [
+    "Congress & Legislation",
+    "Middle East",
+    "Religion & Society",
+    "Trade"
+   ],
+   "sources": [
+    "Ars Technica",
+    "BBC",
+    "Fox News",
+    "NPR",
+    "The Guardian"
+   ],
+   "source_count": 5,
+   "experts": [
+    {
+     "name": "Gopin, Marc",
+     "title": "James H. Laue Professor of World Religions",
+     "college": "Peace & Conflict",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "mgopin@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/mgopin",
+     "match_percentage": 50
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 42
+    },
+    {
+     "name": "Elsisi, Sayed",
+     "title": "Associate Professor, Arabic",
+     "college": "Humanities & Social Sciences",
+     "credentials": "Specialist in Arabic Literature and Culture",
+     "tier": "Primary",
+     "email": "selsisi@gmu.edu",
+     "profile_url": "https://mcl.gmu.edu/people/selsisi",
+     "match_percentage": 41
+    },
+    {
+     "name": "Mullen, Lincoln",
+     "title": "Director",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "lmullen@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/lmullen",
+     "match_percentage": 34
+    },
+    {
+     "name": "Boudreaux, Donald J.",
+     "title": "Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD, JD",
+     "tier": "Primary",
+     "email": "dboudrea@gmu.edu",
+     "profile_url": "https://economics.gmu.edu/people/dboudrea",
+     "match_percentage": 25
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Republicans suffer historic Senate upset as Dem flips deep-red state for first time in nearly a century",
+   "link": "https://www.foxnews.com/politics/republicans-suffer-historic-senate-upset-dem-flips-deep-red-state-first-time-nearly-century",
+   "tags": [
+    "Elections & Voting",
+    "Congress & Legislation"
+   ],
+   "sources": [
+    "BBC",
+    "Fox News",
+    "NPR",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 5,
+   "experts": [
+    {
+     "name": "Flores, Thomas E.",
+     "title": "Associate Professor and Director of Graduate Programs",
+     "college": "Peace & Conflict",
+     "credentials": "BA, PhD",
+     "tier": "Primary",
+     "email": "tflores2@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/tflores2",
+     "match_percentage": 59
+    },
+    {
+     "name": "Martinelli, Cesar",
+     "title": "Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": "cmarti33@gmu.edu",
+     "profile_url": "https://economics.gmu.edu/people/cmarti33",
+     "match_percentage": 50
+    },
+    {
+     "name": "Lyons, Terrence P.",
+     "title": "Professor of Conflict Analysis and Resolution",
+     "college": "Peace & Conflict",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "tlyons1@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/tlyons1",
+     "match_percentage": 50
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 50
+    },
+    {
+     "name": "Dorpenyo, Isidore",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 41
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Dem wins Trump-targeted Texas district in rebuke of Republican redistricting shakeup",
+   "link": "https://www.foxnews.com/politics/dem-wins-trump-targeted-texas-district-rebuke-republican-redistricting-shakeup",
+   "tags": [
+    "Elections & Voting"
+   ],
+   "sources": [
+    "BBC",
+    "Fox News",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 4,
+   "experts": [
+    {
+     "name": "Martinelli, Cesar",
+     "title": "Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": "cmarti33@gmu.edu",
+     "profile_url": "https://economics.gmu.edu/people/cmarti33",
+     "match_percentage": 100
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 100
+    },
+    {
+     "name": "Dorpenyo, Isidore",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 82
+    },
+    {
+     "name": "Flores, Thomas E.",
+     "title": "Associate Professor and Director of Graduate Programs",
+     "college": "Peace & Conflict",
+     "credentials": "BA, PhD",
+     "tier": "Primary",
+     "email": "tflores2@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/tflores2",
+     "match_percentage": 82
+    },
+    {
+     "name": "Lyons, Terrence P.",
+     "title": "Professor of Conflict Analysis and Resolution",
+     "college": "Peace & Conflict",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "tlyons1@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/tlyons1",
+     "match_percentage": 82
+    }
+   ],
+   "category": "Politics & Government"
+  }
+ ]
+}

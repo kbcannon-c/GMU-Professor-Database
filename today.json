@@ -1,107 +1,103 @@
 {
- "generated_at": "2026-11-03T11:42:50.889137+00:00",
- "headline_count": 2,
- "summary": "2 stories today, led by coverage of Politics & Government.",
+ "generated_at": "2026-11-04T11:49:21.732876+00:00",
+ "headline_count": 3,
+ "summary": "3 stories today, led by coverage of Politics & Government.",
  "items": [
   {
-   "title": "Trump loses supreme court bid to set aside 20,000 California ballots as justices refuse to take up emergency request \u2013 as it happened",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/02/democrats-haley-stevens-mike-rogers-abdul-el-sayed-michigan-midterms-trump-rallies-latest-news-updates",
+   "title": "El-Sayed mocks Trump, Vance and Rogers in gloating victory speech signaling combative tone in Senate",
+   "link": "https://www.foxnews.com/politics/el-sayed-mocks-trump-vance-rogers-gloating-victory-speech-signaling-combative-tone-senate",
    "tags": [
-    "Elections & Voting",
     "Congress & Legislation",
-    "Presidency & Executive Branch",
-    "State & Local Government"
+    "Middle East",
+    "Religion & Society",
+    "Trade"
    ],
    "sources": [
     "Ars Technica",
     "BBC",
-    "MIT Technology Review",
+    "Fox News",
+    "NPR",
+    "The Guardian"
+   ],
+   "source_count": 5,
+   "experts": [
+    {
+     "name": "Gopin, Marc",
+     "title": "James H. Laue Professor of World Religions",
+     "college": "Peace & Conflict",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "mgopin@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/mgopin",
+     "match_percentage": 50
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 42
+    },
+    {
+     "name": "Elsisi, Sayed",
+     "title": "Associate Professor, Arabic",
+     "college": "Humanities & Social Sciences",
+     "credentials": "Specialist in Arabic Literature and Culture",
+     "tier": "Primary",
+     "email": "selsisi@gmu.edu",
+     "profile_url": "https://mcl.gmu.edu/people/selsisi",
+     "match_percentage": 41
+    },
+    {
+     "name": "Mullen, Lincoln",
+     "title": "Director",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "lmullen@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/lmullen",
+     "match_percentage": 34
+    },
+    {
+     "name": "Boudreaux, Donald J.",
+     "title": "Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD, JD",
+     "tier": "Primary",
+     "email": "dboudrea@gmu.edu",
+     "profile_url": "https://economics.gmu.edu/people/dboudrea",
+     "match_percentage": 25
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Republicans suffer historic Senate upset as Dem flips deep-red state for first time in nearly a century",
+   "link": "https://www.foxnews.com/politics/republicans-suffer-historic-senate-upset-dem-flips-deep-red-state-first-time-nearly-century",
+   "tags": [
+    "Elections & Voting",
+    "Congress & Legislation"
+   ],
+   "sources": [
+    "BBC",
+    "Fox News",
+    "NPR",
     "The Guardian",
     "The New York Times"
    ],
    "source_count": 5,
    "experts": [
     {
-     "name": "Rozell, Mark",
-     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
-     "college": "Policy & Gov",
-     "credentials": "BA, MA, PhD",
+     "name": "Flores, Thomas E.",
+     "title": "Associate Professor and Director of Graduate Programs",
+     "college": "Peace & Conflict",
+     "credentials": "BA, PhD",
      "tier": "Primary",
-     "email": null,
-     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
-     "match_percentage": 74
-    },
-    {
-     "name": "Jaffer, Jamil",
-     "title": "Assistant Professor of Law; Founder and Executive Director",
-     "college": "Law",
-     "credentials": "BA, JD, MA",
-     "tier": "Primary",
-     "email": "jjaffer@gmu.edu",
-     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
-     "match_percentage": 52
-    },
-    {
-     "name": "Dorpenyo, Isidore",
-     "title": "Associate Professor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MS, PhD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": null,
-     "match_percentage": 48
-    },
-    {
-     "name": "Buckley, Francis",
-     "title": "George Mason University Foundation Professor of Law",
-     "college": "Law",
-     "credentials": "BA, LLB, LLM",
-     "tier": "Primary",
-     "email": "fbuckley@gmu.edu",
-     "profile_url": "https://law.gmu.edu/directory/profiles/buckley_francis",
-     "match_percentage": 48
-    },
-    {
-     "name": "Kontorovich, Eugene",
-     "title": "Professor of Law; Executive Director",
-     "college": "Law",
-     "credentials": "BA, JD",
-     "tier": "Primary",
-     "email": "ekontoro@gmu.edu",
-     "profile_url": "https://law.gmu.edu/directory/profiles/kontorovich_eugene",
-     "match_percentage": 48
-    }
-   ],
-   "category": "Politics & Government"
-  },
-  {
-   "title": "Trump calls Iran conflict a 'soft war,' insists US holds the cards ahead of midterm elections",
-   "link": "https://www.foxnews.com/media/trump-calls-iran-conflict-soft-war-insists-us-holds-cards-ahead-midterm-elections",
-   "tags": [
-    "Elections & Voting",
-    "Defense & Military Policy",
-    "Presidency & Executive Branch",
-    "Energy Policy"
-   ],
-   "sources": [
-    "Ars Technica",
-    "BBC",
-    "Fox News",
-    "MIT Technology Review",
-    "NPR",
-    "The Guardian",
-    "The New York Times"
-   ],
-   "source_count": 7,
-   "experts": [
-    {
-     "name": "Rozell, Mark",
-     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
-     "college": "Policy & Gov",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "email": "tflores2@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/tflores2",
      "match_percentage": 59
     },
     {
@@ -112,27 +108,27 @@
      "tier": "Primary",
      "email": "cmarti33@gmu.edu",
      "profile_url": "https://economics.gmu.edu/people/cmarti33",
-     "match_percentage": 42
+     "match_percentage": 50
     },
     {
-     "name": "Flores, Thomas E.",
-     "title": "Associate Professor and Director of Graduate Programs",
+     "name": "Lyons, Terrence P.",
+     "title": "Professor of Conflict Analysis and Resolution",
      "college": "Peace & Conflict",
-     "credentials": "BA, PhD",
+     "credentials": "BA, MA, PhD",
      "tier": "Primary",
-     "email": "tflores2@gmu.edu",
-     "profile_url": "https://carterschool.gmu.edu/profiles/tflores2",
-     "match_percentage": 42
+     "email": "tlyons1@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/tlyons1",
+     "match_percentage": 50
     },
     {
-     "name": "Huang, Liling",
-     "title": "Associate Professor",
-     "college": "Engineering & Computing",
-     "credentials": "BS, MS, PhD",
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
      "tier": "Primary",
-     "email": "lhuang20@gmu.edu",
-     "profile_url": "https://cec.gmu.edu/profiles/lhuang20",
-     "match_percentage": 34
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 50
     },
     {
      "name": "Dorpenyo, Isidore",
@@ -142,7 +138,74 @@
      "tier": "Primary",
      "email": null,
      "profile_url": null,
-     "match_percentage": 34
+     "match_percentage": 41
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Dem wins Trump-targeted Texas district in rebuke of Republican redistricting shakeup",
+   "link": "https://www.foxnews.com/politics/dem-wins-trump-targeted-texas-district-rebuke-republican-redistricting-shakeup",
+   "tags": [
+    "Elections & Voting"
+   ],
+   "sources": [
+    "BBC",
+    "Fox News",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 4,
+   "experts": [
+    {
+     "name": "Martinelli, Cesar",
+     "title": "Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": "cmarti33@gmu.edu",
+     "profile_url": "https://economics.gmu.edu/people/cmarti33",
+     "match_percentage": 100
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 100
+    },
+    {
+     "name": "Dorpenyo, Isidore",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 82
+    },
+    {
+     "name": "Flores, Thomas E.",
+     "title": "Associate Professor and Director of Graduate Programs",
+     "college": "Peace & Conflict",
+     "credentials": "BA, PhD",
+     "tier": "Primary",
+     "email": "tflores2@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/tflores2",
+     "match_percentage": 82
+    },
+    {
+     "name": "Lyons, Terrence P.",
+     "title": "Professor of Conflict Analysis and Resolution",
+     "college": "Peace & Conflict",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "tlyons1@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/tlyons1",
+     "match_percentage": 82
     }
    ],
    "category": "Politics & Government"
