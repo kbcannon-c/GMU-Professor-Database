@@ -1,19 +1,19 @@
 {
- "generated_at": "2026-11-06T11:44:03.825600+00:00",
- "headline_count": 5,
- "summary": "5 stories today, led by coverage of Politics & Government and Foreign Policy & Security.",
+ "generated_at": "2026-11-07T16:45:02.468792+00:00",
+ "headline_count": 1,
+ "summary": "1 story today, led by coverage of Politics & Government.",
  "items": [
   {
-   "title": "Democratic socialist Nithya Raman wins Los Angeles mayoral race over incumbent Karen Bass",
-   "link": "https://www.theguardian.com/us-news/2026/nov/05/los-angeles-mayor-nithya-raman-karen-bass",
+   "title": "Florida Republicans survived the \u2018blue wave\u2019, but find themselves on shaky ground",
+   "link": "https://www.theguardian.com/us-news/2026/nov/07/florida-republicans-midterm-elections",
    "tags": [
     "Elections & Voting",
     "Congress & Legislation",
-    "Presidency & Executive Branch",
-    "State & Local Government"
+    "State & Local Government",
+    "Immigration Law & Policy"
    ],
    "sources": [
-    "BBC",
+    "Fox News",
     "The Guardian",
     "The New York Times"
    ],
@@ -27,98 +27,27 @@
      "tier": "Primary",
      "email": null,
      "profile_url": "https://schar.gmu.edu/profiles/mrozell",
-     "match_percentage": 59
+     "match_percentage": 54
     },
     {
-     "name": "Buckley, Francis",
-     "title": "George Mason University Foundation Professor of Law",
-     "college": "Law",
-     "credentials": "BA, LLB, LLM",
-     "tier": "Primary",
-     "email": "fbuckley@gmu.edu",
-     "profile_url": "https://law.gmu.edu/directory/profiles/buckley_francis",
-     "match_percentage": 48
-    },
-    {
-     "name": "Lyons, Terrence P.",
-     "title": "Professor of Conflict Analysis and Resolution",
-     "college": "Peace & Conflict",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": "tlyons1@gmu.edu",
-     "profile_url": "https://carterschool.gmu.edu/profiles/tlyons1",
-     "match_percentage": 46
-    },
-    {
-     "name": "McAuliffe, Terence",
-     "title": "Distinguished Visiting Professor of Practice",
-     "college": "Policy & Gov",
-     "credentials": "BA, JD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://schar.gmu.edu/profiles/mcauliffe",
-     "match_percentage": 46
-    },
-    {
-     "name": "Jaffer, Jamil",
-     "title": "Assistant Professor of Law; Founder and Executive Director",
-     "college": "Law",
-     "credentials": "BA, JD, MA",
-     "tier": "Primary",
-     "email": "jjaffer@gmu.edu",
-     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
-     "match_percentage": 30
-    }
-   ],
-   "category": "Politics & Government"
-  },
-  {
-   "title": "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-   "tags": [
-    "Elections & Voting",
-    "Congress & Legislation",
-    "Immigration Law & Policy",
-    "Presidency & Executive Branch"
-   ],
-   "sources": [
-    "Ars Technica",
-    "BBC",
-    "NPR",
-    "The Guardian",
-    "The New York Times"
-   ],
-   "source_count": 5,
-   "experts": [
-    {
-     "name": "Rozell, Mark",
-     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
-     "college": "Policy & Gov",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
-     "match_percentage": 52
-    },
-    {
-     "name": "Lattanzi Shutika, Debra L.",
-     "title": "Associate Professor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BSN, MA, PhD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://english.gmu.edu/people/dshutika",
-     "match_percentage": 48
-    },
-    {
-     "name": "Martinelli, Cesar",
-     "title": "Professor",
-     "college": "Humanities & Social Sciences",
+     "name": "Harris, Cameron",
+     "title": "Instructional Associate Professor of Business Foundations",
+     "college": "Business",
      "credentials": "BA, MS, PhD",
      "tier": "Primary",
-     "email": "cmarti33@gmu.edu",
-     "profile_url": "https://economics.gmu.edu/people/cmarti33",
-     "match_percentage": 48
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 44
+    },
+    {
+     "name": "Chesler, G.",
+     "title": "Professor, Film and Video Studies (affiliate faculty, Women and Gender Studies)",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MFA",
+     "tier": "Primary",
+     "email": "gchesler@gmu.edu",
+     "profile_url": "https://wmst.gmu.edu/people/gchesler",
+     "match_percentage": 44
     },
     {
      "name": "Buckley, Francis",
@@ -131,221 +60,17 @@
      "match_percentage": 44
     },
     {
-     "name": "Lyons, Terrence P.",
-     "title": "Professor of Conflict Analysis and Resolution",
-     "college": "Peace & Conflict",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": "tlyons1@gmu.edu",
-     "profile_url": "https://carterschool.gmu.edu/profiles/tlyons1",
-     "match_percentage": 39
-    }
-   ],
-   "category": "Politics & Government"
-  },
-  {
-   "title": "Federal judge temporarily blocks construction of Trump's Arlington triumphal arch hours after approval",
-   "link": "https://www.foxnews.com/politics/trumps-massive-arlington-triumphal-arch-approved-construction-federal-planning-commission",
-   "tags": [
-    "Presidency & Executive Branch",
-    "Defense & Military Policy",
-    "History & Historical Scholarship"
-   ],
-   "sources": [
-    "BBC",
-    "Fox News",
-    "The Guardian",
-    "The New York Times"
-   ],
-   "source_count": 4,
-   "experts": [
-    {
-     "name": "Lair, Meredith H.",
-     "title": "Associate Professor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, PhD",
-     "tier": "Primary",
-     "email": "mlair@gmu.edu",
-     "profile_url": "https://historyarthistory.gmu.edu/people/mlair",
-     "match_percentage": 70
-    },
-    {
-     "name": "Jaffer, Jamil",
-     "title": "Assistant Professor of Law; Founder and Executive Director",
-     "college": "Law",
-     "credentials": "BA, JD, MA",
-     "tier": "Primary",
-     "email": "jjaffer@gmu.edu",
-     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
-     "match_percentage": 70
-    },
-    {
-     "name": "Pichichero, Christy",
-     "title": "Associate Professor of French",
-     "college": "Humanities & Social Sciences",
-     "credentials": "AB, BM, PhD",
-     "tier": "Primary",
-     "email": "cpichich@gmu.edu",
-     "profile_url": "https://aaas.gmu.edu/people/cpichich",
-     "match_percentage": 61
-    },
-    {
-     "name": "Nowzari, Cameron",
-     "title": "Associate Professor",
-     "college": "Engineering & Computing",
-     "credentials": "BS, MS, PhD",
-     "tier": "Primary",
-     "email": "cnowzari@gmu.edu",
-     "profile_url": "https://cec.gmu.edu/profiles/cnowzari",
-     "match_percentage": 48
-    },
-    {
-     "name": "Genetin-Pilawa, C. Joseph",
-     "title": "Associate Professor of History",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": "cgenetin@gmu.edu",
-     "profile_url": "https://historyarthistory.gmu.edu/people/cgenetin",
-     "match_percentage": 48
-    }
-   ],
-   "category": "Politics & Government"
-  },
-  {
-   "title": "White House event reveals Ukraine and Russia share one goal: flattering Melania",
-   "link": "https://www.theguardian.com/us-news/2026/nov/05/melania-trump-white-house-visit-ukraine-russia",
-   "tags": [
-    "Russia & Ukraine",
-    "Presidency & Executive Branch",
-    "Terrorism & Counterterrorism"
-   ],
-   "sources": [
-    "NPR",
-    "The Guardian",
-    "The New York Times"
-   ],
-   "source_count": 3,
-   "experts": [
-    {
-     "name": "Shelley, Louise I.",
-     "title": "Distinguished University Professor Emerita, and Omer L. and Nancy Hirst Chair Emerita",
+     "name": "Finkelstein, James H.",
+     "title": "Professor Emeritus of Public Policy, Schar School of Policy and Government",
      "college": "Policy & Gov",
      "credentials": null,
      "tier": "Primary",
-     "email": null,
-     "profile_url": null,
-     "match_percentage": 78
-    },
-    {
-     "name": "Petryk, Mariia",
-     "title": "Assistant Professor of Information Systems and Operations Management",
-     "college": "Business",
-     "credentials": "BS, MS, BA, PhD",
-     "tier": "Primary",
-     "email": "mpetryk@gmu.edu",
-     "profile_url": "https://business.gmu.edu/profiles/mpetryk",
-     "match_percentage": 57
-    },
-    {
-     "name": "Barnes, Steven",
-     "title": "Associate Professor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": "sbarnes3@gmu.edu",
-     "profile_url": "https://historyarthistory.gmu.edu/people/sbarnes3",
-     "match_percentage": 57
-    },
-    {
-     "name": "Dueck, Colin",
-     "title": "Professor",
-     "college": "Policy & Gov",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://schar.gmu.edu/profiles/cdueck",
-     "match_percentage": 57
-    },
-    {
-     "name": "McCabe, Andrew",
-     "title": "Distinguished Visiting Professor",
-     "college": "Policy & Gov",
-     "credentials": "AB, JD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://schar.gmu.edu/profiles/amccabe4",
-     "match_percentage": 48
+     "email": "jfinkel@gmu.edu",
+     "profile_url": "https://schar.gmu.edu/profiles/jfinkel",
+     "match_percentage": 44
     }
    ],
-   "category": "Foreign Policy & Security"
-  },
-  {
-   "title": "Russian and Ukrainian officials thank Melania Trump for brokering ceasefire - video",
-   "link": "https://www.theguardian.com/world/video/2026/nov/05/russian-and-ukrainian-officials-thank-melania-trump-for-brokering-ceasefire-video",
-   "tags": [
-    "Russia & Ukraine",
-    "Presidency & Executive Branch"
-   ],
-   "sources": [
-    "BBC",
-    "The Guardian",
-    "The New York Times"
-   ],
-   "source_count": 3,
-   "experts": [
-    {
-     "name": "Petryk, Mariia",
-     "title": "Assistant Professor of Information Systems and Operations Management",
-     "college": "Business",
-     "credentials": "BS, MS, BA, PhD",
-     "tier": "Primary",
-     "email": "mpetryk@gmu.edu",
-     "profile_url": "https://business.gmu.edu/profiles/mpetryk",
-     "match_percentage": 50
-    },
-    {
-     "name": "Barnes, Steven",
-     "title": "Associate Professor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": "sbarnes3@gmu.edu",
-     "profile_url": "https://historyarthistory.gmu.edu/people/sbarnes3",
-     "match_percentage": 50
-    },
-    {
-     "name": "Shelley, Louise I.",
-     "title": "Distinguished University Professor Emerita, and Omer L. and Nancy Hirst Chair Emerita",
-     "college": "Policy & Gov",
-     "credentials": null,
-     "tier": "Primary",
-     "email": null,
-     "profile_url": null,
-     "match_percentage": 50
-    },
-    {
-     "name": "Staklo, Vadim",
-     "title": "Associate Professor, European History",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": "vstaklo@gmu.edu",
-     "profile_url": "https://historyarthistory.gmu.edu/people/vstaklo",
-     "match_percentage": 41
-    },
-    {
-     "name": "Buckley, Francis",
-     "title": "George Mason University Foundation Professor of Law",
-     "college": "Law",
-     "credentials": "BA, LLB, LLM",
-     "tier": "Primary",
-     "email": "fbuckley@gmu.edu",
-     "profile_url": "https://law.gmu.edu/directory/profiles/buckley_francis",
-     "match_percentage": 41
-    }
-   ],
-   "category": "Foreign Policy & Security"
+   "category": "Politics & Government"
   }
  ]
 }

@@ -1,0 +1,76 @@
+{
+ "generated_at": "2026-11-07T16:45:02.468792+00:00",
+ "headline_count": 1,
+ "summary": "1 story today, led by coverage of Politics & Government.",
+ "items": [
+  {
+   "title": "Florida Republicans survived the \u2018blue wave\u2019, but find themselves on shaky ground",
+   "link": "https://www.theguardian.com/us-news/2026/nov/07/florida-republicans-midterm-elections",
+   "tags": [
+    "Elections & Voting",
+    "Congress & Legislation",
+    "State & Local Government",
+    "Immigration Law & Policy"
+   ],
+   "sources": [
+    "Fox News",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 54
+    },
+    {
+     "name": "Harris, Cameron",
+     "title": "Instructional Associate Professor of Business Foundations",
+     "college": "Business",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 44
+    },
+    {
+     "name": "Chesler, G.",
+     "title": "Professor, Film and Video Studies (affiliate faculty, Women and Gender Studies)",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MFA",
+     "tier": "Primary",
+     "email": "gchesler@gmu.edu",
+     "profile_url": "https://wmst.gmu.edu/people/gchesler",
+     "match_percentage": 44
+    },
+    {
+     "name": "Buckley, Francis",
+     "title": "George Mason University Foundation Professor of Law",
+     "college": "Law",
+     "credentials": "BA, LLB, LLM",
+     "tier": "Primary",
+     "email": "fbuckley@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/buckley_francis",
+     "match_percentage": 44
+    },
+    {
+     "name": "Finkelstein, James H.",
+     "title": "Professor Emeritus of Public Policy, Schar School of Policy and Government",
+     "college": "Policy & Gov",
+     "credentials": null,
+     "tier": "Primary",
+     "email": "jfinkel@gmu.edu",
+     "profile_url": "https://schar.gmu.edu/profiles/jfinkel",
+     "match_percentage": 44
+    }
+   ],
+   "category": "Politics & Government"
+  }
+ ]
+}
