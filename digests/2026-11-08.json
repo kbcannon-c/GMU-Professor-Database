@@ -1,0 +1,144 @@
+{
+ "generated_at": "2026-11-08T16:55:35.912670+00:00",
+ "headline_count": 2,
+ "summary": "2 stories today, led by coverage of Politics & Government.",
+ "items": [
+  {
+   "title": "UFC's Dana White says he will meet with Trump Monday over offer to be White House press secretary",
+   "link": "https://www.npr.org/2026/11/08/nx-s1-6033900/ufc-dana-white-trump-white-house-press-secretary",
+   "tags": [
+    "Congress & Legislation",
+    "Presidency & Executive Branch",
+    "Immigration Law & Policy",
+    "Social Media & Disinformation"
+   ],
+   "sources": [
+    "BBC",
+    "Fox News",
+    "NPR",
+    "The New York Times"
+   ],
+   "source_count": 4,
+   "experts": [
+    {
+     "name": "Buckley, Francis",
+     "title": "George Mason University Foundation Professor of Law",
+     "college": "Law",
+     "credentials": "BA, LLB, LLM",
+     "tier": "Primary",
+     "email": "fbuckley@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/buckley_francis",
+     "match_percentage": 50
+    },
+    {
+     "name": "Kim, Sojung",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://communication.gmu.edu/people/skim205",
+     "match_percentage": 34
+    },
+    {
+     "name": "Dueck, Colin",
+     "title": "Professor",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/cdueck",
+     "match_percentage": 34
+    },
+    {
+     "name": "Goldstein, Brian",
+     "title": "Partner/Owner, GG Arts Law",
+     "college": "Visual & Performance Art",
+     "credentials": null,
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://cvpa.gmu.edu/profiles/bgoldstei",
+     "match_percentage": 34
+    },
+    {
+     "name": "Jaffer, Jamil",
+     "title": "Assistant Professor of Law; Founder and Executive Director",
+     "college": "Law",
+     "credentials": "BA, JD, MA",
+     "tier": "Primary",
+     "email": "jjaffer@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
+     "match_percentage": 32
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+   "link": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
+   "tags": [
+    "Elections & Voting",
+    "Political Polarization & Extremism"
+   ],
+   "sources": [
+    "NPR",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Martinelli, Cesar",
+     "title": "Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": "cmarti33@gmu.edu",
+     "profile_url": "https://economics.gmu.edu/people/cmarti33",
+     "match_percentage": 68
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 68
+    },
+    {
+     "name": "Lyons, Terrence P.",
+     "title": "Professor of Conflict Analysis and Resolution",
+     "college": "Peace & Conflict",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "tlyons1@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/tlyons1",
+     "match_percentage": 59
+    },
+    {
+     "name": "Dorpenyo, Isidore",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 50
+    },
+    {
+     "name": "McGlinchey, Eric",
+     "title": "Associate Professor, Politics, Schar School of Policy and Government",
+     "college": "Humanities & Social Sciences",
+     "credentials": "PhD",
+     "tier": "Primary",
+     "email": "emcglinc@gmu.edu",
+     "profile_url": "https://globalaffairs.gmu.edu/people/emcglinc",
+     "match_percentage": 50
+    }
+   ],
+   "category": "Politics & Government"
+  }
+ ]
+}
