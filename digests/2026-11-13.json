@@ -1,0 +1,285 @@
+{
+ "generated_at": "2026-11-13T18:23:40.669466+00:00",
+ "headline_count": 4,
+ "summary": "4 stories today, led by coverage of Politics & Government and Foreign Policy & Security.",
+ "items": [
+  {
+   "title": "Chris Van Hollen says he will run for Senate majority leader, challenging fellow Democrat Chuck Schumer \u2013 as it happened",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+   "tags": [
+    "Elections & Voting",
+    "Congress & Legislation",
+    "State & Local Government",
+    "Immigration Law & Policy"
+   ],
+   "sources": [
+    "Ars Technica",
+    "BBC",
+    "Fox News",
+    "MIT Technology Review",
+    "NPR",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 7,
+   "experts": [
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 52
+    },
+    {
+     "name": "Dorpenyo, Isidore",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 48
+    },
+    {
+     "name": "Flores, Thomas E.",
+     "title": "Associate Professor and Director of Graduate Programs",
+     "college": "Peace & Conflict",
+     "credentials": "BA, PhD",
+     "tier": "Primary",
+     "email": "tflores2@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/tflores2",
+     "match_percentage": 48
+    },
+    {
+     "name": "Lyons, Terrence P.",
+     "title": "Professor of Conflict Analysis and Resolution",
+     "college": "Peace & Conflict",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "tlyons1@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/tlyons1",
+     "match_percentage": 48
+    },
+    {
+     "name": "Martinelli, Cesar",
+     "title": "Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": "cmarti33@gmu.edu",
+     "profile_url": "https://economics.gmu.edu/people/cmarti33",
+     "match_percentage": 39
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "First Thing: Global Microsoft outage chaos as tech firm says there are \u2018signs of stabilisation\u2019",
+   "link": "https://www.theguardian.com/us-news/2026/nov/13/first-thing-global-microsoft-outage-chaos-signs-of-stabilisation",
+   "tags": [
+    "State & Local Government",
+    "Housing & Real Estate",
+    "Terrorism & Counterterrorism",
+    "Mental Health"
+   ],
+   "sources": [
+    "Ars Technica",
+    "BBC",
+    "NPR",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 5,
+   "experts": [
+    {
+     "name": "Holton, Anne",
+     "title": "Professor of Education",
+     "college": "Ed & Human Development",
+     "credentials": "JD",
+     "tier": "Primary",
+     "email": "aholton2@gmu.edu",
+     "profile_url": "https://cehd.gmu.edu/people/faculty/aholton2/",
+     "match_percentage": 51
+    },
+    {
+     "name": "Short, Jerome L.",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "jshort@gmu.edu",
+     "profile_url": "https://psychology.gmu.edu/people/jshort",
+     "match_percentage": 51
+    },
+    {
+     "name": "Eklou, K. Pierre",
+     "title": "Associate Professor",
+     "college": "Public Health",
+     "credentials": "DNP, PMHNP-BC",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://publichealth.gmu.edu/profiles/keklou",
+     "match_percentage": 51
+    },
+    {
+     "name": "Gill, Charlotte",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "cgill9@gmu.edu",
+     "profile_url": "https://cls.gmu.edu/people/cgill9",
+     "match_percentage": 42
+    },
+    {
+     "name": "Frederick, Joanne",
+     "title": "Associate Professor of Education",
+     "college": "Ed & Human Development",
+     "credentials": "PhD",
+     "tier": "Primary",
+     "email": "jleiva2@gmu.edu",
+     "profile_url": "https://cehd.gmu.edu/people/faculty/jleiva2/",
+     "match_percentage": 34
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Video from inside Brooklyn apartment captures moment New York City building collapsed, killing 8",
+   "link": "https://www.foxnews.com/us/video-inside-brooklyn-apartment-captures-moment-new-york-city-building-collapsed-killing-8",
+   "tags": [
+    "State & Local Government",
+    "Archaeology & Paleoanthropology"
+   ],
+   "sources": [
+    "BBC",
+    "Fox News",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Holton, Anne",
+     "title": "Professor of Education",
+     "college": "Ed & Human Development",
+     "credentials": "JD",
+     "tier": "Primary",
+     "email": "aholton2@gmu.edu",
+     "profile_url": "https://cehd.gmu.edu/people/faculty/aholton2/",
+     "match_percentage": 41
+    },
+    {
+     "name": "Williamson, Jacquelyn",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "jwilli98@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/jwilli98",
+     "match_percentage": 41
+    },
+    {
+     "name": "Gregg, Chris A.",
+     "title": "Professor, Art History",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "cgregg@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/cgregg",
+     "match_percentage": 41
+    },
+    {
+     "name": "Foecke, Kimberly K.",
+     "title": "Assistant Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": "kfoecke@gmu.edu",
+     "profile_url": "https://soan.gmu.edu/people/kfoecke",
+     "match_percentage": 32
+    },
+    {
+     "name": "Smith, Rick",
+     "title": "Assistant Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BS, MS, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://soan.gmu.edu/people/rsmith86",
+     "match_percentage": 32
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+   "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "Defense & Military Policy",
+    "Asia-Pacific & Korea Affairs"
+   ],
+   "sources": [
+    "BBC",
+    "NPR",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Lair, Meredith H.",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, PhD",
+     "tier": "Primary",
+     "email": "mlair@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/mlair",
+     "match_percentage": 59
+    },
+    {
+     "name": "Renshaw, Keith",
+     "title": "Senior Associate Provost for Undergraduate Education and Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BS, MA, PhD",
+     "tier": "Primary",
+     "email": "krenshaw@gmu.edu",
+     "profile_url": "https://psychology.gmu.edu/people/krenshaw",
+     "match_percentage": 59
+    },
+    {
+     "name": "Son, Byunghwan",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "bson3@gmu.edu",
+     "profile_url": "https://globalaffairs.gmu.edu/people/bson3",
+     "match_percentage": 50
+    },
+    {
+     "name": "Jung, Young A.",
+     "title": "Korean Graduate Advisor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "MA, PhD",
+     "tier": "Primary",
+     "email": "yjung3@gmu.edu",
+     "profile_url": "https://mcl.gmu.edu/people/yjung3",
+     "match_percentage": 50
+    },
+    {
+     "name": "Nowzari, Cameron",
+     "title": "Associate Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": "cnowzari@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/cnowzari",
+     "match_percentage": 41
+    }
+   ],
+   "category": "Foreign Policy & Security"
+  }
+ ]
+}
