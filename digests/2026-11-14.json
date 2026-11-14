@@ -1,0 +1,77 @@
+{
+ "generated_at": "2026-11-14T16:51:40.267679+00:00",
+ "headline_count": 1,
+ "summary": "1 story today, led by coverage of Economy & Business.",
+ "items": [
+  {
+   "title": "FAA ground stop puts obstacle in front of social media stars trying to get to AEW's Full Gear PPV",
+   "link": "https://www.foxnews.com/outkick-sports/faa-groundstop-obstacle-social-media-stars-aew-full-gear-ppv",
+   "tags": [
+    "Housing & Real Estate",
+    "Social Media & Disinformation"
+   ],
+   "sources": [
+    "Ars Technica",
+    "BBC",
+    "Fox News",
+    "NPR",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 6,
+   "experts": [
+    {
+     "name": "Kim, Sojung",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://communication.gmu.edu/people/skim205",
+     "match_percentage": 59
+    },
+    {
+     "name": "Greenberg, Nathaniel",
+     "title": "Associate Professor of Arabic",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "ngreenbe@gmu.edu",
+     "profile_url": "https://mcl.gmu.edu/people/ngreenbe",
+     "match_percentage": 50
+    },
+    {
+     "name": "Rouge (Shedd), Juliette",
+     "title": "Adjunct Faculty, Carter School",
+     "college": "Peace & Conflict",
+     "credentials": null,
+     "tier": "Primary",
+     "email": "jrouge@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/jrouge",
+     "match_percentage": 50
+    },
+    {
+     "name": "Karmegam, Sabari Rajan",
+     "title": "Assistant Professor of Information Systems and Operations Management. BE 2002",
+     "college": "Business",
+     "credentials": "MBA, PhD",
+     "tier": "Primary",
+     "email": "skarmega@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/skarmega",
+     "match_percentage": 41
+    },
+    {
+     "name": "Plotnick, Jeremy",
+     "title": "Instructional Assistant Professor of Business Foundations",
+     "college": "Business",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "jplotnic@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/jplotnic",
+     "match_percentage": 41
+    }
+   ],
+   "category": "Economy & Business"
+  }
+ ]
+}
