@@ -1,0 +1,147 @@
+{
+ "generated_at": "2026-11-15T17:34:38.471285+00:00",
+ "headline_count": 2,
+ "summary": "2 stories today, led by coverage of Politics & Government.",
+ "items": [
+  {
+   "title": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage",
+   "link": "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag",
+   "tags": [
+    "Presidency & Executive Branch",
+    "Congress & Legislation",
+    "Social Media & Disinformation",
+    "TV & Media Studies"
+   ],
+   "sources": [
+    "BBC",
+    "Fox News",
+    "NPR",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 5,
+   "experts": [
+    {
+     "name": "Kim, Sojung",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://communication.gmu.edu/people/skim205",
+     "match_percentage": 51
+    },
+    {
+     "name": "Greenberg, Nathaniel",
+     "title": "Associate Professor of Arabic",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "ngreenbe@gmu.edu",
+     "profile_url": "https://mcl.gmu.edu/people/ngreenbe",
+     "match_percentage": 50
+    },
+    {
+     "name": "Fuchs, Cynthia",
+     "title": "Professor",
+     "college": "Visual & Performance Art",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://cvpa.gmu.edu/profiles/cfuchs",
+     "match_percentage": 42
+    },
+    {
+     "name": "Reed, Daniel",
+     "title": "Instructor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BS, MPS",
+     "tier": "Primary",
+     "email": "dreed21@gmu.edu",
+     "profile_url": "https://communication.gmu.edu/people/dreed21",
+     "match_percentage": 34
+    },
+    {
+     "name": "Smith, Rodger",
+     "title": "Senior Instructor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BS, MBA",
+     "tier": "Primary",
+     "email": "rsmith6@gmu.edu",
+     "profile_url": "https://communication.gmu.edu/people/rsmith6",
+     "match_percentage": 34
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
+   "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
+   "tags": [
+    "Presidency & Executive Branch",
+    "Social Media & Disinformation",
+    "Social Movements & Political Sociology"
+   ],
+   "sources": [
+    "BBC",
+    "NPR",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 4,
+   "experts": [
+    {
+     "name": "Kim, Sojung",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://communication.gmu.edu/people/skim205",
+     "match_percentage": 48
+    },
+    {
+     "name": "Dueck, Colin",
+     "title": "Professor",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/cdueck",
+     "match_percentage": 48
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 48
+    },
+    {
+     "name": "Greenberg, Nathaniel",
+     "title": "Associate Professor of Arabic",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "ngreenbe@gmu.edu",
+     "profile_url": "https://mcl.gmu.edu/people/ngreenbe",
+     "match_percentage": 39
+    },
+    {
+     "name": "Manski, Ben",
+     "title": "Assistant Professor of Sociology and Director of Next System Studies",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, JD, MA, PhD",
+     "tier": "Primary",
+     "email": "bmanski@gmu.edu",
+     "profile_url": "https://soan.gmu.edu/people/bmanski",
+     "match_percentage": 39
+    }
+   ],
+   "category": "Politics & Government"
+  }
+ ]
+}
