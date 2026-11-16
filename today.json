@@ -1,20 +1,20 @@
 {
- "generated_at": "2026-11-15T17:34:38.471285+00:00",
- "headline_count": 2,
- "summary": "2 stories today, led by coverage of Politics & Government.",
+ "generated_at": "2026-11-16T20:48:46.877177+00:00",
+ "headline_count": 3,
+ "summary": "3 stories today, led by coverage of Politics & Government.",
  "items": [
   {
-   "title": "Transportation secretary Sean Duffy blames prior presidents and Congress for flight stoppage",
-   "link": "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag",
+   "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+   "link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
    "tags": [
     "Presidency & Executive Branch",
-    "Congress & Legislation",
-    "Social Media & Disinformation",
-    "TV & Media Studies"
+    "China & U.S.-China Relations",
+    "Artificial Intelligence Policy & Ethics",
+    "Semiconductors & Computing Hardware"
    ],
    "sources": [
-    "BBC",
-    "Fox News",
+    "Ars Technica",
+    "MIT Technology Review",
     "NPR",
     "The Guardian",
     "The New York Times"
@@ -22,65 +22,133 @@
    "source_count": 5,
    "experts": [
     {
-     "name": "Kim, Sojung",
-     "title": "Associate Professor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MA, PhD",
+     "name": "Soyata, Tolga",
+     "title": "Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
      "tier": "Primary",
-     "email": null,
-     "profile_url": "https://communication.gmu.edu/people/skim205",
+     "email": "tsoyata@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/tsoyata",
      "match_percentage": 51
     },
     {
-     "name": "Greenberg, Nathaniel",
-     "title": "Associate Professor of Arabic",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": "ngreenbe@gmu.edu",
-     "profile_url": "https://mcl.gmu.edu/people/ngreenbe",
-     "match_percentage": 50
-    },
-    {
-     "name": "Fuchs, Cynthia",
-     "title": "Professor",
-     "college": "Visual & Performance Art",
-     "credentials": "BA, MA, PhD",
+     "name": "Zhang, Ketian",
+     "title": "Associate Professor",
+     "college": "Policy & Gov",
+     "credentials": "BA, PhD",
      "tier": "Primary",
      "email": null,
-     "profile_url": "https://cvpa.gmu.edu/profiles/cfuchs",
+     "profile_url": "https://schar.gmu.edu/profiles/kzhang20",
+     "match_percentage": 51
+    },
+    {
+     "name": "Buckley, Francis",
+     "title": "George Mason University Foundation Professor of Law",
+     "college": "Law",
+     "credentials": "BA, LLB, LLM",
+     "tier": "Primary",
+     "email": "fbuckley@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/buckley_francis",
      "match_percentage": 42
     },
     {
-     "name": "Reed, Daniel",
-     "title": "Instructor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BS, MPS",
+     "name": "Jiang, Weiwen",
+     "title": "Assistant Professor",
+     "college": "Engineering & Computing",
+     "credentials": "PhD",
      "tier": "Primary",
-     "email": "dreed21@gmu.edu",
-     "profile_url": "https://communication.gmu.edu/people/dreed21",
-     "match_percentage": 34
+     "email": "wjiang8@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/wjiang8",
+     "match_percentage": 41
     },
     {
-     "name": "Smith, Rodger",
-     "title": "Senior Instructor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BS, MBA",
+     "name": "Parsa, Maryam",
+     "title": "Assistant Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
      "tier": "Primary",
-     "email": "rsmith6@gmu.edu",
-     "profile_url": "https://communication.gmu.edu/people/rsmith6",
-     "match_percentage": 34
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 41
     }
    ],
    "category": "Politics & Government"
   },
   {
-   "title": "Judge temporarily blocks Trump from moving ahead on Washington public golf course redevelopment",
-   "link": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks",
+   "title": "Two reasons Democrats can overcome infighting next year | Robert Reich",
+   "link": "https://www.theguardian.com/commentisfree/2026/nov/16/democrats-infighting",
    "tags": [
-    "Presidency & Executive Branch",
-    "Social Media & Disinformation",
-    "Social Movements & Political Sociology"
+    "Elections & Voting",
+    "Congress & Legislation",
+    "Labor Market & Employment",
+    "Healthcare Policy & Insurance"
+   ],
+   "sources": [
+    "Ars Technica",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Martinelli, Cesar",
+     "title": "Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": "cmarti33@gmu.edu",
+     "profile_url": "https://economics.gmu.edu/people/cmarti33",
+     "match_percentage": 51
+    },
+    {
+     "name": "Lyons, Terrence P.",
+     "title": "Professor of Conflict Analysis and Resolution",
+     "college": "Peace & Conflict",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "tlyons1@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/tlyons1",
+     "match_percentage": 51
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 51
+    },
+    {
+     "name": "Anand, Priyanka",
+     "title": "Associate Professor",
+     "college": "Public Health",
+     "credentials": "PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://publichealth.gmu.edu/profiles/panand4",
+     "match_percentage": 50
+    },
+    {
+     "name": "Greenwood, Brad",
+     "title": "Professor of Information Systems and Operations Management",
+     "college": "Business",
+     "credentials": "BS, MBA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 42
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Judge sets Lindsay Clancy retrial for March in killings of her three children",
+   "link": "https://www.theguardian.com/us-news/2026/nov/16/lindsay-clancy-retrial-march",
+   "tags": [
+    "Supreme Court & Constitutional Law",
+    "Labor Market & Employment"
    ],
    "sources": [
     "BBC",
@@ -91,54 +159,54 @@
    "source_count": 4,
    "experts": [
     {
-     "name": "Kim, Sojung",
-     "title": "Associate Professor",
+     "name": "Rupp, Deborah",
+     "title": "Professor of Psychology",
      "college": "Humanities & Social Sciences",
      "credentials": "BA, MA, PhD",
      "tier": "Primary",
-     "email": null,
-     "profile_url": "https://communication.gmu.edu/people/skim205",
-     "match_percentage": 48
+     "email": "drupp2@gmu.edu",
+     "profile_url": "https://psychology.gmu.edu/people/drupp2",
+     "match_percentage": 74
     },
     {
-     "name": "Dueck, Colin",
-     "title": "Professor",
+     "name": "Alvar\u00e9, Helen",
+     "title": "Robert A. Levy Endowed Chair in Law and Liberty",
+     "college": "Law",
+     "credentials": "BS, JD, MA",
+     "tier": "Primary",
+     "email": "halvare@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/alvare_helen",
+     "match_percentage": 59
+    },
+    {
+     "name": "Weinberger, Lael",
+     "title": "Assistant Professor of Law",
+     "college": "Law",
+     "credentials": "PhD, JD",
+     "tier": "Primary",
+     "email": "lweinber@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/weinberger_lael",
+     "match_percentage": 50
+    },
+    {
+     "name": "Somin, Ilya",
+     "title": "Professor of Law, Antonin Scalia Law School; B. Kenneth Simon Chair in Constitutional Studies at the Cato Institute; University Affiliate, Schar School of Policy and Government",
      "college": "Policy & Gov",
-     "credentials": "BA, MA, PhD",
+     "credentials": null,
      "tier": "Primary",
-     "email": null,
-     "profile_url": "https://schar.gmu.edu/profiles/cdueck",
-     "match_percentage": 48
+     "email": "isomin@gmu.edu",
+     "profile_url": "https://schar.gmu.edu/profiles/isomin",
+     "match_percentage": 50
     },
     {
-     "name": "Rozell, Mark",
-     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
-     "college": "Policy & Gov",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
-     "match_percentage": 48
-    },
-    {
-     "name": "Greenberg, Nathaniel",
-     "title": "Associate Professor of Arabic",
+     "name": "Wooten, Courtney",
+     "title": "Associate Professor and English Composition Director",
      "college": "Humanities & Social Sciences",
      "credentials": "BA, MA, PhD",
      "tier": "Primary",
-     "email": "ngreenbe@gmu.edu",
-     "profile_url": "https://mcl.gmu.edu/people/ngreenbe",
-     "match_percentage": 39
-    },
-    {
-     "name": "Manski, Ben",
-     "title": "Assistant Professor of Sociology and Director of Next System Studies",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, JD, MA, PhD",
-     "tier": "Primary",
-     "email": "bmanski@gmu.edu",
-     "profile_url": "https://soan.gmu.edu/people/bmanski",
-     "match_percentage": 39
+     "email": "cwooten3@gmu.edu",
+     "profile_url": "https://english.gmu.edu/people/cwooten3",
+     "match_percentage": 41
     }
    ],
    "category": "Politics & Government"

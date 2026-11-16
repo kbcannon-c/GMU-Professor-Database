@@ -1,0 +1,215 @@
+{
+ "generated_at": "2026-11-16T20:48:46.877177+00:00",
+ "headline_count": 3,
+ "summary": "3 stories today, led by coverage of Politics & Government.",
+ "items": [
+  {
+   "title": "U.S. tightens controls on remote access to AI technology amid Nvidia fallout",
+   "link": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department",
+   "tags": [
+    "Presidency & Executive Branch",
+    "China & U.S.-China Relations",
+    "Artificial Intelligence Policy & Ethics",
+    "Semiconductors & Computing Hardware"
+   ],
+   "sources": [
+    "Ars Technica",
+    "MIT Technology Review",
+    "NPR",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 5,
+   "experts": [
+    {
+     "name": "Soyata, Tolga",
+     "title": "Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": "tsoyata@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/tsoyata",
+     "match_percentage": 51
+    },
+    {
+     "name": "Zhang, Ketian",
+     "title": "Associate Professor",
+     "college": "Policy & Gov",
+     "credentials": "BA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/kzhang20",
+     "match_percentage": 51
+    },
+    {
+     "name": "Buckley, Francis",
+     "title": "George Mason University Foundation Professor of Law",
+     "college": "Law",
+     "credentials": "BA, LLB, LLM",
+     "tier": "Primary",
+     "email": "fbuckley@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/buckley_francis",
+     "match_percentage": 42
+    },
+    {
+     "name": "Jiang, Weiwen",
+     "title": "Assistant Professor",
+     "college": "Engineering & Computing",
+     "credentials": "PhD",
+     "tier": "Primary",
+     "email": "wjiang8@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/wjiang8",
+     "match_percentage": 41
+    },
+    {
+     "name": "Parsa, Maryam",
+     "title": "Assistant Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 41
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Two reasons Democrats can overcome infighting next year | Robert Reich",
+   "link": "https://www.theguardian.com/commentisfree/2026/nov/16/democrats-infighting",
+   "tags": [
+    "Elections & Voting",
+    "Congress & Legislation",
+    "Labor Market & Employment",
+    "Healthcare Policy & Insurance"
+   ],
+   "sources": [
+    "Ars Technica",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Martinelli, Cesar",
+     "title": "Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": "cmarti33@gmu.edu",
+     "profile_url": "https://economics.gmu.edu/people/cmarti33",
+     "match_percentage": 51
+    },
+    {
+     "name": "Lyons, Terrence P.",
+     "title": "Professor of Conflict Analysis and Resolution",
+     "college": "Peace & Conflict",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "tlyons1@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/tlyons1",
+     "match_percentage": 51
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 51
+    },
+    {
+     "name": "Anand, Priyanka",
+     "title": "Associate Professor",
+     "college": "Public Health",
+     "credentials": "PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://publichealth.gmu.edu/profiles/panand4",
+     "match_percentage": 50
+    },
+    {
+     "name": "Greenwood, Brad",
+     "title": "Professor of Information Systems and Operations Management",
+     "college": "Business",
+     "credentials": "BS, MBA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 42
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Judge sets Lindsay Clancy retrial for March in killings of her three children",
+   "link": "https://www.theguardian.com/us-news/2026/nov/16/lindsay-clancy-retrial-march",
+   "tags": [
+    "Supreme Court & Constitutional Law",
+    "Labor Market & Employment"
+   ],
+   "sources": [
+    "BBC",
+    "NPR",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 4,
+   "experts": [
+    {
+     "name": "Rupp, Deborah",
+     "title": "Professor of Psychology",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "drupp2@gmu.edu",
+     "profile_url": "https://psychology.gmu.edu/people/drupp2",
+     "match_percentage": 74
+    },
+    {
+     "name": "Alvar\u00e9, Helen",
+     "title": "Robert A. Levy Endowed Chair in Law and Liberty",
+     "college": "Law",
+     "credentials": "BS, JD, MA",
+     "tier": "Primary",
+     "email": "halvare@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/alvare_helen",
+     "match_percentage": 59
+    },
+    {
+     "name": "Weinberger, Lael",
+     "title": "Assistant Professor of Law",
+     "college": "Law",
+     "credentials": "PhD, JD",
+     "tier": "Primary",
+     "email": "lweinber@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/weinberger_lael",
+     "match_percentage": 50
+    },
+    {
+     "name": "Somin, Ilya",
+     "title": "Professor of Law, Antonin Scalia Law School; B. Kenneth Simon Chair in Constitutional Studies at the Cato Institute; University Affiliate, Schar School of Policy and Government",
+     "college": "Policy & Gov",
+     "credentials": null,
+     "tier": "Primary",
+     "email": "isomin@gmu.edu",
+     "profile_url": "https://schar.gmu.edu/profiles/isomin",
+     "match_percentage": 50
+    },
+    {
+     "name": "Wooten, Courtney",
+     "title": "Associate Professor and English Composition Director",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "cwooten3@gmu.edu",
+     "profile_url": "https://english.gmu.edu/people/cwooten3",
+     "match_percentage": 41
+    }
+   ],
+   "category": "Politics & Government"
+  }
+ ]
+}
