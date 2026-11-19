@@ -1,88 +1,16 @@
 {
- "generated_at": "2026-11-18T19:14:40.576316+00:00",
- "headline_count": 7,
- "summary": "7 stories today, led by coverage of Politics & Government, Foreign Policy & Security, and Health & Science.",
+ "generated_at": "2026-11-19T19:21:53.549383+00:00",
+ "headline_count": 2,
+ "summary": "2 stories today, led by coverage of Politics & Government and Foreign Policy & Security.",
  "items": [
   {
-   "title": "Ukraine strikes 'one of the largest oil refineries' in southern Russia ahead of Putin-Trump meeting in China",
-   "link": "https://www.foxnews.com/world/ukraine-strikes-one-largest-oil-refineries-southern-russia-ahead-putin-trump-meeting-china",
+   "title": "Hakeem Jeffries on brink of House history as he tells Democrats to \u2018fight Maga, not each other\u2019 \u2013 US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
    "tags": [
+    "Elections & Voting",
+    "Congress & Legislation",
     "Russia & Ukraine",
-    "China & U.S.-China Relations",
-    "Defense & Military Policy",
-    "Autonomous Systems & Robotics"
-   ],
-   "sources": [
-    "Ars Technica",
-    "BBC",
-    "Fox News",
-    "NPR",
-    "The Guardian",
-    "The New York Times"
-   ],
-   "source_count": 6,
-   "experts": [
-    {
-     "name": "Barnes, Steven",
-     "title": "Associate Professor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": "sbarnes3@gmu.edu",
-     "profile_url": "https://historyarthistory.gmu.edu/people/sbarnes3",
-     "match_percentage": 46
-    },
-    {
-     "name": "Shelley, Louise I.",
-     "title": "Distinguished University Professor Emerita, and Omer L. and Nancy Hirst Chair Emerita",
-     "college": "Policy & Gov",
-     "credentials": null,
-     "tier": "Primary",
-     "email": null,
-     "profile_url": null,
-     "match_percentage": 46
-    },
-    {
-     "name": "Son, Byunghwan",
-     "title": "Associate Professor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": "bson3@gmu.edu",
-     "profile_url": "https://globalaffairs.gmu.edu/people/bson3",
-     "match_percentage": 37
-    },
-    {
-     "name": "Nowzari, Cameron",
-     "title": "Associate Professor",
-     "college": "Engineering & Computing",
-     "credentials": "BS, MS, PhD",
-     "tier": "Primary",
-     "email": "cnowzari@gmu.edu",
-     "profile_url": "https://cec.gmu.edu/profiles/cnowzari",
-     "match_percentage": 30
-    },
-    {
-     "name": "Kirkpatrick, Jesse",
-     "title": "Research Associate Professor, Philosophy",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BS, PhD",
-     "tier": "Primary",
-     "email": "jkirkpat@gmu.edu",
-     "profile_url": "https://philosophy.gmu.edu/people/jkirkpat",
-     "match_percentage": 30
-    }
-   ],
-   "category": "Foreign Policy & Security"
-  },
-  {
-   "title": "Democrats nominate Hakeem Jeffries as first Black House speaker despite progressives\u2019 concerns",
-   "link": "https://www.theguardian.com/us-news/2026/nov/18/hakeem-jeffries-house-speaker-nomination",
-   "tags": [
-    "Congress & Legislation",
-    "Elections & Voting",
-    "Middle East",
-    "Defense & Military Policy"
+    "Presidency & Executive Branch"
    ],
    "sources": [
     "BBC",
@@ -93,6 +21,16 @@
    "source_count": 4,
    "experts": [
     {
+     "name": "Staklo, Vadim",
+     "title": "Associate Professor, European History",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "vstaklo@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/vstaklo",
+     "match_percentage": 54
+    },
+    {
      "name": "Rozell, Mark",
      "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
      "college": "Policy & Gov",
@@ -100,7 +38,7 @@
      "tier": "Primary",
      "email": null,
      "profile_url": "https://schar.gmu.edu/profiles/mrozell",
-     "match_percentage": 48
+     "match_percentage": 54
     },
     {
      "name": "Jaffer, Jamil",
@@ -110,223 +48,17 @@
      "tier": "Primary",
      "email": "jjaffer@gmu.edu",
      "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
+     "match_percentage": 45
+    },
+    {
+     "name": "Geloso, Vincent J.",
+     "title": "Assistant Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BS, MA, PhD",
+     "tier": "Primary",
+     "email": "vgeloso@gmu.edu",
+     "profile_url": "https://economics.gmu.edu/people/vgeloso",
      "match_percentage": 44
-    },
-    {
-     "name": "Greenwood, Brad",
-     "title": "Professor of Information Systems and Operations Management",
-     "college": "Business",
-     "credentials": "BS, MBA, PhD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": null,
-     "match_percentage": 39
-    },
-    {
-     "name": "Nowzari, Cameron",
-     "title": "Associate Professor",
-     "college": "Engineering & Computing",
-     "credentials": "BS, MS, PhD",
-     "tier": "Primary",
-     "email": "cnowzari@gmu.edu",
-     "profile_url": "https://cec.gmu.edu/profiles/cnowzari",
-     "match_percentage": 39
-    },
-    {
-     "name": "Kontorovich, Eugene",
-     "title": "Professor of Law; Executive Director",
-     "college": "Law",
-     "credentials": "BA, JD",
-     "tier": "Primary",
-     "email": "ekontoro@gmu.edu",
-     "profile_url": "https://law.gmu.edu/directory/profiles/kontorovich_eugene",
-     "match_percentage": 39
-    }
-   ],
-   "category": "Politics & Government"
-  },
-  {
-   "title": "US loses measles elimination status after 26 years amid record case numbers",
-   "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "Infectious Disease & Vaccines",
-    "Public Health & Pandemic Preparedness",
-    "Alliances & Multilateralism"
-   ],
-   "sources": [
-    "Ars Technica",
-    "BBC",
-    "NPR",
-    "The New York Times"
-   ],
-   "source_count": 4,
-   "experts": [
-    {
-     "name": "Roess, Amira",
-     "title": "Professor",
-     "college": "Public Health",
-     "credentials": "PhD, MPH",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://publichealth.gmu.edu/profiles/aroess",
-     "match_percentage": 78
-    },
-    {
-     "name": "Popescu, Saskia",
-     "title": "Adjunct Faculty",
-     "college": "Policy & Gov",
-     "credentials": null,
-     "tier": "Primary",
-     "email": "spopesc2@gmu.edu",
-     "profile_url": "https://schar.gmu.edu/profiles/spopesc2",
-     "match_percentage": 70
-    },
-    {
-     "name": "Lawrence, Heidi",
-     "title": "Associate Professor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://english.gmu.edu/people/hlawren2",
-     "match_percentage": 52
-    },
-    {
-     "name": "Tomaszewski, Evelyn",
-     "title": "Associate Professor",
-     "college": "Public Health",
-     "credentials": "MSW, ACSW",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://publichealth.gmu.edu/profiles/etomasze",
-     "match_percentage": 48
-    },
-    {
-     "name": "Maibach, Edward Wile",
-     "title": "Distinguished University Professor (Emeritus)",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, PhD, MPH",
-     "tier": "Primary",
-     "email": "emaibach@gmu.edu",
-     "profile_url": "https://communication.gmu.edu/people/emaibach",
-     "match_percentage": 39
-    }
-   ],
-   "category": "Health & Science"
-  },
-  {
-   "title": "Democrats demand answers from Howard Lutnick about Nvidia and his family\u2019s business",
-   "link": "https://www.theguardian.com/us-news/2026/nov/18/howard-lutnick-nvidia-cantor-fitzgerald",
-   "tags": [
-    "Congress & Legislation",
-    "Presidency & Executive Branch",
-    "China & U.S.-China Relations"
-   ],
-   "sources": [
-    "BBC",
-    "NPR",
-    "The Guardian",
-    "The New York Times"
-   ],
-   "source_count": 4,
-   "experts": [
-    {
-     "name": "Jaffer, Jamil",
-     "title": "Assistant Professor of Law; Founder and Executive Director",
-     "college": "Law",
-     "credentials": "BA, JD, MA",
-     "tier": "Primary",
-     "email": "jjaffer@gmu.edu",
-     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
-     "match_percentage": 52
-    },
-    {
-     "name": "Zhang, Ketian",
-     "title": "Associate Professor",
-     "college": "Policy & Gov",
-     "credentials": "BA, PhD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://schar.gmu.edu/profiles/kzhang20",
-     "match_percentage": 48
-    },
-    {
-     "name": "Lucia Liu, Huwy-min",
-     "title": "Associate Professor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://soan.gmu.edu/people/hliu27",
-     "match_percentage": 39
-    },
-    {
-     "name": "Buckley, Francis",
-     "title": "George Mason University Foundation Professor of Law",
-     "college": "Law",
-     "credentials": "BA, LLB, LLM",
-     "tier": "Primary",
-     "email": "fbuckley@gmu.edu",
-     "profile_url": "https://law.gmu.edu/directory/profiles/buckley_francis",
-     "match_percentage": 39
-    },
-    {
-     "name": "Luo, Liang",
-     "title": "Chair",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": "lluo5@gmu.edu",
-     "profile_url": "https://mcl.gmu.edu/people/lluo5",
-     "match_percentage": 30
-    }
-   ],
-   "category": "Politics & Government"
-  },
-  {
-   "title": "AI data centers could consume more water than Americans drink in a year by 2030, says CEO working on solution",
-   "link": "https://www.foxnews.com/tech/ai-data-centers-consume-more-water-americans-drink-year-2030-ceo-working-solution",
-   "tags": [
-    "Elections & Voting",
-    "Big Tech & Antitrust",
-    "Corporate Social Responsibility & Sustainability"
-   ],
-   "sources": [
-    "Fox News",
-    "NPR",
-    "The New York Times"
-   ],
-   "source_count": 3,
-   "experts": [
-    {
-     "name": "Dorpenyo, Isidore",
-     "title": "Associate Professor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MS, PhD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": null,
-     "match_percentage": 57
-    },
-    {
-     "name": "Lyons, Terrence P.",
-     "title": "Professor of Conflict Analysis and Resolution",
-     "college": "Peace & Conflict",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": "tlyons1@gmu.edu",
-     "profile_url": "https://carterschool.gmu.edu/profiles/tlyons1",
-     "match_percentage": 48
-    },
-    {
-     "name": "Rozell, Mark",
-     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
-     "college": "Policy & Gov",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
-     "match_percentage": 48
     },
     {
      "name": "Martinelli, Cesar",
@@ -336,156 +68,81 @@
      "tier": "Primary",
      "email": "cmarti33@gmu.edu",
      "profile_url": "https://economics.gmu.edu/people/cmarti33",
-     "match_percentage": 39
-    },
-    {
-     "name": "Flores, Thomas E.",
-     "title": "Associate Professor and Director of Graduate Programs",
-     "college": "Peace & Conflict",
-     "credentials": "BA, PhD",
-     "tier": "Primary",
-     "email": "tflores2@gmu.edu",
-     "profile_url": "https://carterschool.gmu.edu/profiles/tflores2",
-     "match_percentage": 39
+     "match_percentage": 44
     }
    ],
    "category": "Politics & Government"
   },
   {
-   "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
-   "link": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
+   "title": "China could exploit US technology to threaten American forces, congressional watchdog leaders warn",
+   "link": "https://www.foxnews.com/world/china-could-exploit-us-technology-threaten-american-forces-congressional-watchdog-leaders-warn",
    "tags": [
     "China & U.S.-China Relations",
-    "Russia & Ukraine",
-    "Transportation Engineering & Urban Mobility"
+    "Defense & Military Policy",
+    "Artificial Intelligence Policy & Ethics",
+    "Cybersecurity (Consumer & Corporate)"
    ],
    "sources": [
     "Ars Technica",
     "BBC",
-    "NPR",
-    "The Guardian"
-   ],
-   "source_count": 4,
-   "experts": [
-    {
-     "name": "Shelley, Louise I.",
-     "title": "Distinguished University Professor Emerita, and Omer L. and Nancy Hirst Chair Emerita",
-     "college": "Policy & Gov",
-     "credentials": null,
-     "tier": "Primary",
-     "email": null,
-     "profile_url": null,
-     "match_percentage": 48
-    },
-    {
-     "name": "Zhang, Ketian",
-     "title": "Associate Professor",
-     "college": "Policy & Gov",
-     "credentials": "BA, PhD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://schar.gmu.edu/profiles/kzhang20",
-     "match_percentage": 39
-    },
-    {
-     "name": "Petryk, Mariia",
-     "title": "Assistant Professor of Information Systems and Operations Management",
-     "college": "Business",
-     "credentials": "BS, MS, BA, PhD",
-     "tier": "Primary",
-     "email": "mpetryk@gmu.edu",
-     "profile_url": "https://business.gmu.edu/profiles/mpetryk",
-     "match_percentage": 30
-    },
-    {
-     "name": "Barnes, Steven",
-     "title": "Associate Professor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": "sbarnes3@gmu.edu",
-     "profile_url": "https://historyarthistory.gmu.edu/people/sbarnes3",
-     "match_percentage": 30
-    },
-    {
-     "name": "Lucia Liu, Huwy-min",
-     "title": "Associate Professor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://soan.gmu.edu/people/hliu27",
-     "match_percentage": 30
-    }
-   ],
-   "category": "Foreign Policy & Security"
-  },
-  {
-   "title": "After 49 years, Nasa\u2019s Voyager 1 is one light-day away from us. Can we save this \u2018pale blue dot\u2019? | Kim Heacox",
-   "link": "https://www.theguardian.com/commentisfree/2026/nov/18/nasa-voyager-1-pale-blue-dot",
-   "tags": [
-    "Space Policy & Exploration",
-    "Film"
-   ],
-   "sources": [
-    "Ars Technica",
+    "Fox News",
     "The Guardian",
     "The New York Times"
    ],
-   "source_count": 3,
+   "source_count": 5,
    "experts": [
     {
-     "name": "Pachowicz, Peter W.",
+     "name": "Kirkpatrick, Jesse",
+     "title": "Research Associate Professor, Philosophy",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BS, PhD",
+     "tier": "Primary",
+     "email": "jkirkpat@gmu.edu",
+     "profile_url": "https://philosophy.gmu.edu/people/jkirkpat",
+     "match_percentage": 68
+    },
+    {
+     "name": "Wijesekera, Duminda",
+     "title": "Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BSc, MS, PhD",
+     "tier": "Primary",
+     "email": "dwijesek@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/dwijesek",
+     "match_percentage": 59
+    },
+    {
+     "name": "Gebril, Mohamed",
      "title": "Associate Professor",
      "college": "Engineering & Computing",
-     "credentials": "MS, PhD",
+     "credentials": "BS, MS, PhD",
      "tier": "Primary",
-     "email": null,
-     "profile_url": "https://cec.gmu.edu/profiles/ppach",
-     "match_percentage": 59
-    },
-    {
-     "name": "Chesler, G.",
-     "title": "Professor, Film and Video Studies (affiliate faculty, Women and Gender Studies)",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MFA",
-     "tier": "Primary",
-     "email": "gchesler@gmu.edu",
-     "profile_url": "https://wmst.gmu.edu/people/gchesler",
-     "match_percentage": 59
-    },
-    {
-     "name": "Miller, David J.",
-     "title": "Senior Instructor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BSc, MAIS",
-     "tier": "Primary",
-     "email": "dmillef@gmu.edu",
-     "profile_url": "https://communication.gmu.edu/people/dmillef",
+     "email": "mgebril@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/mgebril",
      "match_percentage": 50
     },
     {
-     "name": "Greenberg, Nathaniel",
-     "title": "Associate Professor of Arabic",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MA, PhD",
+     "name": "Jaffer, Jamil",
+     "title": "Assistant Professor of Law; Founder and Executive Director",
+     "college": "Law",
+     "credentials": "BA, JD, MA",
      "tier": "Primary",
-     "email": "ngreenbe@gmu.edu",
-     "profile_url": "https://mcl.gmu.edu/people/ngreenbe",
-     "match_percentage": 41
+     "email": "jjaffer@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
+     "match_percentage": 50
     },
     {
-     "name": "Landsberg, Alison",
-     "title": "Professor",
-     "college": "Humanities & Social Sciences",
-     "credentials": "BA, MA, PhD",
+     "name": "Durant, Liza W.",
+     "title": "Associate Dean for Strategic Initiatives and Community Engagement and Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
      "tier": "Primary",
-     "email": "alandsb1@gmu.edu",
-     "profile_url": "https://historyarthistory.gmu.edu/people/alandsb1",
-     "match_percentage": 41
+     "email": null,
+     "profile_url": "https://cec.gmu.edu/profiles/ldurant2",
+     "match_percentage": 42
     }
    ],
-   "category": "Technology"
+   "category": "Foreign Policy & Security"
   }
  ]
 }

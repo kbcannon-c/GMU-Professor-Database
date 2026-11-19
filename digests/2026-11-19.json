@@ -1,0 +1,148 @@
+{
+ "generated_at": "2026-11-19T19:21:53.549383+00:00",
+ "headline_count": 2,
+ "summary": "2 stories today, led by coverage of Politics & Government and Foreign Policy & Security.",
+ "items": [
+  {
+   "title": "Hakeem Jeffries on brink of House history as he tells Democrats to \u2018fight Maga, not each other\u2019 \u2013 US politics live",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+   "tags": [
+    "Elections & Voting",
+    "Congress & Legislation",
+    "Russia & Ukraine",
+    "Presidency & Executive Branch"
+   ],
+   "sources": [
+    "BBC",
+    "NPR",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 4,
+   "experts": [
+    {
+     "name": "Staklo, Vadim",
+     "title": "Associate Professor, European History",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "vstaklo@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/vstaklo",
+     "match_percentage": 54
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 54
+    },
+    {
+     "name": "Jaffer, Jamil",
+     "title": "Assistant Professor of Law; Founder and Executive Director",
+     "college": "Law",
+     "credentials": "BA, JD, MA",
+     "tier": "Primary",
+     "email": "jjaffer@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
+     "match_percentage": 45
+    },
+    {
+     "name": "Geloso, Vincent J.",
+     "title": "Assistant Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BS, MA, PhD",
+     "tier": "Primary",
+     "email": "vgeloso@gmu.edu",
+     "profile_url": "https://economics.gmu.edu/people/vgeloso",
+     "match_percentage": 44
+    },
+    {
+     "name": "Martinelli, Cesar",
+     "title": "Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MS, PhD",
+     "tier": "Primary",
+     "email": "cmarti33@gmu.edu",
+     "profile_url": "https://economics.gmu.edu/people/cmarti33",
+     "match_percentage": 44
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "China could exploit US technology to threaten American forces, congressional watchdog leaders warn",
+   "link": "https://www.foxnews.com/world/china-could-exploit-us-technology-threaten-american-forces-congressional-watchdog-leaders-warn",
+   "tags": [
+    "China & U.S.-China Relations",
+    "Defense & Military Policy",
+    "Artificial Intelligence Policy & Ethics",
+    "Cybersecurity (Consumer & Corporate)"
+   ],
+   "sources": [
+    "Ars Technica",
+    "BBC",
+    "Fox News",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 5,
+   "experts": [
+    {
+     "name": "Kirkpatrick, Jesse",
+     "title": "Research Associate Professor, Philosophy",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BS, PhD",
+     "tier": "Primary",
+     "email": "jkirkpat@gmu.edu",
+     "profile_url": "https://philosophy.gmu.edu/people/jkirkpat",
+     "match_percentage": 68
+    },
+    {
+     "name": "Wijesekera, Duminda",
+     "title": "Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BSc, MS, PhD",
+     "tier": "Primary",
+     "email": "dwijesek@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/dwijesek",
+     "match_percentage": 59
+    },
+    {
+     "name": "Gebril, Mohamed",
+     "title": "Associate Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": "mgebril@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/mgebril",
+     "match_percentage": 50
+    },
+    {
+     "name": "Jaffer, Jamil",
+     "title": "Assistant Professor of Law; Founder and Executive Director",
+     "college": "Law",
+     "credentials": "BA, JD, MA",
+     "tier": "Primary",
+     "email": "jjaffer@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
+     "match_percentage": 50
+    },
+    {
+     "name": "Durant, Liza W.",
+     "title": "Associate Dean for Strategic Initiatives and Community Engagement and Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://cec.gmu.edu/profiles/ldurant2",
+     "match_percentage": 42
+    }
+   ],
+   "category": "Foreign Policy & Security"
+  }
+ ]
+}
