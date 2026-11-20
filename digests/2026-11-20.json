@@ -1,0 +1,278 @@
+{
+ "generated_at": "2026-11-20T18:58:01.821989+00:00",
+ "headline_count": 4,
+ "summary": "4 stories today, led by coverage of Politics & Government and Foreign Policy & Security.",
+ "items": [
+  {
+   "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
+   "link": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
+   "tags": [
+    "Congress & Legislation",
+    "Defense & Military Policy",
+    "Elections & Voting",
+    "Presidency & Executive Branch"
+   ],
+   "sources": [
+    "BBC",
+    "NPR",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Jaffer, Jamil",
+     "title": "Assistant Professor of Law; Founder and Executive Director",
+     "college": "Law",
+     "credentials": "BA, JD, MA",
+     "tier": "Primary",
+     "email": "jjaffer@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
+     "match_percentage": 56
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 52
+    },
+    {
+     "name": "Dueck, Colin",
+     "title": "Professor",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/cdueck",
+     "match_percentage": 48
+    },
+    {
+     "name": "Zhang, Ketian",
+     "title": "Associate Professor",
+     "college": "Policy & Gov",
+     "credentials": "BA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/kzhang20",
+     "match_percentage": 48
+    },
+    {
+     "name": "Lucia Liu, Huwy-min",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://soan.gmu.edu/people/hliu27",
+     "match_percentage": 39
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "US Senate approves bill to speed up permitting reviews for energy projects and datacenters",
+   "link": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
+   "tags": [
+    "Congress & Legislation",
+    "Climate Change & Policy",
+    "Energy Policy",
+    "Social Media & Disinformation"
+   ],
+   "sources": [
+    "NPR",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Huang, Liling",
+     "title": "Associate Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": "lhuang20@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/lhuang20",
+     "match_percentage": 48
+    },
+    {
+     "name": "Henneman, Lucas",
+     "title": "Assistant Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": "lhennem@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/lhennem",
+     "match_percentage": 48
+    },
+    {
+     "name": "Kim, Sojung",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://communication.gmu.edu/people/skim205",
+     "match_percentage": 39
+    },
+    {
+     "name": "Maibach, Edward Wile",
+     "title": "Distinguished University Professor (Emeritus)",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, PhD, MPH",
+     "tier": "Primary",
+     "email": "emaibach@gmu.edu",
+     "profile_url": "https://communication.gmu.edu/people/emaibach",
+     "match_percentage": 35
+    },
+    {
+     "name": "Maibach, Edward",
+     "title": "University Professor and Director of Center for Climate Change Communication",
+     "college": "Science",
+     "credentials": "BA, MPH, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://science.gmu.edu/directory/edward-maibach",
+     "match_percentage": 35
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Anthropic shares slump on second day of trading as markets reel from AI sell-off",
+   "link": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+   "tags": [
+    "China & U.S.-China Relations",
+    "Asia-Pacific & Korea Affairs"
+   ],
+   "sources": [
+    "NPR",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Son, Byunghwan",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "bson3@gmu.edu",
+     "profile_url": "https://globalaffairs.gmu.edu/people/bson3",
+     "match_percentage": 50
+    },
+    {
+     "name": "Jung, Young A.",
+     "title": "Korean Graduate Advisor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "MA, PhD",
+     "tier": "Primary",
+     "email": "yjung3@gmu.edu",
+     "profile_url": "https://mcl.gmu.edu/people/yjung3",
+     "match_percentage": 50
+    },
+    {
+     "name": "Lee, Gyu Tag",
+     "title": "Professor, Global Affairs (Mason Korea)",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "gleeg@gmu.edu",
+     "profile_url": "https://globalaffairs.gmu.edu/people/gleeg",
+     "match_percentage": 50
+    },
+    {
+     "name": "Zhang, Ketian",
+     "title": "Associate Professor",
+     "college": "Policy & Gov",
+     "credentials": "BA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/kzhang20",
+     "match_percentage": 50
+    },
+    {
+     "name": "Lucia Liu, Huwy-min",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://soan.gmu.edu/people/hliu27",
+     "match_percentage": 32
+    }
+   ],
+   "category": "Foreign Policy & Security"
+  },
+  {
+   "title": "Fired White House press secretary Katie Zacharia under California state bar investigation",
+   "link": "https://www.theguardian.com/us-news/2026/nov/20/katie-zacharia-california-bar-investigation",
+   "tags": [
+    "Presidency & Executive Branch"
+   ],
+   "sources": [
+    "BBC",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Jaffer, Jamil",
+     "title": "Assistant Professor of Law; Founder and Executive Director",
+     "college": "Law",
+     "credentials": "BA, JD, MA",
+     "tier": "Primary",
+     "email": "jjaffer@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
+     "match_percentage": 91
+    },
+    {
+     "name": "Buckley, Francis",
+     "title": "George Mason University Foundation Professor of Law",
+     "college": "Law",
+     "credentials": "BA, LLB, LLM",
+     "tier": "Primary",
+     "email": "fbuckley@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/buckley_francis",
+     "match_percentage": 82
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 82
+    },
+    {
+     "name": "Dueck, Colin",
+     "title": "Professor",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/cdueck",
+     "match_percentage": 74
+    },
+    {
+     "name": "Lund, Nelson",
+     "title": "Distinguished University Professor",
+     "college": "Law",
+     "credentials": "BA, MA, PhD, JD",
+     "tier": "Secondary",
+     "email": "nlund@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/lund_nelson",
+     "match_percentage": 65
+    }
+   ],
+   "category": "Politics & Government"
+  }
+ ]
+}
