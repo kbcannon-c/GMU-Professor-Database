@@ -1,0 +1,212 @@
+{
+ "generated_at": "2026-11-24T20:59:37.286396+00:00",
+ "headline_count": 3,
+ "summary": "3 stories today, led by coverage of Politics & Government.",
+ "items": [
+  {
+   "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+   "link": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
+   "tags": [
+    "State & Local Government",
+    "Defense & Military Policy",
+    "Social Media & Disinformation"
+   ],
+   "sources": [
+    "Ars Technica",
+    "BBC",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 4,
+   "experts": [
+    {
+     "name": "Holton, Anne",
+     "title": "Professor of Education",
+     "college": "Ed & Human Development",
+     "credentials": "JD",
+     "tier": "Primary",
+     "email": "aholton2@gmu.edu",
+     "profile_url": "https://cehd.gmu.edu/people/faculty/aholton2/",
+     "match_percentage": 57
+    },
+    {
+     "name": "Kim, Sojung",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://communication.gmu.edu/people/skim205",
+     "match_percentage": 57
+    },
+    {
+     "name": "Karmegam, Sabari Rajan",
+     "title": "Assistant Professor of Information Systems and Operations Management. BE 2002",
+     "college": "Business",
+     "credentials": "MBA, PhD",
+     "tier": "Primary",
+     "email": "skarmega@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/skarmega",
+     "match_percentage": 39
+    },
+    {
+     "name": "Nowzari, Cameron",
+     "title": "Associate Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": "cnowzari@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/cnowzari",
+     "match_percentage": 39
+    },
+    {
+     "name": "Greenberg, Nathaniel",
+     "title": "Associate Professor of Arabic",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "ngreenbe@gmu.edu",
+     "profile_url": "https://mcl.gmu.edu/people/ngreenbe",
+     "match_percentage": 39
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Trump\u2019s DoJ \u2018looked into\u2019 concerns about Huang after affair with suspected Chinese spy but says no security risk found \u2013 live",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+   "tags": [
+    "State & Local Government",
+    "Cybersecurity (Consumer & Corporate)"
+   ],
+   "sources": [
+    "Ars Technica",
+    "BBC",
+    "NPR",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 5,
+   "experts": [
+    {
+     "name": "Durant, Liza W.",
+     "title": "Associate Dean for Strategic Initiatives and Community Engagement and Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://cec.gmu.edu/profiles/ldurant2",
+     "match_percentage": 68
+    },
+    {
+     "name": "Gang, Isaac",
+     "title": "Associate Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 68
+    },
+    {
+     "name": "Jaffer, Jamil",
+     "title": "Assistant Professor of Law; Founder and Executive Director",
+     "college": "Law",
+     "credentials": "BA, JD, MA",
+     "tier": "Primary",
+     "email": "jjaffer@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
+     "match_percentage": 68
+    },
+    {
+     "name": "Greenwood, Brad",
+     "title": "Professor of Information Systems and Operations Management",
+     "college": "Business",
+     "credentials": "BS, MBA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 59
+    },
+    {
+     "name": "McAuliffe, Terence",
+     "title": "Distinguished Visiting Professor of Practice",
+     "college": "Policy & Gov",
+     "credentials": "BA, JD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mcauliffe",
+     "match_percentage": 59
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "Storms targeting both US coasts threaten to snarl Thanksgiving travel for millions",
+   "link": "https://www.bbc.co.uk/weather/articles/c5742nplemnno?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "State & Local Government",
+    "Extreme Weather & Natural Disasters"
+   ],
+   "sources": [
+    "BBC",
+    "NPR",
+    "The Guardian"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Moller Ferreira, Celso",
+     "title": "Professor",
+     "college": "Engineering & Computing",
+     "credentials": "MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 68
+    },
+    {
+     "name": "Holton, Anne",
+     "title": "Professor of Education",
+     "college": "Ed & Human Development",
+     "credentials": "JD",
+     "tier": "Primary",
+     "email": "aholton2@gmu.edu",
+     "profile_url": "https://cehd.gmu.edu/people/faculty/aholton2/",
+     "match_percentage": 32
+    },
+    {
+     "name": "Lattanzi, David A.",
+     "title": "Associate Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://cec.gmu.edu/profiles/dlattanz",
+     "match_percentage": 32
+    },
+    {
+     "name": "McAuliffe, Terence",
+     "title": "Distinguished Visiting Professor of Practice",
+     "college": "Policy & Gov",
+     "credentials": "BA, JD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mcauliffe",
+     "match_percentage": 32
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 32
+    }
+   ],
+   "category": "Politics & Government"
+  }
+ ]
+}
