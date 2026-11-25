@@ -1,24 +1,171 @@
 {
- "generated_at": "2026-11-24T20:59:37.286396+00:00",
- "headline_count": 3,
- "summary": "3 stories today, led by coverage of Politics & Government.",
+ "generated_at": "2026-11-25T20:22:58.139170+00:00",
+ "headline_count": 4,
+ "summary": "4 stories today, led by coverage of Politics & Government, Health & Science, and Arts, Media & Culture.",
  "items": [
   {
-   "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
-   "link": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
+   "title": "Kilmar \u00c1brego Garc\u00eda, target of Trump\u2019s immigration crackdown, lands in Spain after \u2018leaving happy\u2019",
+   "link": "https://www.theguardian.com/us-news/2026/nov/25/kilmar-abrego-garcia-spain",
    "tags": [
-    "State & Local Government",
-    "Defense & Military Policy",
-    "Social Media & Disinformation"
+    "Immigration Law & Policy",
+    "Presidency & Executive Branch",
+    "Supreme Court & Constitutional Law",
+    "Privacy & Surveillance Law"
    ],
    "sources": [
-    "Ars Technica",
     "BBC",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Jaffer, Jamil",
+     "title": "Assistant Professor of Law; Founder and Executive Director",
+     "college": "Law",
+     "credentials": "BA, JD, MA",
+     "tier": "Primary",
+     "email": "jjaffer@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
+     "match_percentage": 65
+    },
+    {
+     "name": "Buckley, Francis",
+     "title": "George Mason University Foundation Professor of Law",
+     "college": "Law",
+     "credentials": "BA, LLB, LLM",
+     "tier": "Primary",
+     "email": "fbuckley@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/buckley_francis",
+     "match_percentage": 52
+    },
+    {
+     "name": "Hirsch, Susan F.",
+     "title": "Professor Emerita of Conflict Resolution and Anthropology, Carter School",
+     "college": "Peace & Conflict",
+     "credentials": null,
+     "tier": "Primary",
+     "email": "shirsch4@gmu.edu",
+     "profile_url": "https://carterschool.gmu.edu/profiles/shirsch4",
+     "match_percentage": 48
+    },
+    {
+     "name": "Cengiz, Mahmut",
+     "title": "Research Associate Professor",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, MIS, PhD",
+     "tier": "Primary",
+     "email": "mcengiz@gmu.edu",
+     "profile_url": "https://schar.gmu.edu/profiles/gmu.edu/profiles/mcengiz",
+     "match_percentage": 48
+    },
+    {
+     "name": "Shelley, Louise I.",
+     "title": "Distinguished University Professor Emerita, and Omer L. and Nancy Hirst Chair Emerita",
+     "college": "Policy & Gov",
+     "credentials": null,
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 48
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "US Army calls Iowa lead detonation a \u2018huge success\u2019 and says threat of spontaneous explosions has been \u2018eliminated\u2019 \u2013 as it happened",
+   "link": "https://www.theguardian.com/us-news/live/2026/nov/25/iowa-lead-azide-detonation-army-explosion-bomb-live-updates",
+   "tags": [
+    "Public Health & Pandemic Preparedness",
+    "State & Local Government",
+    "Defense & Military Policy"
+   ],
+   "sources": [
+    "BBC",
+    "NPR",
     "The Guardian",
     "The New York Times"
    ],
    "source_count": 4,
    "experts": [
+    {
+     "name": "McCue-Weil, Leigh",
+     "title": "Professor and Department Chair",
+     "college": "Engineering & Computing",
+     "credentials": "BSE, MSE, PhD",
+     "tier": "Primary",
+     "email": "lmccuewe@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/lmccuewe",
+     "match_percentage": 48
+    },
+    {
+     "name": "Lair, Meredith H.",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, PhD",
+     "tier": "Primary",
+     "email": "mlair@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/mlair",
+     "match_percentage": 48
+    },
+    {
+     "name": "Popescu, Saskia",
+     "title": "Adjunct Faculty",
+     "college": "Policy & Gov",
+     "credentials": null,
+     "tier": "Primary",
+     "email": "spopesc2@gmu.edu",
+     "profile_url": "https://schar.gmu.edu/profiles/spopesc2",
+     "match_percentage": 48
+    },
+    {
+     "name": "Roess, Amira",
+     "title": "Professor",
+     "college": "Public Health",
+     "credentials": "PhD, MPH",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://publichealth.gmu.edu/profiles/aroess",
+     "match_percentage": 48
+    },
+    {
+     "name": "Maibach, Edward",
+     "title": "University Professor and Director of Center for Climate Change Communication",
+     "college": "Science",
+     "credentials": "BA, MPH, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://science.gmu.edu/directory/edward-maibach",
+     "match_percentage": 48
+    }
+   ],
+   "category": "Health & Science"
+  },
+  {
+   "title": "'This could be apocalyptic' - a community hunkers down for US Army's controlled explosion",
+   "link": "https://www.bbc.co.uk/news/articles/cqg7l5zx4edeo?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "State & Local Government"
+   ],
+   "sources": [
+    "Ars Technica",
+    "BBC",
+    "Fox News",
+    "NPR",
+    "The New York Times"
+   ],
+   "source_count": 5,
+   "experts": [
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 74
+    },
     {
      "name": "Holton, Anne",
      "title": "Professor of Education",
@@ -27,37 +174,93 @@
      "tier": "Primary",
      "email": "aholton2@gmu.edu",
      "profile_url": "https://cehd.gmu.edu/people/faculty/aholton2/",
-     "match_percentage": 57
+     "match_percentage": 65
     },
     {
-     "name": "Kim, Sojung",
-     "title": "Associate Professor",
+     "name": "McAuliffe, Terence",
+     "title": "Distinguished Visiting Professor of Practice",
+     "college": "Policy & Gov",
+     "credentials": "BA, JD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mcauliffe",
+     "match_percentage": 65
+    },
+    {
+     "name": "Shahrokhi, Farnoosh",
+     "title": "Associate Professor of Education",
+     "college": "Ed & Human Development",
+     "credentials": "EdD",
+     "tier": "Secondary",
+     "email": "fshahrok@gmu.edu",
+     "profile_url": "https://cehd.gmu.edu/people/faculty/fshahrokhi/",
+     "match_percentage": 65
+    },
+    {
+     "name": "Marshall, Maureen E.",
+     "title": "Assistant Professor of Education",
+     "college": "Ed & Human Development",
+     "credentials": "EdD",
+     "tier": "Secondary",
+     "email": null,
+     "profile_url": "https://cehd.gmu.edu/people/faculty/mmarsh22/",
+     "match_percentage": 65
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "This popular Eddie Bauer blanket is down to just $18 for Black Friday \u2014 that's 47% off",
+   "link": "https://www.foxnews.com/deals/eddie-bauer-blanket-deal",
+   "tags": [
+    "Film"
+   ],
+   "sources": [
+    "Fox News",
+    "NPR",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Chesler, G.",
+     "title": "Professor, Film and Video Studies (affiliate faculty, Women and Gender Studies)",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MFA",
+     "tier": "Primary",
+     "email": "gchesler@gmu.edu",
+     "profile_url": "https://wmst.gmu.edu/people/gchesler",
+     "match_percentage": 82
+    },
+    {
+     "name": "Monea, Alexander",
+     "title": "Associate Professor of Digital Humanities",
      "college": "Humanities & Social Sciences",
      "credentials": "BA, MA, PhD",
      "tier": "Primary",
-     "email": null,
-     "profile_url": "https://communication.gmu.edu/people/skim205",
-     "match_percentage": 57
+     "email": "amonea@gmu.edu",
+     "profile_url": "https://english.gmu.edu/people/amonea",
+     "match_percentage": 74
     },
     {
-     "name": "Karmegam, Sabari Rajan",
-     "title": "Assistant Professor of Information Systems and Operations Management. BE 2002",
-     "college": "Business",
-     "credentials": "MBA, PhD",
+     "name": "Rippy, Marguerite",
+     "title": "Associate Dean of Graduate Academic Affairs",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
      "tier": "Primary",
-     "email": "skarmega@gmu.edu",
-     "profile_url": "https://business.gmu.edu/profiles/skarmega",
-     "match_percentage": 39
+     "email": "mrippy2@gmu.edu",
+     "profile_url": "https://english.gmu.edu/people/mrippy2",
+     "match_percentage": 74
     },
     {
-     "name": "Nowzari, Cameron",
-     "title": "Associate Professor",
-     "college": "Engineering & Computing",
-     "credentials": "BS, MS, PhD",
+     "name": "Miller, David J.",
+     "title": "Senior Instructor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BSc, MAIS",
      "tier": "Primary",
-     "email": "cnowzari@gmu.edu",
-     "profile_url": "https://cec.gmu.edu/profiles/cnowzari",
-     "match_percentage": 39
+     "email": "dmillef@gmu.edu",
+     "profile_url": "https://communication.gmu.edu/people/dmillef",
+     "match_percentage": 74
     },
     {
      "name": "Greenberg, Nathaniel",
@@ -67,146 +270,10 @@
      "tier": "Primary",
      "email": "ngreenbe@gmu.edu",
      "profile_url": "https://mcl.gmu.edu/people/ngreenbe",
-     "match_percentage": 39
+     "match_percentage": 65
     }
    ],
-   "category": "Politics & Government"
-  },
-  {
-   "title": "Trump\u2019s DoJ \u2018looked into\u2019 concerns about Huang after affair with suspected Chinese spy but says no security risk found \u2013 live",
-   "link": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
-   "tags": [
-    "State & Local Government",
-    "Cybersecurity (Consumer & Corporate)"
-   ],
-   "sources": [
-    "Ars Technica",
-    "BBC",
-    "NPR",
-    "The Guardian",
-    "The New York Times"
-   ],
-   "source_count": 5,
-   "experts": [
-    {
-     "name": "Durant, Liza W.",
-     "title": "Associate Dean for Strategic Initiatives and Community Engagement and Professor",
-     "college": "Engineering & Computing",
-     "credentials": "BS, MS, PhD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://cec.gmu.edu/profiles/ldurant2",
-     "match_percentage": 68
-    },
-    {
-     "name": "Gang, Isaac",
-     "title": "Associate Professor",
-     "college": "Engineering & Computing",
-     "credentials": "BS, MS, PhD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": null,
-     "match_percentage": 68
-    },
-    {
-     "name": "Jaffer, Jamil",
-     "title": "Assistant Professor of Law; Founder and Executive Director",
-     "college": "Law",
-     "credentials": "BA, JD, MA",
-     "tier": "Primary",
-     "email": "jjaffer@gmu.edu",
-     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
-     "match_percentage": 68
-    },
-    {
-     "name": "Greenwood, Brad",
-     "title": "Professor of Information Systems and Operations Management",
-     "college": "Business",
-     "credentials": "BS, MBA, PhD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": null,
-     "match_percentage": 59
-    },
-    {
-     "name": "McAuliffe, Terence",
-     "title": "Distinguished Visiting Professor of Practice",
-     "college": "Policy & Gov",
-     "credentials": "BA, JD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://schar.gmu.edu/profiles/mcauliffe",
-     "match_percentage": 59
-    }
-   ],
-   "category": "Politics & Government"
-  },
-  {
-   "title": "Storms targeting both US coasts threaten to snarl Thanksgiving travel for millions",
-   "link": "https://www.bbc.co.uk/weather/articles/c5742nplemnno?at_medium=RSS&at_campaign=rss",
-   "tags": [
-    "State & Local Government",
-    "Extreme Weather & Natural Disasters"
-   ],
-   "sources": [
-    "BBC",
-    "NPR",
-    "The Guardian"
-   ],
-   "source_count": 3,
-   "experts": [
-    {
-     "name": "Moller Ferreira, Celso",
-     "title": "Professor",
-     "college": "Engineering & Computing",
-     "credentials": "MS, PhD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": null,
-     "match_percentage": 68
-    },
-    {
-     "name": "Holton, Anne",
-     "title": "Professor of Education",
-     "college": "Ed & Human Development",
-     "credentials": "JD",
-     "tier": "Primary",
-     "email": "aholton2@gmu.edu",
-     "profile_url": "https://cehd.gmu.edu/people/faculty/aholton2/",
-     "match_percentage": 32
-    },
-    {
-     "name": "Lattanzi, David A.",
-     "title": "Associate Professor",
-     "college": "Engineering & Computing",
-     "credentials": "BS, MS, PhD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://cec.gmu.edu/profiles/dlattanz",
-     "match_percentage": 32
-    },
-    {
-     "name": "McAuliffe, Terence",
-     "title": "Distinguished Visiting Professor of Practice",
-     "college": "Policy & Gov",
-     "credentials": "BA, JD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://schar.gmu.edu/profiles/mcauliffe",
-     "match_percentage": 32
-    },
-    {
-     "name": "Rozell, Mark",
-     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
-     "college": "Policy & Gov",
-     "credentials": "BA, MA, PhD",
-     "tier": "Primary",
-     "email": null,
-     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
-     "match_percentage": 32
-    }
-   ],
-   "category": "Politics & Government"
+   "category": "Arts, Media & Culture"
   }
  ]
 }
