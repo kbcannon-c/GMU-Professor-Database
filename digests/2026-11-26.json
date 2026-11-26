@@ -1,0 +1,277 @@
+{
+ "generated_at": "2026-11-26T19:59:24.993606+00:00",
+ "headline_count": 4,
+ "summary": "4 stories today, led by coverage of Politics & Government, Foreign Policy & Security, and Arts, Media & Culture.",
+ "items": [
+  {
+   "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+   "link": "https://www.npr.org/2026/11/26/g-s1-155940/fcc-spacex-satellites-data-centers-in-space",
+   "tags": [
+    "Presidency & Executive Branch",
+    "Artificial Intelligence Policy & Ethics",
+    "Social Media & Disinformation"
+   ],
+   "sources": [
+    "BBC",
+    "NPR",
+    "The Guardian"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Kim, Sojung",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://communication.gmu.edu/people/skim205",
+     "match_percentage": 48
+    },
+    {
+     "name": "Chen, Long",
+     "title": "Associate Professor of Accounting",
+     "college": "Business",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 39
+    },
+    {
+     "name": "Karmegam, Sabari Rajan",
+     "title": "Assistant Professor of Information Systems and Operations Management. BE 2002",
+     "college": "Business",
+     "credentials": "MBA, PhD",
+     "tier": "Primary",
+     "email": "skarmega@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/skarmega",
+     "match_percentage": 39
+    },
+    {
+     "name": "Plotnick, Jeremy",
+     "title": "Instructional Assistant Professor of Business Foundations",
+     "college": "Business",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "jplotnic@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/jplotnic",
+     "match_percentage": 39
+    },
+    {
+     "name": "Ray, Abhishek",
+     "title": "Assistant Professor of Information Systems and Operations Management. B. Tech 2007",
+     "college": "Business",
+     "credentials": "MBA, MS, PhD",
+     "tier": "Primary",
+     "email": "aray8@gmu.edu",
+     "profile_url": "https://business.gmu.edu/profiles/aray8",
+     "match_percentage": 39
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel",
+   "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+   "tags": [
+    "State & Local Government",
+    "Extreme Weather & Natural Disasters"
+   ],
+   "sources": [
+    "BBC",
+    "NPR",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 4,
+   "experts": [
+    {
+     "name": "Moller Ferreira, Celso",
+     "title": "Professor",
+     "college": "Engineering & Computing",
+     "credentials": "MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 68
+    },
+    {
+     "name": "McAuliffe, Terence",
+     "title": "Distinguished Visiting Professor of Practice",
+     "college": "Policy & Gov",
+     "credentials": "BA, JD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mcauliffe",
+     "match_percentage": 50
+    },
+    {
+     "name": "Rozell, Mark",
+     "title": "Dean and Professor of Public Policy; Ruth D. Hazel and John T. Hazel",
+     "college": "Policy & Gov",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://schar.gmu.edu/profiles/mrozell",
+     "match_percentage": 50
+    },
+    {
+     "name": "Holton, Anne",
+     "title": "Professor of Education",
+     "college": "Ed & Human Development",
+     "credentials": "JD",
+     "tier": "Primary",
+     "email": "aholton2@gmu.edu",
+     "profile_url": "https://cehd.gmu.edu/people/faculty/aholton2/",
+     "match_percentage": 32
+    },
+    {
+     "name": "Lattanzi, David A.",
+     "title": "Associate Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://cec.gmu.edu/profiles/dlattanz",
+     "match_percentage": 32
+    }
+   ],
+   "category": "Politics & Government"
+  },
+  {
+   "title": "US army calls detonation of bomb chemicals in Iowa a success after fears of toxic plume",
+   "link": "https://www.theguardian.com/us-news/2026/nov/26/iowa-chemical-lead-bomb-detonation-toxic-dust-fears",
+   "tags": [
+    "Defense & Military Policy",
+    "Social Media & Disinformation"
+   ],
+   "sources": [
+    "BBC",
+    "NPR",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 4,
+   "experts": [
+    {
+     "name": "Kim, Sojung",
+     "title": "Associate Professor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://communication.gmu.edu/people/skim205",
+     "match_percentage": 68
+    },
+    {
+     "name": "Jaffer, Jamil",
+     "title": "Assistant Professor of Law; Founder and Executive Director",
+     "college": "Law",
+     "credentials": "BA, JD, MA",
+     "tier": "Primary",
+     "email": "jjaffer@gmu.edu",
+     "profile_url": "https://law.gmu.edu/directory/profiles/jaffer_jamil_n",
+     "match_percentage": 59
+    },
+    {
+     "name": "Nowzari, Cameron",
+     "title": "Associate Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": "cnowzari@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/cnowzari",
+     "match_percentage": 50
+    },
+    {
+     "name": "Wage, Kathleen E.",
+     "title": "Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://cec.gmu.edu/profiles/kwage",
+     "match_percentage": 50
+    },
+    {
+     "name": "McCue-Weil, Leigh",
+     "title": "Professor and Department Chair",
+     "college": "Engineering & Computing",
+     "credentials": "BSE, MSE, PhD",
+     "tier": "Primary",
+     "email": "lmccuewe@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/lmccuewe",
+     "match_percentage": 50
+    }
+   ],
+   "category": "Foreign Policy & Security"
+  },
+  {
+   "title": "Jack Nicholson\u2019s son Ray admits he and his reclusive dad \u2018can\u2019t talk about a lot\u2019",
+   "link": "https://www.foxnews.com/entertainment/jack-nicholson-son-ray-admits-he-reclusive-dad-cant-talk-about-lot",
+   "tags": [
+    "Film"
+   ],
+   "sources": [
+    "Fox News",
+    "NPR",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Chesler, G.",
+     "title": "Professor, Film and Video Studies (affiliate faculty, Women and Gender Studies)",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MFA",
+     "tier": "Primary",
+     "email": "gchesler@gmu.edu",
+     "profile_url": "https://wmst.gmu.edu/people/gchesler",
+     "match_percentage": 100
+    },
+    {
+     "name": "Koch, Lisa",
+     "title": "Professor, Literature",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "lkoch@gmu.edu",
+     "profile_url": "https://english.gmu.edu/people/lkoch",
+     "match_percentage": 91
+    },
+    {
+     "name": "Greenberg, Nathaniel",
+     "title": "Associate Professor of Arabic",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "ngreenbe@gmu.edu",
+     "profile_url": "https://mcl.gmu.edu/people/ngreenbe",
+     "match_percentage": 82
+    },
+    {
+     "name": "Reed, Daniel",
+     "title": "Instructor",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BS, MPS",
+     "tier": "Primary",
+     "email": "dreed21@gmu.edu",
+     "profile_url": "https://communication.gmu.edu/people/dreed21",
+     "match_percentage": 82
+    },
+    {
+     "name": "Fuchs, Cynthia",
+     "title": "Professor",
+     "college": "Visual & Performance Art",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": "https://cvpa.gmu.edu/profiles/cfuchs",
+     "match_percentage": 82
+    }
+   ],
+   "category": "Arts, Media & Culture"
+  }
+ ]
+}
