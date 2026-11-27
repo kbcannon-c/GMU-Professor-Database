@@ -1,0 +1,113 @@
+{
+ "generated_at": "2026-11-27T19:48:41.155439+00:00",
+ "headline_count": 2,
+ "summary": "2 stories today, led by coverage of Climate & Environment and Economy & Business.",
+ "items": [
+  {
+   "title": "From Thanksgiving blackouts to Black Friday, a holiday hit by wild weather and economic woes",
+   "link": "https://www.npr.org/2026/11/27/nx-s1-6054884/thanksgiving-weather-black-friday",
+   "tags": [
+    "Climate Change & Policy",
+    "Extreme Weather & Natural Disasters",
+    "History & Historical Scholarship"
+   ],
+   "sources": [
+    "Ars Technica",
+    "BBC",
+    "NPR",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 5,
+   "experts": [
+    {
+     "name": "Moller Ferreira, Celso",
+     "title": "Professor",
+     "college": "Engineering & Computing",
+     "credentials": "MS, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 78
+    },
+    {
+     "name": "Henneman, Lucas",
+     "title": "Assistant Professor",
+     "college": "Engineering & Computing",
+     "credentials": "BS, MS, PhD",
+     "tier": "Primary",
+     "email": "lhennem@gmu.edu",
+     "profile_url": "https://cec.gmu.edu/profiles/lhennem",
+     "match_percentage": 48
+    },
+    {
+     "name": "Craig, Richard T.",
+     "title": "Associate Professor and",
+     "college": "Humanities & Social Sciences",
+     "credentials": "MA, BA, PhD",
+     "tier": "Primary",
+     "email": "rcraig@gmu.edu",
+     "profile_url": "https://communication.gmu.edu/people/rcraig",
+     "match_percentage": 48
+    },
+    {
+     "name": "Zagarri, Rosemarie",
+     "title": "University Professor of History",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": "rzagarri@gmu.edu",
+     "profile_url": "https://historyarthistory.gmu.edu/people/rzagarri",
+     "match_percentage": 48
+    },
+    {
+     "name": "Maibach, Edward Wile",
+     "title": "Distinguished University Professor (Emeritus)",
+     "college": "Humanities & Social Sciences",
+     "credentials": "BA, PhD, MPH",
+     "tier": "Primary",
+     "email": "emaibach@gmu.edu",
+     "profile_url": "https://communication.gmu.edu/people/emaibach",
+     "match_percentage": 48
+    }
+   ],
+   "category": "Climate & Environment"
+  },
+  {
+   "title": "Can Borussia Dortmund finally end their title wait? Three big questions for Bundesliga leaders",
+   "link": "https://www.theguardian.com/football/2026/nov/27/borussia-dortmund-bundesliga",
+   "tags": [
+    "Corporate Social Responsibility & Sustainability"
+   ],
+   "sources": [
+    "Ars Technica",
+    "The Guardian",
+    "The New York Times"
+   ],
+   "source_count": 3,
+   "experts": [
+    {
+     "name": "Gring-Pemble, Lisa",
+     "title": "Associate Professor of Business Foundations",
+     "college": "Business",
+     "credentials": "BA, MA, PhD",
+     "tier": "Primary",
+     "email": null,
+     "profile_url": null,
+     "match_percentage": 74
+    },
+    {
+     "name": "Gring-Pemble, Lisa",
+     "title": "Associate Professor, School of Business (affiliate, Communication)",
+     "college": "Humanities & Social Sciences",
+     "credentials": "PhD",
+     "tier": "Primary",
+     "email": "lgringpe@gmu.edu",
+     "profile_url": "https://communication.gmu.edu/people/lgringpe",
+     "match_percentage": 74
+    }
+   ],
+   "category": "Economy & Business"
+  }
+ ]
+}
